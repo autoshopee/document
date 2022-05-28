@@ -12,19 +12,19 @@ Video hướng dẫn
 
 Bạn cần có một khung sản phẩm trước khi bắt đầu xem hướng dẫn này
 
-{% content-ref url="tao-khung-rieng.md" %}
-[tao-khung-rieng.md](tao-khung-rieng.md)
+{% content-ref url="cap-nhat-khung/tao-khung-rieng.md" %}
+[tao-khung-rieng.md](cap-nhat-khung/tao-khung-rieng.md)
 {% endcontent-ref %}
 
 ## 1) Chọn Sản phẩm
 
 ![Menu Chức năng > Sản Phẩm](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MgV0FZZTwTQwlMCjc86%2Fuploads%2FCrhGxkEsZGqtqWPCbYkB%2Ffile.png?alt=media)
 
-![Chọn Shop  > Tìm sản phẩm > Chọn sản phẩm > Chỉnh ảnh hàng loạt](<../../../.gitbook/assets/image (37).png>)
+![Chọn Shop  > Tìm sản phẩm > Chọn sản phẩm > Chỉnh ảnh hàng loạt](<../../.gitbook/assets/image (37).png>)
 
 ## **2) Chọn khung sản phẩm**
 
-![Chọn Khung > Nhấp vào ảnh > Tải khung lên > Đóng khung mới](<../../../.gitbook/assets/image (38).png>)
+![Chọn Khung > Nhấp vào ảnh > Tải khung lên > Đóng khung mới](<../../.gitbook/assets/image (38).png>)
 
 ## **3) Đóng khung sản phẩm**
 

@@ -24,10 +24,6 @@ Bạn dễ dàng đồng sản phẩm từ Shopee sang các sàn **Lazada** ho�
 
 ![](<.gitbook/assets/image (313).png>)
 
-![Sao chép sản phẩm sang Sendo Lazada Tiktok](<.gitbook/assets/image (276).png>)
-
-![Shopee sang TiktokShop](<.gitbook/assets/image (267).png>)
-
 {% content-ref url="autoshopee/shopee-tiktok.md" %}
 [shopee-tiktok.md](autoshopee/shopee-tiktok.md)
 {% endcontent-ref %}

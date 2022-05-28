@@ -6,7 +6,7 @@ description: Mở quyền truy cập Teamview
 
 Cho phép TeamViewer có quyền truy cập trong **System Preferences**. Mở **System Preferences**
 
-![](<../../../.gitbook/assets/image (238).png>)
+![](<../../.gitbook/assets/image (238).png>)
 
 Nhấp vào **Security & Privacy**
 

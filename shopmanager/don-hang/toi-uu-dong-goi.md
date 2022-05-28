@@ -52,6 +52,6 @@ Bạn đối soát lại các mã đơn đã đóng gói với phần mềm, đ�
 
 Xem hướng dẫn ở đây
 
-{% content-ref url="theo-doi-don-bang-tag.md" %}
-[theo-doi-don-bang-tag.md](theo-doi-don-bang-tag.md)
+{% content-ref url="the-tag-don-hang/theo-doi-don-bang-tag.md" %}
+[theo-doi-don-bang-tag.md](the-tag-don-hang/theo-doi-don-bang-tag.md)
 {% endcontent-ref %}

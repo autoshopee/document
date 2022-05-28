@@ -10,8 +10,8 @@ description: Công cụ hỗ trợ sao chép, cập nhật sản phẩm trên Sh
 [sao-chep-and-nhan-ban.md](sao-chep-and-nhan-ban.md)
 {% endcontent-ref %}
 
-{% content-ref url="cap-nhat-khung/" %}
-[cap-nhat-khung](cap-nhat-khung/)
+{% content-ref url="cap-nhat-khung.md" %}
+[cap-nhat-khung.md](cap-nhat-khung.md)
 {% endcontent-ref %}
 
 {% content-ref url="dong-bo-nhieu-shop.md" %}

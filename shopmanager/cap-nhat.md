@@ -61,8 +61,8 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 * [x] Cải thiện Chat tập trung (Gửi mẫu tin nhắn, Voucher, Sản phẩm, Xem đơn hàng)
 * [x] Gửi tin nhắn nhanh
 
-{% content-ref url="../quan-ly/tin-nhan-tap-trung.md" %}
-[tin-nhan-tap-trung.md](../quan-ly/tin-nhan-tap-trung.md)
+{% content-ref url="quan-ly/tin-nhan-tap-trung.md" %}
+[tin-nhan-tap-trung.md](quan-ly/tin-nhan-tap-trung.md)
 {% endcontent-ref %}
 
 ## v2.95 (10-09-2021)
@@ -88,12 +88,12 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 * [x] Phân tích sản phẩm (từ khoá, ngành hàng, thương hiệu)
 * [x] Bộ lọc ĐVVC trên đơn hàng
 
-{% content-ref url="../don-hang/toi-uu-dong-goi.md" %}
-[toi-uu-dong-goi.md](../don-hang/toi-uu-dong-goi.md)
+{% content-ref url="don-hang/toi-uu-dong-goi.md" %}
+[toi-uu-dong-goi.md](don-hang/toi-uu-dong-goi.md)
 {% endcontent-ref %}
 
-{% content-ref url="../san-pham/phan-tich-and-thong-ke.md" %}
-[phan-tich-and-thong-ke.md](../san-pham/phan-tich-and-thong-ke.md)
+{% content-ref url="san-pham/phan-tich-and-thong-ke.md" %}
+[phan-tich-and-thong-ke.md](san-pham/phan-tich-and-thong-ke.md)
 {% endcontent-ref %}
 
 ## v2.94 (18-08-2021)
