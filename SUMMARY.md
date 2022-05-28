@@ -1,0 +1,82 @@
+# Table of contents
+
+* [💡 Giới thiệu](README.md)
+* [💰 Bảng giá](bang-gia.md)
+* [📞 Liên hệ](lien-he.md)
+
+## 📗 Shop Manager (\*) <a href="#shopmanager" id="shopmanager"></a>
+
+* [⚙ Cài đặt](shopmanager/cai-dat.md)
+* [🖥 Quản lý](shopmanager/quan-ly/README.md)
+  * [Thêm Shop](shopmanager/quan-ly/them-shop.md)
+  * [Xoá Shop](shopmanager/quan-ly/xoa-shop.md)
+  * [Chat tập trung](shopmanager/quan-ly/tin-nhan-tap-trung.md)
+  * [Tuỳ chỉnh thêm](shopmanager/quan-ly/cac-chuc-nang-phu.md)
+* [📦 Sản phẩm](shopmanager/san-pham/README.md)
+  * [Sao chép & nhân bản](shopmanager/san-pham/sao-chep-and-nhan-ban.md)
+  * [Cập nhật khung](shopmanager/san-pham/cap-nhat-khung/README.md)
+    * [Tạo khung riêng](shopmanager/san-pham/cap-nhat-khung/tao-khung-rieng.md)
+  * [Đồng bộ nhiều Shop](shopmanager/san-pham/dong-bo-nhieu-shop.md)
+  * [Phân tích & Thống kê](shopmanager/san-pham/phan-tich-and-thong-ke.md)
+* [🛒 Đơn hàng](shopmanager/don-hang/README.md)
+  * [Chuẩn bị đơn hàng loạt](shopmanager/don-hang/chuan-bi-don-hang-loat.md)
+  * [In đơn hàng loạt](shopmanager/don-hang/in-don-hang-loat.md)
+  * [Đối soát hàng hoàn](shopmanager/don-hang/doi-soat-hang-hoan.md)
+  * [Tối ưu đóng gói](shopmanager/don-hang/toi-uu-dong-goi.md)
+  * [Xuất Excel](shopmanager/don-hang/xuat-excel.md)
+  * [Thẻ Tag](shopmanager/don-hang/theo-doi-don-bang-tag.md)
+* [👩💼 Khách hàng](shopmanager/khach-hang/README.md)
+  * [Chăm sóc & trả lời tự động](shopmanager/khach-hang/cham-soc-and-tra-loi-tu-dong.md)
+  * [Gửi tin nhắn Remarketing](shopmanager/khach-hang/gui-tin-nhan-remarketing.md)
+* [⚓ Nâng cao](shopmanager/nang-cao/README.md)
+  * [⛱ Cập nhật](shopmanager/nang-cao/cap-nhat.md)
+  * [In đơn](shopmanager/nang-cao/in-don.md)
+  * [Proxy hệ thống](shopmanager/nang-cao/proxy-he-thong.md)
+  * [Proxy Private](shopmanager/nang-cao/proxy-private.md)
+
+## 📙 AutoShopee
+
+* [🔝 Đẩy sản phẩm](autoshopee/day-san-pham.md)
+* [🔔 Thông báo đơn hàng](autoshopee/thong-bao-don-hang/README.md)
+  * [Facebook](autoshopee/thong-bao-don-hang/facebook.md)
+  * [Telegram](autoshopee/thong-bao-don-hang/telegram.md)
+* [⚡ Sao chép Sendo](autoshopee/sao-chep-sendo/README.md)
+  * [Shopee => Sendo](autoshopee/sao-chep-sendo/shopee-sendo.md)
+  * [Sendo => Sendo](autoshopee/sao-chep-sendo/sendo-sendo.md)
+* [📣 Sao chép Shopee => Lazada](autoshopee/shopee-lazada.md)
+* [🔥 Sao chép Shopee => Tiktok](autoshopee/shopee-tiktok.md)
+
+## 📘 Subcheo
+
+* [👉 Sử dụng](subcheo/su-dung/README.md)
+  * [Giới thiệu](subcheo/su-dung/cai-dat.md)
+  * [Thêm tài khoản chính](subcheo/su-dung/them-tai-khoan-chinh.md)
+  * [Thêm tài khoản phụ](subcheo/su-dung/them-tai-khoan-phu.md)
+
+## 📒 Extension
+
+* [👉 Sử dụng](extension/su-dung/README.md)
+  * [🖥 Cài đặt](extension/su-dung/cai-dat.md)
+  * [🎁 Sao chép sản phẩm](extension/su-dung/sao-chep-san-pham.md)
+  * [🎞 Sao chép Video](extension/su-dung/sao-chep-video.md)
+  * [🚀 Sao chép Tiktok & Lazada](extension/su-dung/sao-chep-tiktok-and-lazada.md)
+  * [🎬 Tải ảnh & Video](extension/su-dung/tai-anh-and-video.md)
+
+## ❌ Xử lý lỗi
+
+* [Shopee](xu-ly-loi/shopee/README.md)
+  * [Sao chép](xu-ly-loi/shopee/sao-chep.md)
+  * [Tắt OTP](xu-ly-loi/shopee/tat-otp.md)
+  * [Gỡ Captcha](xu-ly-loi/shopee/go-captcha.md)
+* [Windows / MacOS](xu-ly-loi/windows-macos/README.md)
+  * [MacOs](xu-ly-loi/windows-macos/macos/README.md)
+    * [Teamview & Anydesk](xu-ly-loi/windows-macos/macos/teamview-and-anydesk.md)
+    * [In gộp đơn Shopee](xu-ly-loi/windows-macos/macos/in-gop-don-shopee.md)
+    * [Unidentified Developer](xu-ly-loi/windows-macos/macos/unidentified-developer.md)
+  * [Windows](xu-ly-loi/windows-macos/windows/README.md)
+    * [Maximum call stack size](xu-ly-loi/windows-macos/windows/loi-maximum-call-stack-size.md)
+
+***
+
+* [🎬 Youtube](https://www.youtube.com/channel/UCgWEVdjVbHY95L\_5few8wsQ)
+* [🔗 Facebook](https://www.facebook.com/toolautoshopee)

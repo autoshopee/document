@@ -1,0 +1,190 @@
+<div class="border_bottom_dashed" id="div_header" style="width:100%">
+    <table cellpadding="0" cellspacing="0" style="width:100%">
+        <tr>
+            <td id="td_2_row">
+                <div>
+                    <img src="{{image.shopee}}" />
+                </div>
+            </td>
+            <td id="td_2_row">
+                <div>
+                    <img src="{{image.tracking_number_barcode}}" />
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <img src="{{image.logistics}}" />
+                </div>
+            </td>
+            <td>
+                <div>
+                    <span>
+                        {{fulfillment_carrier_name}}:
+                    </span>
+                    <b style="font-size: 130%;">
+                        {{tracking_number}}
+                    </b>
+                </div>
+                <div>
+                    <span>
+                        Mã đơn hàng:
+                    </span>
+                    <b style="font-size: 110%;">
+                        {{order_sn}}
+                    </b>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<div class="border_bottom_dashed" id="div_address">
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td id="td_2_row">
+                <div>
+                    <b>
+                        Từ
+                    </b>
+                </div>
+            </td>
+            <td id="td_2_row">
+                <div>
+                    <b>
+                        Đến
+                    </b>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td id="td_margin">
+                <div>
+                    {{seller_address.name}}
+                </div>
+            </td>
+            <td id="td_margin">
+                <div>
+                    {{buyer_address_name}}
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td id="td_margin">
+                <div>
+                    <small>
+                        {{seller_address.address}}
+                    </small>
+                </div>
+            </td>
+            <td id="td_margin">
+                <div>
+                    <small>
+                        {{shipping_address}}
+                    </small>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <b>
+                        SĐT {{seller_address.phone}}
+                    </b>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <b>
+                        SĐT {{buyer_address_phone}}
+                    </b>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<div>
+    <table id="div_body" style="min-height: 380px;">
+        <tr>
+            <td rowspan="2" id="list_product">
+                <b>
+                    Nội dung hàng (SL: {{amount_total_items}})
+                </b>
+                <div>
+                    {{#each order_items}}
+                    <div style="margin-top:5px">
+                        <small>
+                            <b>[{{add @key 1}}]</b>
+                            <span>{{name}} ({{nameModel}})</span>
+                            <strong>(x{{amount}})</strong>
+                        </small>
+                    </div>
+                    {{/each}}
+                </div>
+                <p id="float_bottom">
+                    <i><small>Một số sản phẩm có thể bị ẩn do danh sách quá dài.</small></i>
+                </p>
+            </td>
+            <td id="sub_block">
+                <img src="{{image.tracking_number_qr}}" />
+            </td>
+        </tr>
+        <tr>
+            <td id="sub_block" style="border-bottom:none">
+                <span>Ngày đặt hàng</span>
+                <h2>
+                    {{time_order}}
+                </h2>
+            </td>
+        </tr>
+    </table>
+</div>
+<div class="border_top_soild" id="table_footer">
+    <table style="width:100%">
+        <tr>
+            <td rowspan="2" style="width:55%;vertical-align:top;padding-top:5px">
+                <div>
+                    Tiền thu Người nhận:
+                </div>
+                <h2 style="text-align:center">
+                    {{total}} VND
+                </h2>
+                <div>
+                    Chỉ dẫn giao hàng
+                </div>
+                <div>
+                    <ul>
+                        <li>Không đồng kiểm</li>
+                        <li>Chuyển hoàn sau 3 lần phát</li>
+                        <li>Lưu kho tối đa 5 ngày</li>
+                    </ul>
+                </div>
+            </td>
+            <td>
+                <div>Khối lượng tối đa: __</div>
+                <div>Phương thức thanh toán: __</div>
+                <div><b>Loại dịch vụ: __</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td id="sign_block" style="text-align:center;vertical-align:top;">
+                <div>
+                    <b>Chữ ký người nhận</b>
+                </div>
+                <div>
+                    Xác nhận hàng nguyên vẹn
+                </div>
+                <div>
+                    không móp/méo, bể/vỡ
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<div style="text-align:center ;vertical-align:top; border-top: 2px dashed #000; min-height:110px">
+    <h3>Quý khách vui lòng quay Video mở hàng và kiếm hàng</h3>
+    <b>
+        <p>"Từ khi kiện hàng còn nguyên vẹn"</p>
+        <p>Để làm bằng chứng đối chiếu và đền bù trong trường hợp đơn hàng có sai sót. Thank!</p>
+    </b>
+</div>
