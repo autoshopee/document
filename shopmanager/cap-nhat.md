@@ -4,6 +4,24 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 # ⛱ Cập nhật
 
+## v3.02 (01-06-2022)
+
+### \*) Sửa lỗi
+
+* [x] Đăng nhập tự động Lazada, Tiki, Sendo
+* [x] Theo dõi tin nhắn và đơn hàng Lazada & Tiki
+* [x] In mẫu mới Lazada
+* [x] Chuẩn bị và in đơn Shopee
+
+### \*) Bổ sung
+
+* [x] Shopee sao chép có khoảng thời gian chờ&#x20;
+* [x] Đóng khung phân loại sản phẩm Shopee
+* [x] Hỗ trợ kết nối database remote sql
+* [x] Bộ lọc đơn => đang giao chậm
+* [x] Theo dõi đơn hàng, tin nhắn, in đơn => Tiktok (mới)
+* [x] Shopee Tự động => Đánh dấu đã đọc và xoá các tin nhắn rác => Shopee (mới)
+
 ## v3.01 (01-04-2022)
 
 ### \*) Sửa lỗi
