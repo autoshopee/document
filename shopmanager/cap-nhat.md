@@ -4,7 +4,7 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 # ⛱ Cập nhật
 
-## v3.02 (01-06-2022)
+## v3.03 (01-06-2022)
 
 ### \*) Sửa lỗi
 
@@ -17,10 +17,9 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 * [x] Shopee sao chép có khoảng thời gian chờ&#x20;
 * [x] Đóng khung phân loại sản phẩm Shopee
-* [x] Hỗ trợ kết nối database remote sql
 * [x] Bộ lọc đơn => đang giao chậm
-* [x] Theo dõi đơn hàng, tin nhắn, in đơn => Tiktok (mới)
-* [x] Shopee Tự động => Đánh dấu đã đọc và xoá các tin nhắn rác => Shopee (mới)
+* [x] Tiktok => Theo dõi đơn hàng, tin nhắn, in đơn (mới)
+* [x] Shopee Tự động => Đánh dấu đã đọc và xoá các tin nhắn rác (mới)
 
 ## v3.01 (01-04-2022)
 
