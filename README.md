@@ -12,6 +12,12 @@ coverY: 56.38766519823788
 
 Bạn có thể sử dụng **ShopManager** để quản lý tin nhắn & đơn hàng nhiều tài khoản **Shopee, Lazada, Tiki, Sendo** cùng một lúc.
 
+* [x] Xử lý nhiều đơn hàng, nhiều Shop cùng một lúc
+* [x] In đơn nhiều Shop cùng một lúc
+* [x] Trả lời tin nhắn nhiều Shop cùn một màn hình
+* [x] Theo dõi trạng thái đơn hàng của từng Shop trên cùng một màn hình
+* [x] Theo dõi **đơn hoàn Shopee**
+
 ![](.gitbook/assets/shop\_manager.jpg)
 
 {% content-ref url="shopmanager/quan-ly/" %}
