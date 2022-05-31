@@ -17,6 +17,7 @@ Bạn có thể sử dụng **ShopManager** để quản lý tin nhắn & đơn 
 * [x] Trả lời tin nhắn nhiều Shop cùn một màn hình
 * [x] Theo dõi trạng thái đơn hàng của từng Shop trên cùng một màn hình
 * [x] Theo dõi **đơn hoàn Shopee**
+* [x] Hỗ trợ proxy tách riêng IP từng Shop
 
 ![](.gitbook/assets/shop\_manager.jpg)
 
