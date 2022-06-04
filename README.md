@@ -8,6 +8,10 @@ coverY: 56.38766519823788
 
 ![Mô hình hoạt động](<.gitbook/assets/image (187).png>)
 
+
+
+### [**Xem chi tiết tại đây MindMap**](https://www.mindmeister.com/maps/public\_map\_shell/2315158920)****
+
 ## 1) Quản lý tin nhắn đơn hàng nhiều Shop
 
 Bạn có thể sử dụng **ShopManager** để quản lý tin nhắn & đơn hàng nhiều tài khoản **Shopee, Lazada, Tiki, Sendo** cùng một lúc.
