@@ -10,7 +10,7 @@ coverY: 56.38766519823788
 
 
 
-### [**Xem chi tiết tại đây MindMap**](https://www.mindmeister.com/maps/public\_map\_shell/2315158920)****
+### ****[**Xem tổng quan các tính năng**](https://www.mindmeister.com/maps/public\_map\_shell/2315158920)
 
 ## 1) Quản lý tin nhắn đơn hàng nhiều Shop
 
