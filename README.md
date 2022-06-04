@@ -6,9 +6,13 @@ coverY: 56.38766519823788
 
 # 💡 Giới thiệu
 
-> 👉 **Xem chi tiết các tính năng tại đây**
+> 👉 **Xem chi tiết các tính năng**
 >
-> [https://www.mindmeister.com/maps/public\_map\_shell/2315158920](https://www.mindmeister.com/maps/public\_map\_shell/2315158920)
+> [https://bit.ly/autoshopee-map](https://bit.ly/autoshopee-map)
+>
+> 👉 **Xem bảng giá chi tiết**
+>
+> [https://bit.ly/autoshopee-bang-gia](https://bit.ly/autoshopee-bang-gia)
 
 ![Mô hình hoạt động](<.gitbook/assets/image (187).png>)
 
