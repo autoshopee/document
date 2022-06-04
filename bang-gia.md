@@ -13,9 +13,11 @@ coverY: 0
 * ShopManager
 * Extension Chrome & Firefox
 
-## [Xem bảng giá tại đây](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTB1qy4VtXmKrjqHNoVL92BhgHdo7hPuUPvl3SVB7nLtQNyrmhRkBmrUrvMfILqvjYcccLMdpaXy6kg/pubhtml?gid=378719236\&single=true):thumbsup:
+> 👉 Xem bảng giá chi tiết tại đây
+>
+> [https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml)
 
-{% embed url="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTB1qy4VtXmKrjqHNoVL92BhgHdo7hPuUPvl3SVB7nLtQNyrmhRkBmrUrvMfILqvjYcccLMdpaXy6kg/pubhtml?gid=378719236&single=true" %}
+{% embed url="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF_xv8i1NvmvKdS8XDPUdOO/pubhtml" %}
 
 {% hint style="info" %}
 **Cổng thanh toán dịch vụ** [https://payment.autoshopee.com](https://payment.autoshopee.com)

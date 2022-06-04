@@ -6,11 +6,11 @@ coverY: 56.38766519823788
 
 # 💡 Giới thiệu
 
+> 👉 **Xem chi tiết các tính năng tại đây**
+>
+> [https://www.mindmeister.com/maps/public\_map\_shell/2315158920](https://www.mindmeister.com/maps/public\_map\_shell/2315158920)
+
 ![Mô hình hoạt động](<.gitbook/assets/image (187).png>)
-
-
-
-### ****[**Xem tổng quan các tính năng**](https://www.mindmeister.com/maps/public\_map\_shell/2315158920)
 
 ## 1) Quản lý tin nhắn đơn hàng nhiều Shop
 
