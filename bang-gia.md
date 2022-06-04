@@ -15,7 +15,7 @@ coverY: 0
 
 > 👉 Xem bảng giá chi tiết tại đây
 >
-> [https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml)
+> [https://bit.ly/autoshopee-bang-gia](https://bit.ly/autoshopee-bang-gia)
 
 {% embed url="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF_xv8i1NvmvKdS8XDPUdOO/pubhtml" %}
 
