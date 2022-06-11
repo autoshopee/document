@@ -30,11 +30,11 @@ Bạn cần cài đặt Extension của AutoShopee
 
 
 
-Đăng nhập vào tài khoản Shopee bạn muốn lấy mã SPC\_F. Lưu lại mã này để sử dụng về sau
+**Đăng nhập vào tài khoản Shopee** bạn muốn lấy mã **SPC\_F**.
 
-![](<../../.gitbook/assets/image (256).png>)
+Mã SPC\_F chỉ hợp lệ khi bạn đã đăng nhập thành công tài khoản Shopee đó
 
+![Lấy mã SPC\_F](<../../.gitbook/assets/image (256).png>)
 
-
-
+Lưu lại mã SPC\_F này để sử dụng về sau
 
