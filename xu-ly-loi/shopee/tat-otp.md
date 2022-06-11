@@ -1,25 +1,40 @@
 ---
 description: >-
   Để phần mềm truy xuất vào tài khoản thì bạn cần tắt OTP Shopee để phần mềm
-  hoạt động (đây là yêu cầu bắt buộc
+  hoạt động
 ---
 
 # Tắt OTP
 
-## 1) Tắt OTP tài khoản
-
-![Thiết lập tài khoản > Tắt OTP](<../../.gitbook/assets/image (63).png>)
-
-## 2) Đăng một sản phẩm bất kì
-
 {% hint style="warning" %}
-Nếu Shop bạn đã có sản phẩm rồi thì có thể bỏ qua bước này, còn nếu tài khoản mới thì cần phải đăng ít nhất một sản phẩm
+Bắt đầu từ ngày 10/06/2022 Shopee đã chính thưc chặn không cho "Shop tự tăt OTP".
 {% endhint %}
 
-![Sản phẩm > Đăng sản phẩm](<../../.gitbook/assets/image (64).png>)
+## 1) Mã SPC\_F là gì
 
-> **Mẹo nhỏ** bạn có thể dùng Extension để sao chép sản phẩm (thay cho việc đăng sản phẩm)
+> \+ SPC\_F có thể hiểu là mã OTP vĩnh viễn, bạn có thể đăng nhập ở bất kì đâu mà không cần đến OTP
+>
+> \+ Mỗi tài khoản Shopee có một mã SPC\_F riêng, nên bạn cân lưu lại mã này để phòng trường hợp Sim bị lỗi
+>
+> \+ Mã SPC\_F được dùng mãi mãi và không có thời hạn sử dụng
 
-{% content-ref url="../../extension/su-dung/sao-chep-san-pham.md" %}
-[sao-chep-san-pham.md](../../extension/su-dung/sao-chep-san-pham.md)
-{% endcontent-ref %}
+## 2) Lấy mã SPC\_F
+
+Bạn cần cài đặt Extension của AutoShopee
+
+[https://chrome.google.com/webstore/search/autoshopee](https://chrome.google.com/webstore/search/autoshopee)
+
+{% embed url="https://chrome.google.com/webstore/search/autoshopee" %}
+
+![Cài đặt](<../../.gitbook/assets/image (271).png>)
+
+
+
+Đăng nhập vào tài khoản Shopee bạn muốn lấy mã SPC\_F. Lưu lại mã này để sử dụng về sau
+
+![](<../../.gitbook/assets/image (256).png>)
+
+
+
+
+

@@ -20,7 +20,7 @@ Nếu bạn muốn đồng SKU, cân nặng & kích thước từ Shopee sang La
 
 ## 1) Thêm Shop
 
-![Thêm Shop](<../.gitbook/assets/image (271).png>)
+![Thêm Shop](<../.gitbook/assets/image (271) (1).png>)
 
 ![Chọn Vietnam](<../.gitbook/assets/image (285).png>)
 
