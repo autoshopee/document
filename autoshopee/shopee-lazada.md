@@ -14,6 +14,8 @@ Bạn cần mua điểm sao chép sản phẩm trước sử dụng, với **chi
 Mua điểm ở đây [https://autoshopee.com/upgrade](https://autoshopee.com/upgrade)
 {% endhint %}
 
+![Mua điểm sao chép](<../.gitbook/assets/image (321).png>)
+
 {% hint style="warning" %}
 Nếu bạn muốn đồng SKU, cân nặng & kích thước từ Shopee sang Lazada. Liên hệ kĩ thuật để được hỗ trợ
 {% endhint %}
@@ -52,7 +54,7 @@ Dán **Link sản phẩm bạn vừa quét được ở Bước (3)** trên Shop
 
 Bạn cần cập nhật **thuộc tính** đầy đủ cho sản phẩm => để đạt điểm **xuất sắc** trên Lazada => sẽ là một trong những tiêu chí hiện thị Lazada
 
-![Thuộc tính trên Lazada](<../.gitbook/assets/image (321).png>)
+![Thuộc tính trên Lazada](<../.gitbook/assets/image (321) (1).png>)
 
 Riêng những <mark style="color:red;">thuộc tính (\*)</mark> bắt buộc để đăng sản phẩm
 

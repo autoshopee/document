@@ -14,6 +14,8 @@ Bạn cần mua điểm sao chép sản phẩm trước sử dụng, với **chi
 Mua điểm ở đây [https://autoshopee.com/upgrade](https://autoshopee.com/upgrade)
 {% endhint %}
 
+![Mua điểm sao chép](<../.gitbook/assets/image (265).png>)
+
 {% hint style="warning" %}
 Nếu bạn muốn đồng SKU, cân nặng & kích thước từ Shopee sang Lazada. Liên hệ kĩ thuật để được hỗ trợ
 {% endhint %}

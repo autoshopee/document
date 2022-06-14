@@ -32,7 +32,7 @@ Mua điểm ở đây [https://autoshopee.com/upgrade](https://autoshopee.com/up
 
 ![Chọn Việt Nam](<../../.gitbook/assets/image (320).png>)
 
-![Chọn Authorize](<../../.gitbook/assets/image (265).png>)
+![Chọn Authorize](<../../.gitbook/assets/image (265) (1).png>)
 
 ### b) Sao chép
 
