@@ -75,7 +75,7 @@ Bạn cũng có thể sửa thuộc tính cho từng sản phẩm để chính x
 
 ![Tạo chiến dịch đăng](<../.gitbook/assets/image (240).png>)
 
-![Bấm đăng sản phẩm và đợi](<../.gitbook/assets/image (288).png>)
+![Bấm đăng sản phẩm và đợi](<../.gitbook/assets/image (288) (1).png>)
 
 
 

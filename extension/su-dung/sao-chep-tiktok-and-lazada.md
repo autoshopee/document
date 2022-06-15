@@ -30,7 +30,7 @@ Mua điểm ở đây [https://autoshopee.com/upgrade](https://autoshopee.com/up
 
 ![Chọn thêm Shop](<../../.gitbook/assets/image (324).png>)
 
-![Chọn Việt Nam](<../../.gitbook/assets/image (320).png>)
+![Chọn Việt Nam](<../../.gitbook/assets/image (320) (1).png>)
 
 ![Chọn Authorize](<../../.gitbook/assets/image (265) (1).png>)
 
@@ -42,7 +42,7 @@ Tìm một sản phẩm trên Shopee bạn muốn sao chép
 
 ![Chọn Shop > Chọn Kho > Sao chép Ngay](<../../.gitbook/assets/image (269).png>)
 
-![Kết quả](<../../.gitbook/assets/image (319).png>)
+![Kết quả](<../../.gitbook/assets/image (319) (1).png>)
 
 ## 2) Sao chép Shopee => Lazada
 
@@ -50,7 +50,7 @@ Tìm một sản phẩm trên Shopee bạn muốn sao chép
 
 ![Thêm Shop](<../../.gitbook/assets/image (311).png>)
 
-![Nhâp thông tin tài khoản](<../../.gitbook/assets/image (297).png>)
+![Nhâp thông tin tài khoản](<../../.gitbook/assets/image (297) (1).png>)
 
 ### b) Sao chép
 
@@ -60,7 +60,7 @@ Tìm một sản phẩm trên Shopee bạn muốn sao chép
 
 ![Chọn Sao chép](<../../.gitbook/assets/image (264).png>)
 
-![Kết quả](<../../.gitbook/assets/image (274).png>)
+![Kết quả](<../../.gitbook/assets/image (274) (1).png>)
 
 
 

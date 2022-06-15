@@ -2,7 +2,24 @@
 description: Nhật kí cập nhật các phiên bản của ShopManager
 ---
 
-# ⛱ Cập nhật
+# Cập nhật
+
+
+
+## v3.04 (15-06-2022)
+
+### \*) Sửa lỗi
+
+* [x] Đăng nhập Shopee API
+
+### \*) Bổ sung
+
+* [x] Hỗ trợ đăng nhập Shopee OTP mới => bằng SPC\_F
+* [x] Thông báo đơn hàng, đơn hoàn, đơn hoả tốc, đơn huỷ => Tin nhắn => Facebook, Telegram
+
+{% content-ref url="nang-cao/kenh-thong-bao.md" %}
+[kenh-thong-bao.md](nang-cao/kenh-thong-bao.md)
+{% endcontent-ref %}
 
 ## v3.03 (01-06-2022)
 
