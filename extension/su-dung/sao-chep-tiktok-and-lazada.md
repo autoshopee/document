@@ -30,7 +30,7 @@ Mua điểm ở đây [https://autoshopee.com/upgrade](https://autoshopee.com/up
 
 ![Chọn thêm Shop](<../../.gitbook/assets/image (324).png>)
 
-![Chọn Việt Nam](<../../.gitbook/assets/image (320) (1).png>)
+![Chọn Việt Nam](<../../.gitbook/assets/image (320) (1) (1).png>)
 
 ![Chọn Authorize](<../../.gitbook/assets/image (265) (1).png>)
 

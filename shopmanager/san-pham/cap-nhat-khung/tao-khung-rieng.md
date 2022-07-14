@@ -24,6 +24,10 @@ Phần mềm thiết kể ảnh giống Canvas miễn phí
 
 ## 1) Tải khung gốc lên
 
+Chọn nền trong suốt
+
+![](<../../../.gitbook/assets/image (248).png>)
+
 Bạn chọn một khung mẫu mong muốn lên
 
 ![Tải khung mẫu](<../../../.gitbook/assets/image (278).png>)
@@ -47,3 +51,15 @@ Bạn chèn nội dung và màu sắc phù hợp
 ## 4) Xuất file
 
 ![Tải về ](<../../../.gitbook/assets/image (325).png>)
+
+## \*) Khung trắng Logo
+
+Nếu bạn không thích sử dụng khung viền, và chỉ hiển thị Logo của Shop thì bạn có thể theo hướng dẫn sau
+
+![Chọn nền trong suốt](<../../../.gitbook/assets/image (317).png>)
+
+Kéo thả Logo vào và điều chính vị trí mong muốn
+
+![](<../../../.gitbook/assets/image (320).png>)
+
+> Phần nền trong suốt sẽ là nơi để sản phẩm của bạn hiển thị, và Logo sẽ đè lên vị trí của sản phẩm.

@@ -11,7 +11,7 @@ description: Thông báo đơn hàng qua các kênh chat như Facebook Telegram
 * **Tê**n bạn đặt bất kì tên gì
 * **Chọn lấy ID** => Nhấn tạo
 
-![Chọn Lấy ID](<../../.gitbook/assets/image (320).png>)
+![Chọn Lấy ID](<../../.gitbook/assets/image (320) (1).png>)
 
 ![Bạn sẽ nhận được ID này từ Facebook](<../../.gitbook/assets/image (319).png>)
 
