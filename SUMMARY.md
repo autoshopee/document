@@ -66,6 +66,7 @@
 ## ❌ Xử lý lỗi
 
 * [Shopee](xu-ly-loi/shopee/README.md)
+  * [Thêm Shop](xu-ly-loi/shopee/them-shop.md)
   * [Sao chép](xu-ly-loi/shopee/sao-chep.md)
   * [Tắt OTP](xu-ly-loi/shopee/tat-otp.md)
   * [Gỡ Captcha](xu-ly-loi/shopee/go-captcha.md)
