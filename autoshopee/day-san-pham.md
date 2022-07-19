@@ -35,6 +35,11 @@ Shopee cho phép chúng ta đẩy 5 sản phẩm mỗi 4 tiếng, bạn có th�
 * 4 tiếng nữa sẽ đẩy từ 15->20
 * 4 tiếng nữa sẽ quay lại sản phẩm từ 1->5
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MgV0FZZTwTQwlMCjc86%2Fuploads%2FNzMHIpbD8aj88YlCB6G6%2Ffile.png?alt=media)
+Shop có thể chọn **Ghim sản phẩm.** Mỗi lần đẩy 4 tiếng sẽ gồm giới hạn tối đa 5 sản phẩm (bao gồm **Sản phẩm ghim** và **Sản phẩm không ghim**):
+
+1. _**Sản phẩm ghim**_** ** là sản phẩm sẽ luôn tự động được đẩy trong mỗi lượt đẩy
+2. _**Sản phẩm không ghim**_** ** (được ưu tiên sau sản phẩm ghim) sẽ được luân phiên trong giới hạn còn lại của mỗi lần đẩy;
+
+![Chọn sản phẩm Đẩy](<../.gitbook/assets/image (275).png>)
 
 > Vậy là xong bạn đã cài đặt đẩy sản phẩm thành công, và hệ thống sẽ tự động đẩy kể cả khi bạn tăt máy đi ngủ
