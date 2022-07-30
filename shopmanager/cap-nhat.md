@@ -13,6 +13,7 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 ### \*) Bổ sung
 
+* [x] Tìm kiếm và sao chép sản phẩm
 * [x] Sao chép sản phẩm => Chỉnh mức giá cố định
 * [x] Đối soát đơn hoàn thành => Đã thanh toán => Đối soát lệch hoặc dư
 
