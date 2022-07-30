@@ -10,8 +10,6 @@ coverY: 56.38766519823788
 >
 > [https://www.mindmeister.com/maps/public\_map\_shell/2315158920](https://www.mindmeister.com/maps/public\_map\_shell/2315158920)
 >
-> \-----------------------------------------------------------------------
->
 > 👉 **Xem bảng giá chi tiết**
 >
 > [https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml)

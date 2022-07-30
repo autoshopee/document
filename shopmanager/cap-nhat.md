@@ -4,7 +4,17 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 # Cập nhật
 
+## v3.05 (30-07-2022)
 
+### \*) Sửa lỗi
+
+* [x] Đăng nhập Shopee qua OTP
+* [x] Đăng nhập
+
+### \*) Bổ sung
+
+* [x] Sao chép sản phẩm => Chỉnh mức giá cố định
+* [x] Đối soát đơn hoàn thành => Đã thanh toán => Đối soát lệch hoặc dư
 
 ## v3.04 (15-06-2022)
 
