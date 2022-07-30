@@ -1,7 +1,5 @@
 ---
-description: >-
-  Sử dụng thẻ Tag để đánh dấu và lọc đơn hàng áp dụng cho các trường hơp (hàng
-  hoàn, đóng hàng ...)
+description: Sử dụng thẻ Tag để đánh dấu và lọc đơn hàng
 ---
 
 # Thẻ Tag
