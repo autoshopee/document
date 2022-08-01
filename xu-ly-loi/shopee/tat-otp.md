@@ -12,11 +12,7 @@ Bắt đầu từ ngày 10/06/2022 Shopee đã chính thưc chặn không cho "S
 
 ## 1) Mã SPC\_F là gì
 
-> \+ SPC\_F có thể hiểu là mã OTP vĩnh viễn, bạn có thể đăng nhập ở bất kì đâu mà không cần đến OTP
->
-> \+ Mỗi tài khoản Shopee có một mã SPC\_F riêng, nên bạn cân lưu lại mã này để phòng trường hợp Sim bị lỗi
->
-> \+ Mã SPC\_F được dùng mãi mãi và không có thời hạn sử dụng
+> SPC\_F có thể hiểu là mã OTP vĩnh viễn, bạn có thể đăng nhập ở bất kì đâu mà không cần đến OTP. Mã SPC\_F được dùng mãi mãi và không có thời hạn sử dụng
 
 ## 2) Lấy mã SPC\_F
 
@@ -30,11 +26,10 @@ Bạn cần cài đặt Extension của AutoShopee
 
 
 
-**Đăng nhập vào tài khoản Shopee** bạn muốn lấy mã **SPC\_F**.
+**Đăng nhập vào tài khoản Shopee** bạn muốn lấy mã **SPC\_F**
 
-Mã SPC\_F chỉ hợp lệ khi bạn đã đăng nhập thành công tài khoản Shopee đó
+![](../../.gitbook/assets/Screenshot\_1.png)
 
-![Lấy mã SPC\_F](<../../.gitbook/assets/image (256).png>)
+_Lưu lại mã SPC\_F này để sử dụng về sau_
 
-Lưu lại mã SPC\_F này để sử dụng về sau
-
+__
