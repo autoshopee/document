@@ -6,6 +6,8 @@ description: Sử dụng thẻ Tag để đánh dấu và lọc đơn hàng
 
 {% embed url="https://youtu.be/axEnP4CZ5FQ" %}
 
+![](<../../../.gitbook/assets/image (10).png>)
+
 ## 1) Thẻ Tag là gì
 
 Là một cách để đánh dấu đơn hàng, để tiện cho việc lọc, theo dõi đơn hàng.

@@ -8,7 +8,7 @@ description: >-
 
 ## 1) Cài đặt
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 ## 2) Lọc đơn
 
@@ -23,4 +23,4 @@ Lọc các đơn **Đã hoàn thành**
 
 ## 3) Xuât Excel
 
-![](<../../.gitbook/assets/image (144).png>)
+![](<../../.gitbook/assets/image (29).png>)

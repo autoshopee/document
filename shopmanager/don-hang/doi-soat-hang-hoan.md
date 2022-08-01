@@ -10,7 +10,7 @@ description: Công cụ giúp bạn đối soát và theo dõi các đơn hàng 
 
 ![](<../../.gitbook/assets/image (253).png>)
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
 ## 1) Lọc đơn đã hoàn trả
 

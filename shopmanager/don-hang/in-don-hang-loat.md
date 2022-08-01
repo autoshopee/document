@@ -8,13 +8,13 @@ description: In đơn PDF hàng loạt nhiều Shop cùng một lúc
 Để In đơn hàng loạt các đơn hàng phải ở trạng thái **Đã chuẩn bị**
 {% endhint %}
 
-![Menu chức năng > Đơn hàng](<../../.gitbook/assets/image (53) (1).png>)
+![Menu chức năng > Đơn hàng](<../../.gitbook/assets/image (53).png>)
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (55).png>)
 
 ## 1) Lọc các đơn hàng đã chuẩn bị
 
-![Trạng thái > Đã chuẩn bị > Lọc](<../../.gitbook/assets/image (55).png>)
+![Trạng thái > Đã chuẩn bị > Lọc](<../../.gitbook/assets/image (55) (1).png>)
 
 ![Chọn tất cả các đơn](<../../.gitbook/assets/image (56).png>)
 
@@ -24,7 +24,7 @@ description: In đơn PDF hàng loạt nhiều Shop cùng một lúc
 
 ## 3) In đơn ra máy In
 
-![Nhấn In đơn](<../../.gitbook/assets/image (58).png>)
+![Nhấn In đơn](<../../.gitbook/assets/image (58) (1).png>)
 
 ![Chỉnh các thông số In > Nhấn In](<../../.gitbook/assets/image (59).png>)
 
@@ -68,7 +68,7 @@ Mẫu in đơn 1
 Mẫu in đơn 2
 {% endfile %}
 
-![Mẫu 2](<../../.gitbook/assets/image (202) (1).png>)
+![Mẫu 2](<../../.gitbook/assets/image (202).png>)
 
 ![Mẫu 3 (có SKU)](<../../.gitbook/assets/image (221).png>)
 
