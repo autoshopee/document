@@ -10,6 +10,8 @@ description: Chuẩn bị các đơn hàng hàng loạt nhiều Shop cùng một
 
 ![Menu chức năng > Đơn hàng](<../../.gitbook/assets/image (48).png>)
 
+![](<../../.gitbook/assets/image (77).png>)
+
 ## 1) Lọc các đơn chưa chuẩn bị
 
 ![Trang thái > Chưa chuẩn bị > Lọc](<../../.gitbook/assets/image (49).png>)

@@ -10,6 +10,8 @@ description: Công cụ giúp bạn đối soát và theo dõi các đơn hàng 
 
 ![](<../../.gitbook/assets/image (253).png>)
 
+![](<../../.gitbook/assets/image (8).png>)
+
 ## 1) Lọc đơn đã hoàn trả
 
 Đây là các đơn mà Shopee báo là đã hoàn về kho của bạn (còn thực tế đã nhận chưa thì chủ Shop cần xác nhận lại một lần nữa)
