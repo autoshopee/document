@@ -4,6 +4,13 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 # Cập nhật
 
+## v3.06 (10-08-2022)
+
+### \*) Sửa lỗi
+
+* [x] Tìm sản phẩm Shopee
+* [x] Trả lời và đánh giá đơn hàn
+
 ## v3.05 (30-07-2022)
 
 ### \*) Sửa lỗi

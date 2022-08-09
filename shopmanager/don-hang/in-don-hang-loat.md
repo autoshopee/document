@@ -8,9 +8,9 @@ description: In đơn PDF hàng loạt nhiều Shop cùng một lúc
 Để In đơn hàng loạt các đơn hàng phải ở trạng thái **Đã chuẩn bị**
 {% endhint %}
 
-![Menu chức năng > Đơn hàng](<../../.gitbook/assets/image (53).png>)
+![Menu chức năng > Đơn hàng](<../../.gitbook/assets/image (53) (1).png>)
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (53).png>)
 
 ## 1) Lọc các đơn hàng đã chuẩn bị
 
@@ -24,7 +24,7 @@ description: In đơn PDF hàng loạt nhiều Shop cùng một lúc
 
 ## 3) In đơn ra máy In
 
-![Nhấn In đơn](<../../.gitbook/assets/image (58) (1).png>)
+![Nhấn In đơn](<../../.gitbook/assets/image (58).png>)
 
 ![Chỉnh các thông số In > Nhấn In](<../../.gitbook/assets/image (59).png>)
 

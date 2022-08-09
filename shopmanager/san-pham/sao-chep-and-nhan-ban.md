@@ -21,13 +21,13 @@ Video hướng dẫn
 * **Quét link sản phẩm của bạn**: Sẽ lấy được SKU và cân nặng từ shop gốc của bạn
 * **Quét link sản phẩm của shop khác**: Không thể lấy đc SKU nên hệ thống sẽ tự tạo một SKU, và sử dụng cân nặng mặc định (100gram)
 
-![](<../../.gitbook/assets/image (28) (1).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
 ## 2) Chọn Shop và Chọn Sản phẩm
 
 Cho phép chọn nhiều Shop khi sao chép
 
-![](<../../.gitbook/assets/image (29) (1).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
 ## 3) Chỉnh sửa tiêu đề, mô tả, giá, đổi MD5, đóng khung
 
@@ -43,6 +43,6 @@ Bạn có thể sủa tiêu đề, giá,mô tả (nếu muốn)
 
 ## 4) Sao chép và đợi hoàn thành
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (33) (1).png>)
 
 ![](<../../.gitbook/assets/image (32).png>)
