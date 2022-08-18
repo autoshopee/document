@@ -20,4 +20,4 @@ Truy cập vào trang\*\* Hồ sơ tài khoản \*\*trên Autoshopee
 
 ![Thông báo đã kết nối](<../../.gitbook/assets/image (93).png>)
 
-![Kết quả](<../../.gitbook/assets/image (94) (1).png>)
+![Kết quả](<../../.gitbook/assets/image (94).png>)

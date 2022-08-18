@@ -16,8 +16,8 @@ Các tài khoản Shopee cần tắt OTP trước khi thêm vào phần mềm
 [go-captcha.md](../../xu-ly-loi/shopee/go-captcha.md)
 {% endcontent-ref %}
 
-![Bấm vào nút thêm Shop](<../../.gitbook/assets/image (13).png>)
+![Bấm vào nút thêm Shop](<../../.gitbook/assets/image (13) (1).png>)
 
 ![Chọn nền tảng](<../../.gitbook/assets/image (12).png>)
 
-![Điền thông tin và thêm Shop](<../../.gitbook/assets/image (15).png>)
+![Điền thông tin và thêm Shop](<../../.gitbook/assets/image (15) (1).png>)

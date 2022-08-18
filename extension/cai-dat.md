@@ -10,7 +10,7 @@ description: >-
 
 > **Tải ở đây** [https://chrome.google.com/webstore/search/autoshopee](https://chrome.google.com/webstore/search/autoshopee)
 
-![Chọn Autoshopee](<../.gitbook/assets/image (1).png>)
+![Chọn Autoshopee](<../.gitbook/assets/image (1) (1).png>)
 
 ![Thêm vào Chrome](<../.gitbook/assets/image (2).png>)
 
@@ -20,11 +20,11 @@ description: >-
 
 > **Tải ở đây** [https://addons.mozilla.org/en-US/firefox/addon/autoshopee](https://addons.mozilla.org/en-US/firefox/addon/autoshopee/)
 
-![Bấm thêm vào FireFox](<../.gitbook/assets/image (5).png>)
+![Bấm thêm vào FireFox](<../.gitbook/assets/image (5) (1).png>)
 
 ![Thêm công cụ > Tuỳ biến thanh công cụ](<../.gitbook/assets/image (6).png>)
 
-![Kéo thả Icon AutoShopee vào vị trí bất kì](<../.gitbook/assets/image (7).png>)
+![Kéo thả Icon AutoShopee vào vị trí bất kì](<../.gitbook/assets/image (7) (1).png>)
 
 ![Sử dụng tài khoản AutoShopee để đăng nhập](<../.gitbook/assets/image (8) (1).png>)
 

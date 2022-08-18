@@ -20,6 +20,18 @@ Mua điểm ở đây [https://autoshopee.com/upgrade](https://autoshopee.com/up
 Nếu bạn muốn đồng SKU, cân nặng & kích thước từ Shopee sang Lazada. Liên hệ kĩ thuật để được hỗ trợ
 {% endhint %}
 
+## \*) Sao chép qua Extension
+
+Nếu bạn chỉ có nhu cầu sao chép 1-2 sản phẩm thì có thể sử dụng Extension để thao tác nhanh hơn (trong 1 click chuột)
+
+![](<../.gitbook/assets/image (1).png>)
+
+{% content-ref url="../extension/su-dung/sao-chep-tiktok-and-lazada.md" %}
+[sao-chep-tiktok-and-lazada.md](../extension/su-dung/sao-chep-tiktok-and-lazada.md)
+{% endcontent-ref %}
+
+Nếu bạn sao chép nhiều sản phẩm thì theo hướng dẫn bên dưới
+
 ## 1) Thêm Shop
 
 ![Thêm Shop](<../.gitbook/assets/image (271) (1).png>)

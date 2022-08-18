@@ -43,6 +43,6 @@ Bạn có thể sủa tiêu đề, giá,mô tả (nếu muốn)
 
 ## 4) Sao chép và đợi hoàn thành
 
-![](<../../.gitbook/assets/image (33) (1).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 ![](<../../.gitbook/assets/image (32).png>)

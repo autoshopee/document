@@ -9,7 +9,7 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 ### \*) Sửa lỗi
 
 * [x] Tìm sản phẩm Shopee
-* [x] Trả lời và đánh giá đơn hàn
+* [x] Trả lời và đánh giá đơn hàng
 
 ## v3.05 (30-07-2022)
 
