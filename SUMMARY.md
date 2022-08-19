@@ -43,7 +43,7 @@
   * [Facebook](autoshopee/thong-bao-don-hang/thong-bao-facebook.md)
   * [Telegram](autoshopee/thong-bao-don-hang/thong-bao-telegram.md)
 * [🧰 Sao chép đa sàn](autoshopee/sao-chep-da-san/README.md)
-  * [Shopee=> Tiktok](autoshopee/sao-chep-da-san/shopee-tiktok.md)
+  * [Shopee => Tiktok](autoshopee/sao-chep-da-san/shopee-tiktok.md)
   * [Shopee => Lazada](autoshopee/sao-chep-da-san/shopee-lazada.md)
   * [Shopee => Sendo](autoshopee/sao-chep-da-san/shopee-sendo.md)
   * [Sendo => Sendo](autoshopee/sao-chep-da-san/sendo-sendo.md)
