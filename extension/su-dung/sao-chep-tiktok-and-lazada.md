@@ -10,12 +10,12 @@ Extension áp dụng thuận tiện khi bạn muốn sao chép từng (1-2) sả
 Nhưng nếu muốn sao chép hàng loạt nguyên một Shop thì có thể áp dụng theo cách bên dưới
 {% endhint %}
 
-{% content-ref url="../../autoshopee/shopee-tiktok.md" %}
-[shopee-tiktok.md](../../autoshopee/shopee-tiktok.md)
+{% content-ref url="../../autoshopee/sao-chep-da-san/shopee-tiktok.md" %}
+[shopee-tiktok.md](../../autoshopee/sao-chep-da-san/shopee-tiktok.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../autoshopee/shopee-lazada.md" %}
-[shopee-lazada.md](../../autoshopee/shopee-lazada.md)
+{% content-ref url="../../autoshopee/sao-chep-da-san/shopee-lazada.md" %}
+[shopee-lazada.md](../../autoshopee/sao-chep-da-san/shopee-lazada.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}
@@ -70,10 +70,10 @@ Vậy là xong chỉ trong vài Click là bạn đã đồng bộ sản phẩm t
 
 Nếu bạn muốn sao chép hàng loạt nguyên một Shop thì theo hướng dẫn sau nhé
 
-{% content-ref url="../../autoshopee/shopee-tiktok.md" %}
-[shopee-tiktok.md](../../autoshopee/shopee-tiktok.md)
+{% content-ref url="../../autoshopee/sao-chep-da-san/shopee-tiktok.md" %}
+[shopee-tiktok.md](../../autoshopee/sao-chep-da-san/shopee-tiktok.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../autoshopee/shopee-lazada.md" %}
-[shopee-lazada.md](../../autoshopee/shopee-lazada.md)
+{% content-ref url="../../autoshopee/sao-chep-da-san/shopee-lazada.md" %}
+[shopee-lazada.md](../../autoshopee/sao-chep-da-san/shopee-lazada.md)
 {% endcontent-ref %}

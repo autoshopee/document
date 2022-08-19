@@ -42,11 +42,11 @@
 * [🔔 Thông báo đơn hàng](autoshopee/thong-bao-don-hang/README.md)
   * [Facebook](autoshopee/thong-bao-don-hang/thong-bao-facebook.md)
   * [Telegram](autoshopee/thong-bao-don-hang/thong-bao-telegram.md)
-* [⚡ Sao chép Sendo](autoshopee/sao-chep-sendo/README.md)
-  * [Shopee => Sendo](autoshopee/sao-chep-sendo/tu-shopee.md)
-  * [Sendo => Sendo](autoshopee/sao-chep-sendo/tu-sendo.md)
-* [📣 Sao chép Shopee => Lazada](autoshopee/shopee-lazada.md)
-* [🔥 Sao chép Shopee => Tiktok](autoshopee/shopee-tiktok.md)
+* [🧰 Sao chép đa sàn](autoshopee/sao-chep-da-san/README.md)
+  * [Shopee=> Tiktok](autoshopee/sao-chep-da-san/shopee-tiktok.md)
+  * [Shopee => Lazada](autoshopee/sao-chep-da-san/shopee-lazada.md)
+  * [Shopee => Sendo](autoshopee/sao-chep-da-san/shopee-sendo.md)
+  * [Sendo => Sendo](autoshopee/sao-chep-da-san/sendo-sendo.md)
 
 ## 📘 Subcheo
 
