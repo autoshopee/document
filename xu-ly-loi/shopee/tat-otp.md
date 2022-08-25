@@ -16,20 +16,10 @@ Bắt đầu từ ngày 10/06/2022 Shopee đã chính thưc chặn không cho "S
 
 ## 2) Lấy mã SPC\_F
 
-Bạn cần cài đặt Extension của AutoShopee
+Xem Video hướng dẫn
 
-[https://chrome.google.com/webstore/search/autoshopee](https://chrome.google.com/webstore/search/autoshopee)
+{% embed url="https://www.youtube.com/watch?v=yCB8GoLqk6M" %}
+Video hướng dẫn
+{% endembed %}
 
-{% embed url="https://chrome.google.com/webstore/search/autoshopee" %}
-
-![Cài đặt](<../../.gitbook/assets/image (271).png>)
-
-
-
-**Đăng nhập vào tài khoản Shopee** bạn muốn lấy mã **SPC\_F**
-
-![](../../.gitbook/assets/Screenshot\_1.png)
-
-_Lưu lại mã SPC\_F này để sử dụng về sau_
-
-__
+{% embed url="https://blog.autoshopee.com/cach-dang-nhap-tai-khoan-vuot-otp/" %}
