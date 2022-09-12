@@ -8,7 +8,7 @@ description: >-
 
 ## Quản lý theo từng Tab
 
-![Cài đặt > Bật quản lý theo từng Tab > Lưu cài đặt](<../../.gitbook/assets/image (24).png>)
+![Cài đặt > Bật quản lý theo từng Tab > Lưu cài đặt](<../../.gitbook/assets/image (24) (1).png>)
 
 ![Kết quả](<../../.gitbook/assets/image (25).png>)
 
