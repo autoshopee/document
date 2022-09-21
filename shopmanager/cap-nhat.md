@@ -4,6 +4,24 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 # Cập nhật
 
+## v3.07 (22-0792022)
+
+### \*) Sửa lỗi
+
+* [x] Đăng nhập Lazada
+* [x] Đăng nhập Tiktok
+* [x] Đăng nhập Tiki
+* [x] Báo tin nhắn Lazada
+* [x] Quét sản phẩm Shopee
+* [x] Sao chép Shopee (reading 'map')
+
+### \*) Bổ sung
+
+* [x] Giao diện quản lý V2 (Cài đặt > Quản lý V2)
+* [x] Tích hợp Extension
+* [x] Thêm Shop > Đăng nhập qua Json Cookie
+* [x] Hỗ trợ đổi UserAgent (mã trình duyệt) từng Shop
+
 ## v3.06 (10-08-2022)
 
 ### \*) Sửa lỗi
