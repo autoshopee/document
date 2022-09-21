@@ -8,17 +8,15 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 ### \*) Sửa lỗi
 
-* [x] Đăng nhập Lazada
-* [x] Đăng nhập Tiktok
-* [x] Đăng nhập Tiki
-* [x] Báo tin nhắn Lazada
-* [x] Quét sản phẩm Shopee
-* [x] Sao chép Shopee (reading 'map')
+* [x] Đăng nhập tự động => Lazada, Tiktok, Tiki, Shopee
+* [x] Lazada => báo tin nhắn&#x20;
+* [x] Shopee => quét sản phẩm&#x20;
+* [x] Shopee  => sao chép (reading 'map')
 
 ### \*) Bổ sung
 
-* [x] Giao diện quản lý V2 (Cài đặt > Quản lý V2)
-* [x] Tích hợp Extension
+* [x] <mark style="background-color:green;">Giao diện quản lý V2 (Cài đặt > Quản lý V2)</mark>
+* [x] <mark style="background-color:orange;">Tích hợp Extension</mark>
 * [x] Thêm Shop > Đăng nhập qua Json Cookie
 * [x] Hỗ trợ đổi UserAgent (mã trình duyệt) từng Shop
 
