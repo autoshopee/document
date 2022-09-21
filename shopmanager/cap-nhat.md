@@ -11,12 +11,11 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 * [x] Đăng nhập tự động => Lazada, Tiktok, Tiki, Shopee
 * [x] Lazada => báo tin nhắn&#x20;
 * [x] Shopee => quét sản phẩm&#x20;
-* [x] Shopee  => sao chép (reading 'map')
+* [x] Shopee => sao chép (reading 'map')
 
 ### \*) Bổ sung
 
 * [x] <mark style="background-color:green;">Giao diện quản lý V2 (Cài đặt > Quản lý V2)</mark>
-* [x] <mark style="background-color:orange;">Tích hợp Extension</mark>
 * [x] Thêm Shop > Đăng nhập qua Json Cookie
 * [x] Hỗ trợ đổi UserAgent (mã trình duyệt) từng Shop
 
