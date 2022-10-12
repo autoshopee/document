@@ -4,18 +4,17 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 # Cập nhật
 
-## v3.09 (12-10-2022)
+## v3.08 (12-10-2022)
 
 #### \*) Sửa lỗi
 
 * [x] Shopee => Theo dõi đơn hàng, trạng thái đơn
-* [x] Sao chép Shopee lỗi thuộc tính, DVVC, cân nặng
-* [x] Hiển thị thiếu sản phẩm Combo
-* [x] Xuất Excel Shopee
+* [x] Sao chép Shopee => lỗi thuộc tính, DVVC, cân nặng
+* [x] Xuất Excel Shopee => Hiển thị thiếu sản phẩm Combo
 
 #### \*) Thay đổi
 
-* [x] Tắt tìm sản phẩm theo từ khóa, nganh hàng
+* [x] Tắt chức năng tìm sản phẩm => theo từ khóa, ngành hàng
 
 ## v3.07 (22-09-2022)
 
