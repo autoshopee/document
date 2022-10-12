@@ -12,11 +12,27 @@ Yêu cầu phải tắt OTP ttrước khi thêm tài khoản phụ
 [tat-otp.md](../../xu-ly-loi/shopee/tat-otp.md)
 {% endcontent-ref %}
 
-## 1) Thêm từng tài khoản
+## 1) Lấy mã SPC\_F (Tắt OTP)
 
-![](<../../.gitbook/assets/image (158).png>)
+Hiện Shopee đã không cho các Shop tự tăt OTP, nên bạn cần lấy mã SPC\_F để tránh việc hỏi OTP
 
-## 2) Thêm hàng loạt bằng Excel
+Bạn Tải Extension&#x20;
+
+{% content-ref url="../../extension/cai-dat.md" %}
+[cai-dat.md](../../extension/cai-dat.md)
+{% endcontent-ref %}
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Lưu lại mã SPC\_F để đăng nhập
+
+## 2) Thêm từng tài khoản
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 3) Thêm hàng loạt bằng Excel
 
 ![Đây là danh sách tài khoản của bạn trên Excel](<../../.gitbook/assets/image (157).png>)
 

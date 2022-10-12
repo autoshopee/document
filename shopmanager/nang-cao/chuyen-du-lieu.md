@@ -8,13 +8,13 @@ description: >-
 
 ## 1) Mở thư mục lưu dữ liệu máy A
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Chọn vào thư mục </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Chọn vào thư mục </p></figcaption></figure>
 
 ## 2) Lấy dữ liệu dữ liệu
 
 Bạn copy file main.sqlite từ máy A sang máy B (bằng USB hoặc google Drive).&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Sao chép sang máy B
 
