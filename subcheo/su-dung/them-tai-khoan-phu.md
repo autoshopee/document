@@ -4,19 +4,19 @@ description: Thêm hàng loạt tài khoản phụ để kiếm điểm nuôi tk
 
 # Thêm tài khoản phụ
 
-{% hint style="warning" %}
-Yêu cầu phải tắt OTP ttrước khi thêm tài khoản phụ
-{% endhint %}
+## \*) Mua tài khoản phụ
 
-{% content-ref url="../../xu-ly-loi/shopee/tat-otp.md" %}
-[tat-otp.md](../../xu-ly-loi/shopee/tat-otp.md)
-{% endcontent-ref %}
+Gợi ý cho bạn một số nơi bán tài khoản phụ (chúng tôi chỉ giới thiệu nên sẽ không chiu bất kì trách nhiệm nếu tài khoản phụ bị lỗi)
+
+Website: [https://toolphamhoanglong.com](https://toolphamhoanglong.com/)
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Mua tài khoản phụ</p></figcaption></figure>
 
 ## 1) Lấy mã SPC\_F (Tắt OTP)
 
-Hiện Shopee đã không cho các Shop tự tăt OTP, nên bạn cần lấy mã SPC\_F để tránh việc hỏi OTP
+> Nếu tài khoản bạn mua **đã có sẵn mã SPC\_F hoặc đã tăt OTP** rồi thì có thể bỏ qua bước này nhé
 
-Bạn Tải Extension&#x20;
+Hiện Shopee đã không cho các Shop tự tăt OTP, nên bạn cần lấy mã SPC\_F để tránh việc hỏi OTP
 
 {% content-ref url="../../extension/cai-dat.md" %}
 [cai-dat.md](../../extension/cai-dat.md)
