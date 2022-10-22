@@ -6,7 +6,11 @@ description: Thêm tài khoản chính để nhận tương tác
 
 ## 1) Thêm tài khoản
 
-![Dán link Shop của bạn vào](<../../.gitbook/assets/image (164).png>)
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Lấy Link Shop</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Dán tên Shop của bạn vào đây</p></figcaption></figure>
+
+> Bạn có thể thêm một Shop lại nhiều lần để tăng tốc độ tương tác
 
 ## 2) Cấu hình Nhận tương tác
 

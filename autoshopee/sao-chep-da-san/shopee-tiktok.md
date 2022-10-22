@@ -2,7 +2,7 @@
 description: Hướng dẫn sao chép từ Shopee sang Tiktok
 ---
 
-# Shopee=> Tiktok
+# Shopee => Tiktok
 
 {% embed url="https://youtu.be/TfA_yFmTrkw" %}
 Video hướng dẫn
@@ -24,7 +24,7 @@ Nếu bạn muốn đồng SKU, cân nặng & kích thước từ Shopee sang La
 
 Nếu bạn chỉ có nhu cầu sao chép 1-2 sản phẩm thì có thể sử dụng Extension để thao tác nhanh hơn (trong 1 click chuột)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 {% content-ref url="../../extension/su-dung/sao-chep-tiktok-and-lazada.md" %}
 [sao-chep-tiktok-and-lazada.md](../../extension/su-dung/sao-chep-tiktok-and-lazada.md)
