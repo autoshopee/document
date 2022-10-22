@@ -13,7 +13,13 @@ description: Các hoạt động của Subcheo
 **Subcheo** Là hoạt động **tương tác** chéo qua lại giữa các **Tài khoản chính** và **Tài khoản phụ** nội bộ trong hệ thống
 
 * **Hệ thống** sẽ đứng ra bắt cặp các **Tài khoản chính** và các **Tài khoản phụ** với nhau, và sẽ được quy đổi thành **Điểm**
-* **Điểm** được xem là đơn vị tiền tệ sử dụng nội bộ trong hệ thống
+* Tài khoản phụ => tương tác Follow View Like => Tài khoản chính. Điêm sẽ được **trừ cho tài khoản nhận tương tác** và **cộng cho tài khoản cho tương tác**&#x20;
+
+<figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption><p>Mô hình hoạt động</p></figcaption></figure>
+
+Điểm có thể hiểu là đơn vị tiền tệ để quy đổi tương tác trong nội bộ hệ thống
+
+<figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Bảng giá Gói A1 và A1d
 
