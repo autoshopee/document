@@ -20,6 +20,6 @@ description: Các hoạt động của Subcheo
 * **Gói A1d, A2d, A3d** là các gói đã có sẵn điểm **nếu bạn có  không có tài khoản phụ thì nên dùng gói này**
 * **Gói A1 A2 A3** bạn sẽ kiêm được nhiều điểm hơn gói A1d A2d A3d => nhưng bạn cần có tài khoản phụ để hoạt động và kiếm điểm về tài khoản
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 > Mua Ngày và điểm ở đây [https://subcheo.vn/upgrade](https://subcheo.vn/upgrade)
