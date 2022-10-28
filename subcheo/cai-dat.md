@@ -13,7 +13,7 @@ description: Các hoạt động của Subcheo
 **Subcheo** Là hoạt động **tương tác** chéo qua lại giữa các **Tài khoản chính** và **Tài khoản phụ** nội bộ trong hệ thống
 
 * **Hệ thống** sẽ đứng ra bắt cặp các **Tài khoản chính** và các **Tài khoản phụ** với nhau, và sẽ được quy đổi thành **Điểm**
-* Tài khoản phụ => tương tác Follow View Like => Tài khoản chính. Điêm sẽ được **trừ cho tài khoản nhận tương tác** và **cộng cho tài khoản cho tương tác**&#x20;
+* Tài khoản phụ => tương tác Follow View Like => Tài khoản chính. Điêm sẽ được **trừ cho tài khoản nhận tương tác** và **cộng cho tài khoản cho tương tác** (có thể hiểu là tiền trả công cho tài khoản đã tương tác Shop của bạn)
 
 <figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption><p>Mô hình hoạt động</p></figcaption></figure>
 
