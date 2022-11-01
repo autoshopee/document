@@ -14,7 +14,7 @@ description: >-
 
 ![Thêm vào Chrome](<../.gitbook/assets/image (2) (1).png>)
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 ## 2) Trình duyệt Firefox
 

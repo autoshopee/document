@@ -33,6 +33,7 @@
   * [Cập nhật](shopmanager/cap-nhat.md)
   * [Kênh thông báo](shopmanager/nang-cao/kenh-thong-bao.md)
   * [Chuyên dữ liệu](shopmanager/nang-cao/chuyen-du-lieu.md)
+  * [Thiết bị đăng nhập](shopmanager/nang-cao/thiet-bi-dang-nhap.md)
   * [In đơn](shopmanager/nang-cao/in-don.md)
   * [Proxy hệ thống](shopmanager/nang-cao/proxy-he-thong.md)
   * [Proxy Private](shopmanager/nang-cao/proxy-private.md)
