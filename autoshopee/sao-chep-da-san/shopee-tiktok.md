@@ -54,6 +54,10 @@ Nếu kết quả hiện thị như thế này là đã thành công
 
 ## 2.1) Tạo kho sản phẩm
 
+{% content-ref url="sku-va-can-nang.md" %}
+[sku-va-can-nang.md](sku-va-can-nang.md)
+{% endcontent-ref %}
+
 Kho sản phẩm lưu danh sách bộ sưu tập các sản phẩm bạn muốn đăng (thường là danh sách sản phẩm của một Shop)
 
 ![Tạo một kho sản phẩm](<../../.gitbook/assets/image (243).png>)

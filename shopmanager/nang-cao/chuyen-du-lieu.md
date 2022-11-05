@@ -8,7 +8,7 @@ description: >-
 
 ## 1) Mở thư mục lưu dữ liệu máy A
 
-<figure><img src="../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption><p>Chọn vào thư mục </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Chọn vào thư mục </p></figcaption></figure>
 
 ## 2) Lấy dữ liệu dữ liệu
 
