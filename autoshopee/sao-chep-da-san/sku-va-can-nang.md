@@ -12,7 +12,7 @@ description: >-
 
 Đăng nhập vào Shop gốc > Chọn cập nhật hàng loạt
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Xuất Excel</p></figcaption></figure>
 
@@ -20,7 +20,7 @@ description: >-
 
 Truy cập vào link sau => [https://autoshopee.com/shopee/product/update](https://autoshopee.com/shopee/product/update)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Dán link Shop gốc vào
 
