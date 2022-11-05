@@ -49,6 +49,7 @@
   * [Shopee => Lazada](autoshopee/sao-chep-da-san/shopee-lazada.md)
   * [Shopee => Sendo](autoshopee/sao-chep-da-san/shopee-sendo.md)
   * [Sendo => Sendo](autoshopee/sao-chep-da-san/sendo-sendo.md)
+  * [🎩 SKU và Cân nặng](autoshopee/sao-chep-da-san/sku-va-can-nang.md)
 
 ## 📘 Subcheo
 
