@@ -12,9 +12,9 @@ description: >-
 
 Đăng nhập vào Shop gốc > Chọn cập nhật hàng loạt
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Xuất Excel</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Xuất Excel</p></figcaption></figure>
 
 ## 2) Cập nhật lên hệ thống
 
