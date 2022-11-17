@@ -32,7 +32,7 @@
   * [Chăm sóc & trả lời tự động](shopmanager/khach-hang/cham-soc-and-tra-loi-tu-dong.md)
   * [Gửi tin nhắn Remarketing](shopmanager/khach-hang/gui-tin-nhan-remarketing.md)
 * [⚓ Nâng cao](shopmanager/nang-cao/README.md)
-  * [Cập nhật](shopmanager/cap-nhat.md)
+  * [🗒 Cập nhật](shopmanager/cap-nhat.md)
   * [Chuyên dữ liệu](shopmanager/nang-cao/chuyen-du-lieu.md)
   * [Thiết bị đăng nhập](shopmanager/nang-cao/thiet-bi-dang-nhap.md)
   * [In đơn](shopmanager/nang-cao/in-don.md)
