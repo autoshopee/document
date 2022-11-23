@@ -10,8 +10,11 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 #### \*) Sửa lỗi
 
-* [x] Sao chép, quét sản phẩm Shopee
 * [x] Đăng nhập TiktokShop, Lazada, Tiki
+* [x] Trạng thái đơn đã chuẩn bị Lazada
+* [x] Đóng khung sản phâm Shopee
+* [x] Sao chép sản phẩm Shopee (lack\_setting, size\_chart ...)
+* [x] Tìm sản phẩm Shopee&#x20;
 
 #### \*) Thay đổi
 
