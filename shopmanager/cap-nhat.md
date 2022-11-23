@@ -6,7 +6,7 @@ description: Nhật kí cập nhật các phiên bản của ShopManager
 
 ##
 
-## v3.1.0 (20-11-2022)
+## v3.1.0 (22-11-2022)
 
 #### \*) Sửa lỗi
 
