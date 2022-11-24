@@ -18,6 +18,7 @@
     * [Tạo khung riêng](shopmanager/san-pham/cap-nhat-khung/tao-khung-rieng.md)
   * [Đồng bộ nhiều Shop](shopmanager/san-pham/dong-bo-nhieu-shop.md)
   * [Phân tích & Thống kê](shopmanager/san-pham/phan-tich-and-thong-ke.md)
+  * [Cập nhật sản phẩm](shopmanager/san-pham/cap-nhat-san-pham.md)
 * [🛒 Đơn hàng](shopmanager/don-hang/README.md)
   * [Chuẩn bị đơn hàng loạt](shopmanager/don-hang/chuan-bi-don-hang-loat.md)
   * [In đơn hàng loạt](shopmanager/don-hang/in-don-hang-loat.md)

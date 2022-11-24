@@ -20,7 +20,7 @@ description: >-
 
 Truy cập vào link sau => [https://autoshopee.com/shopee/product/update](https://autoshopee.com/shopee/product/update)
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Dán link Shop gốc vào
 
