@@ -12,7 +12,7 @@ Thời gian hỗ trợ quý khách hàng từ 08h00 sáng đến 18h00 các ngà
 
 * **Hotline** 0907298768
 * **Tư vấn / Kinh doanh/ Hỗ trợ kỹ thuật** 0907298768
-* **Hỗ trợ kĩ thuật Zalo** [@toannt1412](https://zalo.me/toannt1412)
+* **Hỗ trợ kĩ thuật Zalo** [@toannt1412 (SĐT ](https://zalo.me/toannt1412)[034.591.7864)](https://zalo.me/toannt1412)
 * **Email** support@autoshopee.com
 * **Facebook** [https://www.facebook.com/toolautoshopee](https://www.facebook.com/toolautoshopee/) (Tư vấn / Kinh doanh/ Hỗ trợ kỹ thuật)
 * **Youtube** [https://www.youtube.com/autoshopee](https://www.youtube.com/autoshopee)

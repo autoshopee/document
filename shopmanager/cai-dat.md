@@ -8,10 +8,6 @@ coverY: 0
 
 # ⚙ Cài đặt
 
-{% hint style="success" %}
-**ShopManager**  thuộc hệ sinh thái của AutoShopee, bạn sử dụng tài khoản AutoShopee để đăng nhập
-{% endhint %}
-
 ## 1) Cài đặt
 
 {% hint style="success" %}
