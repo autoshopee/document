@@ -7,21 +7,11 @@ description: >-
 
 # 🔝 Đẩy sản phẩm
 
-{% hint style="warning" %}
-Bạn cần tắt OTP trước khi thêm Shop nhé
-{% endhint %}
+## 1) Thêm Shop
 
-{% content-ref url="../xu-ly-loi/shopee/tat-otp.md" %}
-[tat-otp.md](../xu-ly-loi/shopee/tat-otp.md)
-{% endcontent-ref %}
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Nhập thông tin tài khoản và hệ thống đảy sản phẩm</p></figcaption></figure>
 
-{% content-ref url="../xu-ly-loi/shopee/go-captcha.md" %}
-[go-captcha.md](../xu-ly-loi/shopee/go-captcha.md)
-{% endcontent-ref %}
-
-Bạn thêm tài khoản và mật khẩu của tài khoản bán hàng vào hệ thống
-
-![Thêm Shop vào hệ thống](<../.gitbook/assets/image (42).png>)
+### 2) Chọn sản phẩm
 
 Chọn Shop muốn đẩy sản phẩm
 
