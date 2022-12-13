@@ -40,12 +40,12 @@ Bạn dễ dàng đồng sản phẩm từ Shopee sang các sàn **Lazada** ho�
 
 ![](<.gitbook/assets/image (313).png>)
 
-{% content-ref url="autoshopee/sao-chep-da-san/tiktok/shopee-tiktok.md" %}
-[shopee-tiktok.md](autoshopee/sao-chep-da-san/tiktok/shopee-tiktok.md)
+{% content-ref url="autoshopee/sao-chep-da-san/tiktok/shopee-to-tiktok.md" %}
+[shopee-to-tiktok.md](autoshopee/sao-chep-da-san/tiktok/shopee-to-tiktok.md)
 {% endcontent-ref %}
 
-{% content-ref url="autoshopee/sao-chep-da-san/lazada/shopee-lazada.md" %}
-[shopee-lazada.md](autoshopee/sao-chep-da-san/lazada/shopee-lazada.md)
+{% content-ref url="autoshopee/sao-chep-da-san/lazada/shopee-to-lazada.md" %}
+[shopee-to-lazada.md](autoshopee/sao-chep-da-san/lazada/shopee-to-lazada.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
