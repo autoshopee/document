@@ -26,7 +26,7 @@ description: >-
 
 ![Kéo thả Icon AutoShopee vào vị trí bất kì](<../.gitbook/assets/image (7) (1).png>)
 
-![Sử dụng tài khoản AutoShopee để đăng nhập](<../.gitbook/assets/image (8) (1).png>)
+![Sử dụng tài khoản AutoShopee để đăng nhập](<../.gitbook/assets/image (8) (1) (1).png>)
 
 ## \*) Sử dụng ở chế độ ẩn danh
 

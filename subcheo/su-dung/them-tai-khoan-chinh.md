@@ -6,7 +6,7 @@ description: Thêm tài khoản chính để nhận tương tác
 
 ## 1) Thêm tài khoản
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Lấy Link Shop</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Lấy Link Shop</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Dán tên Shop của bạn vào đây</p></figcaption></figure>
 

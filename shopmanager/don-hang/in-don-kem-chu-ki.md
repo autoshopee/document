@@ -4,7 +4,7 @@ description: Công cụ giúp bạn thêm các nội dung bổ sung khi in đơn
 
 # In đơn kèm chữ kí
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)![](<../../.gitbook/assets/image (4).png>)
 
 Truy cập Tự động > Chọn Tab  Chữ kí đơn hàng
 

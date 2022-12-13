@@ -19,7 +19,7 @@ Lọc các đơn **Đã hoàn thành**
 * **Đối soát dư** là các đơn đã được thanh toán nhiều hơn doanh thu
 * **Đối soát thiếu** là các đơn đã được thanh toán nhưng bị thiếu => Xem xét và khiếu nại với Shopee
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 ## 3) Xuât Excel
 

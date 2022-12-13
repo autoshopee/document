@@ -10,7 +10,7 @@ description: In đơn PDF hàng loạt nhiều Shop cùng một lúc
 
 ![Menu chức năng > Đơn hàng](<../../.gitbook/assets/image (53).png>)
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (2).png>)
 
 ## 1) Lọc các đơn hàng đã chuẩn bị
 
