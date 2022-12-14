@@ -26,7 +26,7 @@ Mẫu chữ kí [https://drive.google.com/drive/folders/1btOrjBYtfLblWo6\_5Ipttw
 
 Chọn Tệp tải lên > Tải lên ảnh chữ kí bạn muốn
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Chọn tệp tải lên</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Chọn tệp tải lên</p></figcaption></figure>
 
 Điều chỉnh thông số phù hợp với từng mẫu
 
@@ -41,3 +41,12 @@ Chọn Tệp tải lên > Tải lên ảnh chữ kí bạn muốn
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Untitled-2.png" alt=""><figcaption><p>Và đây là kết quả</p></figcaption></figure>
+
+## \*) Che tên sản phẩm
+
+Một số sản phẩm nhạy cảm như BCS, đồ lót, các sản phẩm dành cho phụ nữ => Các bạn có thể sử dụng mẹo như sau
+
+1. Chọn một hình ảnh ảnh bất kì (hoặc một bức ảnh trắng tinh)
+2. Điều chỉnh vị trí của ảnh tới vị trí cần che tên
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
