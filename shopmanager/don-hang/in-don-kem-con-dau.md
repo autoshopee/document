@@ -2,11 +2,11 @@
 description: Công cụ giúp bạn thêm các nội dung bổ sung khi in đơn
 ---
 
-# In đơn kèm chữ kí
+# In đơn kèm con dấu
 
 Đối vơi một số bạn bán sản phẩm nhạy cảm, hoặc bạn muốn lưu ý một thông tin nào đó trên đơn hàng một cách tự động
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1) Cài đặt
 
