@@ -13,11 +13,11 @@ description: Hướng dẫn sao chép từ Shopee sang Lazada
 
 Chọn sản phẩm > Sao chép > Để lấy Link sản phẩm
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Chọn vào Shop Gốc</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Chọn vào Shop Gốc</p></figcaption></figure>
 
 Copy Link sản phẩm
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Nhập sản phẩm vào Kho
 

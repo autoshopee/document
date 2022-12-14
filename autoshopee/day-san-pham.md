@@ -9,7 +9,7 @@ description: >-
 
 ## 1) Thêm Shop
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Nhập thông tin tài khoản và hệ thống đảy sản phẩm</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Nhập thông tin tài khoản và hệ thống đảy sản phẩm</p></figcaption></figure>
 
 ### 2) Chọn sản phẩm
 

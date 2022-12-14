@@ -6,7 +6,7 @@ description: Quản lý thiết bị đăng nhập trrên ShopManager
 
 ## 1) Lấy mã thiết bị
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Copy lại mã</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption><p>Copy lại mã</p></figcaption></figure>
 
 ### 2) Thêm thiết bị
 

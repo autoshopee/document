@@ -10,7 +10,7 @@ description: Cập nhật thông tin sản phẩm hàng loạt theo bằng Excel
 
 
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Thông tin cơ bản => Chỉnh sửa tiêu đề, mô tả sản phẩm
 * Thông tin bán hàng => Chỉnh sửa giá, tồn kho, SKU sản phẩm

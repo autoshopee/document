@@ -4,12 +4,40 @@ description: Công cụ giúp bạn thêm các nội dung bổ sung khi in đơn
 
 # In đơn kèm chữ kí
 
-![](<../../.gitbook/assets/image (1) (2).png>)![](<../../.gitbook/assets/image (4).png>)
+Đối vơi một số bạn bán sản phẩm nhạy cảm, hoặc bạn muốn lưu ý một thông tin nào đó trên đơn hàng một cách tự động
 
-Truy cập Tự động > Chọn Tab  Chữ kí đơn hàng
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-Chọn Hình ảnh bạn muốn làm chữ kí > Điều chỉnh vị trí mong muốn > Lưu
+## 1) Cài đặt
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Menu chức năng > tự động</p></figcaption></figure>
 
-**Chữ ký mẫu tham khảo** [https://drive.google.com/drive/folders/1btOrjBYtfLblWo6\_5IpttwYmKn69edqI](https://drive.google.com/drive/folders/1btOrjBYtfLblWo6\_5IpttwYmKn69edqI)
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Kích hoạt</p></figcaption></figure>
+
+## 2) Thêm chữ kí
+
+Bạn có thể tự tạo riêng một nội dung cho mình hoặc sử dụng mẫu dưới đây
+
+{% hint style="info" %}
+Mẫu chữ kí [https://drive.google.com/drive/folders/1btOrjBYtfLblWo6\_5IpttwYmKn69edqI](https://drive.google.com/drive/folders/1btOrjBYtfLblWo6\_5IpttwYmKn69edqI)
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Một số mẫu</p></figcaption></figure>
+
+Chọn Tệp tải lên > Tải lên ảnh chữ kí bạn muốn
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Chọn tệp tải lên</p></figcaption></figure>
+
+Điều chỉnh thông số phù hợp với từng mẫu
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Chỉnh thông số</p></figcaption></figure>
+
+Đừng quên lưu lại cài đặt
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Lưu cài đặt</p></figcaption></figure>
+
+## 3) In đơn
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Untitled-2.png" alt=""><figcaption><p>Và đây là kết quả</p></figcaption></figure>

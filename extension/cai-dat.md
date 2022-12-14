@@ -20,7 +20,7 @@ description: >-
 
 > **Tải ở đây** [https://addons.mozilla.org/en-US/firefox/addon/autoshopee](https://addons.mozilla.org/en-US/firefox/addon/autoshopee/)
 
-![Bấm thêm vào FireFox](<../.gitbook/assets/image (5) (1).png>)
+![Bấm thêm vào FireFox](<../.gitbook/assets/image (5) (1) (1).png>)
 
 ![Thêm công cụ > Tuỳ biến thanh công cụ](<../.gitbook/assets/image (6) (1).png>)
 
