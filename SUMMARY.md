@@ -27,7 +27,7 @@
   * [Thẻ Tag](shopmanager/don-hang/the-tag-don-hang/theo-doi-don-bang-tag.md)
   * [Xuất Excel](shopmanager/don-hang/xuat-excel.md)
   * [Tối ưu đóng gói](shopmanager/don-hang/toi-uu-dong-goi.md)
-  * [In đơn kèm chữ kí](shopmanager/don-hang/in-don-kem-chu-ki.md)
+  * [In đơn kèm con dấu](shopmanager/don-hang/in-don-kem-con-dau.md)
   * [Kênh thông báo](shopmanager/don-hang/kenh-thong-bao.md)
 * [👩💼 Khách hàng](shopmanager/khach-hang/README.md)
   * [Chăm sóc & trả lời tự động](shopmanager/khach-hang/cham-soc-and-tra-loi-tu-dong.md)
