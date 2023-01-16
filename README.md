@@ -117,5 +117,5 @@ Cổng thanh toán dịch vụ [https://payment.autoshopee.com](https://payment.
 * **Youtube** [https://www.youtube.com/autoshopee](https://www.youtube.com/autoshopee)
 * **Facebook** [https://www.facebook.com/toolautoshopee](https://www.facebook.com/toolautoshopee/)
 * **Hỗ trợ kĩ thuật** [https://zalo.me/toannt1412](https://zalo.me/toannt1412)
-* **Tư vấn kinh doanh** [https://zalo.me/0377737019](https://zalo.me/0377737019)
+* **Tư vấn kinh doanh** [https://zalo.me/0907298768](https://zalo.me/0907298768)
 
