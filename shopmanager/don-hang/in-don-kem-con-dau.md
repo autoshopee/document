@@ -26,7 +26,7 @@ Mẫu chữ kí [https://drive.google.com/drive/folders/1btOrjBYtfLblWo6\_5Ipttw
 
 Chọn Tệp tải lên > Tải lên ảnh chữ kí bạn muốn
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Chọn tệp tải lên</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Chọn tệp tải lên</p></figcaption></figure>
 
 Điều chỉnh thông số phù hợp với từng mẫu
 
