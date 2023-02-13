@@ -8,7 +8,7 @@ description: Thêm Shop (Shopee Tiki Sendo Lazada) muốn quản lý vào phần
 Các tài khoản Shopee cần tắt OTP trước khi thêm vào phần mềm
 {% endhint %}
 
-![Bấm vào nút thêm Shop](<../../.gitbook/assets/image (13) (1).png>)
+![Bấm vào nút thêm Shop](<../../.gitbook/assets/image (13) (1) (1).png>)
 
 ![Chọn nền tảng](<../../.gitbook/assets/image (12) (1) (1).png>)
 

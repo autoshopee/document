@@ -10,7 +10,7 @@ description: Quản lý thiết bị đăng nhập trrên ShopManager
 
 ### 2) Thêm thiết bị
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Vào quản lý thiết bị</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Vào quản lý thiết bị</p></figcaption></figure>
 
 * Thêm mã thiết bị ở trên vào
 * Tên bạn đắt bất kì nội dung gì để dễ nhớ

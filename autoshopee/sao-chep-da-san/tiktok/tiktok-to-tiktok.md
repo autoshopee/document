@@ -11,7 +11,7 @@ description: Hướng dẫn sao chép từ Tiktok sang Tiktok
 
 ## 1) Quét Link sản phẩm
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Nhập vào Shop lấy dữ liệu</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Nhập vào Shop lấy dữ liệu</p></figcaption></figure>
 
 Chọn sản phẩm > Sao chép > Để lấy Link sản phẩm
 

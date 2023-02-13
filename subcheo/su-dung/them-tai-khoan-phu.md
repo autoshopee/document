@@ -10,7 +10,7 @@ Gợi ý cho bạn một số nơi bán tài khoản phụ (chúng tôi chỉ gi
 
 Website: [https://toolphamhoanglong.com](https://toolphamhoanglong.com/)
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Mua tài khoản phụ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>Mua tài khoản phụ</p></figcaption></figure>
 
 ## 1) Lấy mã SPC\_F (Tắt OTP)
 
