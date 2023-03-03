@@ -11,7 +11,11 @@ coverY: 0
 ## 1) Cài đặt
 
 {% hint style="success" %}
-* **Windows** [https://autoshopee.com/shopmanager/download/windows](https://autoshopee.com/shopmanager/download/windows)
+* **Windows 64** [https://autoshopee.com/shopmanager/download/windows](https://autoshopee.com/shopmanager/download/windows) (Win 10,11)
+* **Windows 32** [https://autoshopee.com/shopmanager/download/win32](https://autoshopee.com/shopmanager/download/win32) (Win 7 32bit)
+
+
+
 * **MacOs Intel** [https://autoshopee.com/shopmanager/download/macos](https://autoshopee.com/shopmanager/download/macos)
 * **MacOs M1** [https://autoshopee.com/shopmanager/download/m1](https://autoshopee.com/shopmanager/download/m1)
 {% endhint %}
