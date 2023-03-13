@@ -24,10 +24,10 @@ Nếu bạn muốn đồng SKU, cân nặng & kích thước từ Shopee sang La
 
 Nếu bạn chỉ có nhu cầu sao chép 1-2 sản phẩm thì có thể sử dụng Extension để thao tác nhanh hơn (trong 1 click chuột)
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (17) (2).png>)
 
-{% content-ref url="../../../extension/su-dung/sao-chep-tiktok-and-lazada.md" %}
-[sao-chep-tiktok-and-lazada.md](../../../extension/su-dung/sao-chep-tiktok-and-lazada.md)
+{% content-ref url="../../../extension/su-dung/tiktok-and-lazada.md" %}
+[tiktok-and-lazada.md](../../../extension/su-dung/tiktok-and-lazada.md)
 {% endcontent-ref %}
 
 Nếu bạn sao chép nhiều sản phẩm thì theo hướng dẫn bên dưới
@@ -99,8 +99,8 @@ Bạn cũng có thể sửa thuộc tính cho từng sản phẩm để chính x
 Bạn cũng có thể dùng Extension để sao chép từng sản phẩm một các thuận tiện hơn, theo hướng dẫn bên dưới
 {% endhint %}
 
-{% content-ref url="../../../extension/su-dung/sao-chep-tiktok-and-lazada.md" %}
-[sao-chep-tiktok-and-lazada.md](../../../extension/su-dung/sao-chep-tiktok-and-lazada.md)
+{% content-ref url="../../../extension/su-dung/tiktok-and-lazada.md" %}
+[tiktok-and-lazada.md](../../../extension/su-dung/tiktok-and-lazada.md)
 {% endcontent-ref %}
 
 ## \*) Xử lý một số lỗi

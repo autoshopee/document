@@ -2,7 +2,7 @@
 description: Hướng dẫn sao chép Video sản phẩm này sang sản phẩm khác
 ---
 
-# 🎞 Sao chép Video
+# Sao chép Video
 
 Công cụ sẽ Sao chép Video của sản phẩm ở trang hiện tại => sang sản phẩm Shopee của bạn
 

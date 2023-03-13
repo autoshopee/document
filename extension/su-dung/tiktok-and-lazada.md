@@ -2,7 +2,7 @@
 description: Sao chép sản phẩm tự Shopee sang Tiktok & Lazada
 ---
 
-# 🚀 Sao chép Tiktok & Lazada
+# Tiktok & Lazada
 
 {% hint style="info" %}
 Extension áp dụng thuận tiện khi bạn muốn sao chép từng (1-2) sản phẩm trực tiếp trên trình duyệt.

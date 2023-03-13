@@ -21,7 +21,7 @@ Chọn sản phẩm > Sao chép > Để lấy Link sản phẩm
 
 Nhập Link vừa copy được ở B1 vào Kho như bình thường
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

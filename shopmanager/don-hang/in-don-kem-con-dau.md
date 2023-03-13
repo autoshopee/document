@@ -10,7 +10,7 @@ description: Công cụ giúp bạn thêm các nội dung bổ sung khi in đơn
 
 ## 1) Cài đặt
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Menu chức năng > tự động</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption><p>Menu chức năng > tự động</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Kích hoạt</p></figcaption></figure>
 
@@ -30,7 +30,7 @@ Chọn Tệp tải lên > Tải lên ảnh chữ kí bạn muốn
 
 Điều chỉnh thông số phù hợp với từng mẫu
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Chỉnh thông số</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Chỉnh thông số</p></figcaption></figure>
 
 Đừng quên lưu lại cài đặt
 
@@ -49,4 +49,4 @@ Một số sản phẩm nhạy cảm như BCS, đồ lót, các sản phẩm dà
 1. Chọn một hình ảnh ảnh bất kì (hoặc một bức ảnh trắng tinh)
 2. Điều chỉnh vị trí của ảnh tới vị trí cần che tên
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>

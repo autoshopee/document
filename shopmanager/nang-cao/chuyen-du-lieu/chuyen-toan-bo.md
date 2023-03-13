@@ -20,6 +20,6 @@ Trước khi copy dữ liệu, hãy tắt hẵn phần mềm và chờ 60 giây 
 
 Sao chép file dữ liệu vừa rồi sang máy B
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Máy B</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Máy B</p></figcaption></figure>
 
 Lấy dữ liệu ở bước 2 Copy vào thư mục tương tự bên máy B

@@ -23,6 +23,6 @@ Copy Link sản phẩm
 
 Nhập Link sản phẩm vào Kho
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 > Vậy là xong dữ liêu sẽ được đồng bộ vào Kho mới. Bạn tạo chiến dịch và đăng sản phẩm như bình thường

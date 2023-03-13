@@ -26,8 +26,8 @@ Nếu bạn chỉ có nhu cầu sao chép 1-2 sản phẩm thì có thể sử d
 
 ![](<../../../.gitbook/assets/image (1) (2) (1).png>)
 
-{% content-ref url="../../../extension/su-dung/sao-chep-tiktok-and-lazada.md" %}
-[sao-chep-tiktok-and-lazada.md](../../../extension/su-dung/sao-chep-tiktok-and-lazada.md)
+{% content-ref url="../../../extension/su-dung/tiktok-and-lazada.md" %}
+[tiktok-and-lazada.md](../../../extension/su-dung/tiktok-and-lazada.md)
 {% endcontent-ref %}
 
 Nếu bạn sao chép nhiều sản phẩm thì theo hướng dẫn bên dưới
@@ -108,6 +108,6 @@ Bạn cũng có thể sửa sản phẩm nếu muốn (có thể bỏ qua bướ
 Ngoài ra bạn cũng có thể dụng Extension để sao chép từng sản phẩm một cách thuận tiện hơn chỉ với một Click chuột duy nhất, theo hướng dẫn bên dưới
 {% endhint %}
 
-{% content-ref url="../../../extension/su-dung/sao-chep-tiktok-and-lazada.md" %}
-[sao-chep-tiktok-and-lazada.md](../../../extension/su-dung/sao-chep-tiktok-and-lazada.md)
+{% content-ref url="../../../extension/su-dung/tiktok-and-lazada.md" %}
+[tiktok-and-lazada.md](../../../extension/su-dung/tiktok-and-lazada.md)
 {% endcontent-ref %}

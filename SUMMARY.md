@@ -45,9 +45,6 @@
 ## 📙 AutoShopee
 
 * [🔝 Đẩy sản phẩm](autoshopee/day-san-pham.md)
-* [🔔 Thông báo đơn hàng](autoshopee/thong-bao-don-hang/README.md)
-  * [Facebook](autoshopee/thong-bao-don-hang/thong-bao-facebook.md)
-  * [Telegram](autoshopee/thong-bao-don-hang/thong-bao-telegram.md)
 * [🧰 Sao chép đa sàn](autoshopee/sao-chep-da-san/README.md)
   * [TikTok](autoshopee/sao-chep-da-san/tiktok/README.md)
     * [Shopee => TikTok](autoshopee/sao-chep-da-san/tiktok/shopee-to-tiktok.md)
@@ -59,6 +56,9 @@
     * [Shopee => Sendo](autoshopee/sao-chep-da-san/sendo/shopee-to-sendo.md)
     * [Sendo => Sendo](autoshopee/sao-chep-da-san/sendo/sendo-to-sendo.md)
   * [🎩 SKU và Cân nặng](autoshopee/sao-chep-da-san/sku-va-can-nang.md)
+* [🔔 Thông báo đơn hàng](autoshopee/thong-bao-don-hang/README.md)
+  * [Facebook](autoshopee/thong-bao-don-hang/thong-bao-facebook.md)
+  * [Telegram](autoshopee/thong-bao-don-hang/thong-bao-telegram.md)
 
 ## 📘 Subcheo
 
@@ -70,11 +70,13 @@
 ## 📒 Extension
 
 * [👉 Sử dụng](extension/su-dung/README.md)
-  * [🖥 Cài đặt](extension/cai-dat.md)
-  * [🎁 Sao chép sản phẩm](extension/su-dung/sao-chep-san-pham.md)
-  * [🎞 Sao chép Video](extension/su-dung/sao-chep-video.md)
-  * [🚀 Sao chép Tiktok & Lazada](extension/su-dung/sao-chep-tiktok-and-lazada.md)
-  * [🎬 Tải ảnh & Video](extension/su-dung/tai-anh-and-video.md)
+  * [Cài đặt](extension/cai-dat.md)
+  * [Chặn từ khoá Chat](extension/su-dung/chan-tu-khoa-chat.md)
+  * [Rút gọn Link Affiliate](extension/su-dung/rut-gon-link-affiliate.md)
+  * [Sao chép sản phẩm](extension/su-dung/sao-chep-san-pham.md)
+  * [Sao chép Video](extension/su-dung/sao-chep-video.md)
+  * [Tải ảnh & Video](extension/su-dung/tai-anh-and-video.md)
+  * [Tiktok & Lazada](extension/su-dung/tiktok-and-lazada.md)
 
 ## ❌ Xử lý lỗi
 
