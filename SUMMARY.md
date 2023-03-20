@@ -44,7 +44,9 @@
 
 ## 📙 AutoShopee
 
-* [🔝 Đẩy sản phẩm](autoshopee/day-san-pham.md)
+* [👽 Shopee](autoshopee/shopee/README.md)
+  * [Thêm Shop](autoshopee/shopee/them-shop.md)
+  * [Đẩy sản phẩm](autoshopee/shopee/day-san-pham.md)
 * [🧰 Sao chép đa sàn](autoshopee/sao-chep-da-san/README.md)
   * [TikTok](autoshopee/sao-chep-da-san/tiktok/README.md)
     * [Shopee => TikTok](autoshopee/sao-chep-da-san/tiktok/shopee-to-tiktok.md)

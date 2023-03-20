@@ -8,7 +8,7 @@ description: Công cụ giúp bạn chuyên dữ liệu Shop từ máy này sang
 
 Đầu tiên bạn cần xuất dữ liệu các Shop
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Menu > Chọn Shop</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Menu > Chọn Shop</p></figcaption></figure>
 
 Chọn Shop bạn muốn Chuyển
 
