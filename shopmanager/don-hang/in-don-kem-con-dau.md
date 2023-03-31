@@ -38,7 +38,7 @@ Chọn Tệp tải lên > Tải lên ảnh chữ kí bạn muốn
 
 ## 3) In đơn
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Untitled-2.png" alt=""><figcaption><p>Và đây là kết quả</p></figcaption></figure>
 

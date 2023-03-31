@@ -8,14 +8,6 @@ description: Hướng dẫn sao chép từ Shopee sang Tiktok
 Video hướng dẫn
 {% endembed %}
 
-{% hint style="info" %}
-Bạn cần mua điểm sao chép sản phẩm trước sử dụng, với **chi phí chỉ bằng 1-2 bát phở** là bạn đã có thể đồng bộ nguyên một shop từ Shopee sang Tiktok chỉ trong nháy mắt
-
-Mua điểm ở đây [https://autoshopee.com/upgrade](https://autoshopee.com/upgrade)
-{% endhint %}
-
-![Mua điểm sao chép](<../../../.gitbook/assets/image (265).png>)
-
 {% hint style="warning" %}
 Nếu bạn muốn đồng SKU, cân nặng & kích thước từ Shopee sang Lazada. Liên hệ kĩ thuật để được hỗ trợ
 {% endhint %}

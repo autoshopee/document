@@ -6,7 +6,7 @@ description: Sử dụng thẻ Tag để đánh dấu và lọc đơn hàng
 
 {% embed url="https://youtu.be/axEnP4CZ5FQ" %}
 
-![](<../../../.gitbook/assets/image (5) (2).png>)
+![](<../../../.gitbook/assets/image (5) (2) (1).png>)
 
 ## 1) Thẻ Tag là gì
 
