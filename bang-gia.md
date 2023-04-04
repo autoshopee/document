@@ -14,7 +14,9 @@ coverY: 0
 * Extension Chrome & Firefox
 
 {% hint style="success" %}
-**👉** Bảng giá chi tiết [https://bit.ly/autoshopee-bang-gia](https://bit.ly/autoshopee-bang-gia)
+**👉** Bảng giá chi tiết [https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml#](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml)
 {% endhint %}
+
+{% embed url="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF_xv8i1NvmvKdS8XDPUdOO/pubhtml" %}
 
 > **Cổng thanh toán dịch vụ** [https://payment.autoshopee.com](https://payment.autoshopee.com)
