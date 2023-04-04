@@ -18,13 +18,13 @@ Hệ thống sẽ chuyên sang Shopee Affiliate. Bạn nhập AppId và ApiKey t
 
 **SubId** có thể dùng để phân biệt link rút gọn của nhân viên nào hoặc của chiến dịch nào
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Tạo link theo sản phẩm
 
 Truy cập vào một sản phẩm bất kì, công cụ sẽ tự tạo link rút gọn với sản phẩm tương ứng
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Tạo link khi gửi tin nhắn
 

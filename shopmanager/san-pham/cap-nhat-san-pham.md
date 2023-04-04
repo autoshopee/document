@@ -6,7 +6,7 @@ description: Cập nhật thông tin sản phẩm hàng loạt theo bằng Excel
 
 ## 1) Tải mẫu Excel chỉnh sửa
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
