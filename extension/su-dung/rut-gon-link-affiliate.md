@@ -12,7 +12,7 @@ description: Tạo nhanh link rút gọn khi gửi sản phẩm cho khách hàng
 
 Mở Tab cài đặt > Chọn lấy mã
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 Hệ thống sẽ chuyên sang Shopee Affiliate. Bạn nhập AppId và ApiKey tương ứng
 

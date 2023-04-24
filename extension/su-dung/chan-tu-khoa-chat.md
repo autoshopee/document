@@ -12,7 +12,7 @@ Mở Extension > Tab cài đặt
 
 Thêm các từ khoá muốn chặn
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Sử dụng
 

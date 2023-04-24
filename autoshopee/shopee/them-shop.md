@@ -12,4 +12,4 @@ Bạn cần cài đặt AutoShopee Kit trước, theo hướng dẫn bên dướ
 
 Đăng nhập vào tài khoản Shopee muốn đẩy lên AutoShopee > Chọn Đồng bộ
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>

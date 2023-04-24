@@ -4,7 +4,7 @@ description: >-
   Shopee)
 ---
 
-# Sao chép & nhân bản
+# 👍 Sao chép & nhân bản
 
 > Lưu ý Hệ thống sẽ không thể lấy được Cân nặng, dài, rộng, cao nếu shop sao chép không thuộc sơ hữu của bạn. Còn nếu shop gốc sao chép có thêm vào ShopManager thì đồng bộ đc SKU, câng nặng, dài rộng cao
 

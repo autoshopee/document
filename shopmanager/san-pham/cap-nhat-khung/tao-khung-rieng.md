@@ -17,7 +17,7 @@ Phần mềm thiết kể ảnh giống Canvas miễn phí
 {% hint style="success" %}
 **Danh sách các khung mẫu tham khảo**
 
-****[https://drive.google.com/drive/folders/1JICMD706kEraKDcGkKlNBC1RPvvj7pZn](https://drive.google.com/drive/folders/1JICMD706kEraKDcGkKlNBC1RPvvj7pZn)
+[https://drive.google.com/drive/folders/1JICMD706kEraKDcGkKlNBC1RPvvj7pZn](https://drive.google.com/drive/folders/1JICMD706kEraKDcGkKlNBC1RPvvj7pZn)
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (294).png>)

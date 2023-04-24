@@ -9,7 +9,7 @@ description: >-
 
 ## 1) Thêm Shop
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Nhập thông tin tài khoản và hệ thống đảy sản phẩm</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption><p>Nhập thông tin tài khoản và hệ thống đảy sản phẩm</p></figcaption></figure>
 
 ### 2) Chọn sản phẩm
 
@@ -27,8 +27,8 @@ Shopee cho phép chúng ta đẩy 5 sản phẩm mỗi 4 tiếng, bạn có th�
 
 Shop có thể chọn **Ghim sản phẩm.** Mỗi lần đẩy 4 tiếng sẽ gồm giới hạn tối đa 5 sản phẩm (bao gồm **Sản phẩm ghim** và **Sản phẩm không ghim**):
 
-1. _**Sản phẩm ghim**_** ** là sản phẩm sẽ luôn tự động được đẩy trong mỗi lượt đẩy
-2. _**Sản phẩm không ghim**_** ** (được ưu tiên sau sản phẩm ghim) sẽ được luân phiên trong giới hạn còn lại của mỗi lần đẩy;
+1. _**Sản phẩm ghim**_ là sản phẩm sẽ luôn tự động được đẩy trong mỗi lượt đẩy
+2. _**Sản phẩm không ghim**_ (được ưu tiên sau sản phẩm ghim) sẽ được luân phiên trong giới hạn còn lại của mỗi lần đẩy;
 
 ![Chọn sản phẩm Đẩy](<../../.gitbook/assets/image (275).png>)
 

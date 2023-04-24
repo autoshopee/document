@@ -16,17 +16,17 @@ Chọn Shop bạn muốn Chuyển
 
 Đây là file dữ liệu sau khi được xuất > Bạn có thể chuyển file này sang **máy B** bằng Google Drive, Zalo hoặc Usb
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Dữ liệu Shop</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (3).png" alt=""><figcaption><p>Dữ liệu Shop</p></figcaption></figure>
 
 ## 2) Chuyển dữ liệu sang máy B
 
 Tải lên File dữ liệu vừa xuất ở máy A
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Chọn Tải lên bạn vừa xuất ở máy A
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 Chọn Shop muốn Thêm => Thêm lại Shop
 
