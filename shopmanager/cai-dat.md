@@ -36,6 +36,8 @@ coverY: 0
 
 ### B) MacOS
 
+{% embed url="https://youtu.be/hiu6t_v1PYE" %}
+
 ![Chọn MacOs](<../.gitbook/assets/image (146).png>)
 
 ![Mở file vừa tải về](<../.gitbook/assets/image (147).png>)
