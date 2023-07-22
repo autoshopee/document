@@ -8,6 +8,10 @@ description: Công cụ giúp bạn đối soát và theo dõi các đơn hàng 
 * **Đã nhận** là các đơn mà Shop sẽ xác nhận lại lần nữa vào phần mềm là đã thực về kho
 * Đối chiều giữa việc **Đơn Shopee báo đã hoàn** trả và **Shop xác nhận đã hoàn trả thực tế** => Sẽ đối soát ra nhưng đơn thất lạc
 
+
+
+{% embed url="https://youtu.be/aEpOBtm1A9E" %}
+
 ![](<../../.gitbook/assets/image (253).png>)
 
 ![](<../../.gitbook/assets/image (7) (2) (1).png>)

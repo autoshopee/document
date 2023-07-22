@@ -4,6 +4,10 @@ description: Thông báo đơn hàng qua các kênh chat như Facebook Telegram
 
 # Kênh thông báo
 
+
+
+{% embed url="https://youtu.be/4jg4QEfLTUA" %}
+
 ## 1) Tạo kênh thông báo
 
 ![Chọn Tab Kênh thông báo](<../../.gitbook/assets/image (274).png>)

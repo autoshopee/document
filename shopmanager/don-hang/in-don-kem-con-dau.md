@@ -6,6 +6,8 @@ description: Công cụ giúp bạn thêm các nội dung bổ sung khi in đơn
 
 Đối vơi một số bạn bán sản phẩm nhạy cảm, hoặc bạn muốn lưu ý một thông tin nào đó trên đơn hàng một cách tự động
 
+{% embed url="https://youtu.be/p8jO0y9aVqo" %}
+
 <figure><img src="../../.gitbook/assets/Untitled-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1) Cài đặt
