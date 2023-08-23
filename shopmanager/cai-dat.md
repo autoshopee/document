@@ -37,20 +37,18 @@ coverY: 0
 ### B) MacOS
 
 {% embed url="https://youtu.be/hiu6t_v1PYE" %}
+Hướng dẫn cài đặt
+{% endembed %}
 
-![Chọn MacOs](<../.gitbook/assets/image (146).png>)
 
-![Mở file vừa tải về](<../.gitbook/assets/image (147).png>)
 
-![Vào Launchpad => Mở ShopManager vừa cài](<../.gitbook/assets/image (150).png>)
+<figure><img src="../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
 
-![Chọn OK](<../.gitbook/assets/image (152).png>)
+{% embed url="https://youtu.be/vq81HJb8e-k" %}
+Xử lý lỗi càid dặt bị hỏng
+{% endembed %}
 
-![Apple > System Perences](<../.gitbook/assets/image (153).png>)
-
-![Chọn Security & Privacy](<../.gitbook/assets/image (154).png>)
-
-![Chọn Tab General > Open Anyway](<../.gitbook/assets/image (155).png>)
+##
 
 ## 2) Sử dụng
 
