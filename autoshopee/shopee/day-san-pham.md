@@ -7,11 +7,21 @@ description: >-
 
 # Đẩy sản phẩm
 
-## 1) Thêm Shop
+### 1) Thêm Shop lên AutoShopee
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption><p>Nhập thông tin tài khoản và hệ thống đảy sản phẩm</p></figcaption></figure>
+Bạn sẽ đồng bộ Shop từ ShopManager lên AutoShopee. để cấp quyền cho AutoShopee quản lý sản phẩm
+
+Mở Shop Manager và làm như sau
+
+<figure><img src="../../.gitbook/assets/image (332).png" alt=""><figcaption><p>Menu chức năng > Shop</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (333).png" alt=""><figcaption><p>Chọn shop muốn đẩy và đồng bộ lên AutoShopee</p></figcaption></figure>
 
 ### 2) Chọn sản phẩm
+
+Truy cập lại AutoShopee Web [https://autoshopee.com/dashboard](https://autoshopee.com/shopee/shop/dashboard)
+
+<figure><img src="../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
 Chọn Shop muốn đẩy sản phẩm
 
