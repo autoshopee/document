@@ -14,8 +14,8 @@ description: >-
 
 Lọc các đơn **Đã hoàn thành**
 
-* **Chưa đối soá**t là các đơn chưa được thanh toán => Nếu đơn đã giao quá 7 ngày nhưng chưa được thanh toán => Khiếu nại với Shopê
-* **Đã đối soát** là các đơn đã được thanh toán và khơp với doanh thu
+* **Chưa đối soá**t là các đơn chưa được thanh toán => Nếu đơn đã giao quá 7 ngày nhưng chưa được thanh toán => Khiếu nại với Shopee
+* **Đã đối soát** là các đơn đã được thanh toán và khớp với doanh thu
 * **Đối soát dư** là các đơn đã được thanh toán nhiều hơn doanh thu
 * **Đối soát thiếu** là các đơn đã được thanh toán nhưng bị thiếu => Xem xét và khiếu nại với Shopee
 

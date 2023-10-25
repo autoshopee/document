@@ -9,8 +9,8 @@ description: >-
 
 **Một số kịch bản có thể áp dụng**
 
-1. <mark style="color:red;">Nhăn tin báo đơn hàng mới => Nhắc khách xác nhận lại thông tin địa giao hàng</mark>
-2. <mark style="color:red;">Nhăn tin đơn hàng đang giao => Nhắc khách chuẩn bị nhận hàng</mark>
+1. <mark style="color:red;">Nhắn tin báo đơn hàng mới => Nhắc khách xác nhận lại thông tin địa giao hàng</mark>
+2. <mark style="color:red;">Nhắn tin đơn hàng đang giao => Nhắc khách chuẩn bị nhận hàng</mark>
 3. <mark style="color:red;">Nhắn tin đơn hàng đã giao => Nhắc khách đánh giá</mark>
 4. <mark style="color:red;">Khi đơn hàng giao thành công => Đánh giá khách hàng và gửi lời cảm ơn</mark>
 5. <mark style="color:red;">Khi khách đánh giá sản phẩm => Gửi tin nhắn cảm ơn, tặng mã Voucher cho khách</mark>
@@ -20,9 +20,9 @@ description: >-
 9. <mark style="color:green;">Khi được đánh giá sản phẩm => Trả lời đánh giá khách hàng</mark>
 
 {% hint style="danger" %}
-Thơi điểm hiện tại Shopee không cho phép gửi các tin nhăn spam tới khách hàng.
+Thời điểm hiện tại Shopee không cho phép gửi các tin nhắn spam tới khách hàng.
 
-Nên việc gửi tin nhăn tự động như trên có thể bị shopee hiểu lầm là spam=> khoá
+Nên việc gửi tin nhắn tự động như trên có thể bị shopee hiểu lầm là spam=> khoá
 
 chat trong 24-48h.
 

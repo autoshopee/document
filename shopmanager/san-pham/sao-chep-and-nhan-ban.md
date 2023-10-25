@@ -6,7 +6,7 @@ description: >-
 
 # 👍 Sao chép & nhân bản
 
-> Lưu ý Hệ thống sẽ không thể lấy được Cân nặng, dài, rộng, cao nếu shop sao chép không thuộc sơ hữu của bạn. Còn nếu shop gốc sao chép có thêm vào ShopManager thì đồng bộ đc SKU, câng nặng, dài rộng cao
+> Lưu ý Hệ thống sẽ không thể lấy được Cân nặng, dài, rộng, cao nếu shop sao chép không thuộc sở hữu của bạn. Còn nếu shop gốc sao chép có thêm vào ShopManager thì đồng bộ được SKU, cân nặng, dài rộng cao
 
 {% embed url="https://youtu.be/ur0jXIaD5cc" %}
 Video hướng dẫn
@@ -31,7 +31,7 @@ Cho phép chọn nhiều Shop khi sao chép
 
 ## 3) Chỉnh sửa tiêu đề, mô tả, giá, đổi MD5, đóng khung
 
-Bạn có thể sủa tiêu đề, giá,mô tả (nếu muốn)
+Bạn có thể sửa tiêu đề, giá,mô tả (nếu muốn)
 
 ![](<../../.gitbook/assets/image (30).png>)
 
