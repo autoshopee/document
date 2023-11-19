@@ -81,6 +81,7 @@
   * [Sao chép Video](extension/su-dung/sao-chep-video.md)
   * [Tải ảnh & Video](extension/su-dung/tai-anh-and-video.md)
   * [Tiktok & Lazada](extension/su-dung/tiktok-and-lazada.md)
+  * [Tạo FlashSale hàng loạt](extension/su-dung/tao-flashsale-hang-loat.md)
 
 ## ❌ Xử lý lỗi
 

@@ -30,4 +30,4 @@ Chọn Tải lên bạn vừa xuất ở máy A
 
 Chọn Shop muốn Thêm => Thêm lại Shop
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
