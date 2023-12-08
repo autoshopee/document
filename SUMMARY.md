@@ -38,10 +38,11 @@
   * [✈ Chuyển dữ liệu](shopmanager/nang-cao/chuyen-du-lieu/README.md)
     * [Chuyển Shop](shopmanager/nang-cao/chuyen-du-lieu/chuyen-shop.md)
     * [Chuyển toàn bộ](shopmanager/nang-cao/chuyen-du-lieu/chuyen-toan-bo.md)
-  * [Thiết bị đăng nhập](shopmanager/nang-cao/thiet-bi-dang-nhap.md)
+  * [🌐 Proxy](shopmanager/nang-cao/proxy/README.md)
+    * [Proxy hệ thống](shopmanager/nang-cao/proxy/proxy-he-thong.md)
+    * [Proxy Private](shopmanager/nang-cao/proxy/proxy-private.md)
   * [In đơn](shopmanager/nang-cao/in-don.md)
-  * [Proxy hệ thống](shopmanager/nang-cao/proxy-he-thong.md)
-  * [Proxy Private](shopmanager/nang-cao/proxy-private.md)
+  * [Thiết bị đăng nhập](shopmanager/nang-cao/thiet-bi-dang-nhap.md)
 
 ## 📙 AutoShopee
 

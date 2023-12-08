@@ -25,6 +25,6 @@ Bạn có thể tham khảo với các nhà cung cấp dưới đây ưu tiên P
 
 ## 3) Gắn Proxy vào Shop
 
-![Dán Proxy vào Shop > Cập nhật](<../../.gitbook/assets/image (138).png>)
+![Dán Proxy vào Shop > Cập nhật](<../../../.gitbook/assets/image (138).png>)
 
-![Kết quả](<../../.gitbook/assets/image (139).png>)
+![Kết quả](<../../../.gitbook/assets/image (139).png>)
