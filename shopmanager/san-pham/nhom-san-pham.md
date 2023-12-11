@@ -12,13 +12,13 @@ Lấy vi dụ minh sẽ tạo nhóm sản phẩm từ shop này => [https://shop
 
 ### a) Quét sản phẩm của Shop
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Quét sản phẩm của Shop</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2) (2).png" alt=""><figcaption><p>Quét sản phẩm của Shop</p></figcaption></figure>
 
 ### b) Thêm sản phẩm vào nhóm
 
 Bạn chọn  các sản phẩm muốn thêm vào nhóm. > Lưu vào nhóm
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Nhập sản phẩm vào nhóm</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Nhập sản phẩm vào nhóm</p></figcaption></figure>
 
 ### c) Kiêm tra đã vào nhóm chưa
 

@@ -18,7 +18,7 @@ Thời gian hỗ trợ quý khách hàng từ 08h00 sáng đến 18h00 các ngà
 
 <div data-full-width="true">
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

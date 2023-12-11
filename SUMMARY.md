@@ -43,6 +43,7 @@
     * [Proxy Private](shopmanager/nang-cao/proxy/proxy-private.md)
   * [In đơn](shopmanager/nang-cao/in-don.md)
   * [Thiết bị đăng nhập](shopmanager/nang-cao/thiet-bi-dang-nhap.md)
+  * [🤖 Cài đặt Extension](shopmanager/nang-cao/cai-dat-extension.md)
 
 ## 📙 AutoShopee
 

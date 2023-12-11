@@ -20,4 +20,4 @@ Vậy là xong > Bạn quay lại phần mềm > Phần In sẽ tự động chu
 
 ## 2) In gộp nhiều đơn trên một tờ
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
