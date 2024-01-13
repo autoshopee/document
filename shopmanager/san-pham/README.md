@@ -14,6 +14,6 @@ description: Công cụ hỗ trợ sao chép, cập nhật sản phẩm trên Sh
 [cap-nhat-khung.md](cap-nhat-khung.md)
 {% endcontent-ref %}
 
-{% content-ref url="dong-bo-nhieu-shop.md" %}
-[dong-bo-nhieu-shop.md](dong-bo-nhieu-shop.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
