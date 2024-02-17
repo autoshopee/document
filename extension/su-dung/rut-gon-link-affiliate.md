@@ -24,7 +24,7 @@ Hệ thống sẽ chuyên sang Shopee Affiliate. Bạn nhập AppId và ApiKey t
 
 Truy cập vào một sản phẩm bất kì, công cụ sẽ tự tạo link rút gọn với sản phẩm tương ứng
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Tạo link khi gửi tin nhắn
 

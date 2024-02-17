@@ -32,7 +32,6 @@
   * [Chăm sóc & trả lời tự động](shopmanager/khach-hang/cham-soc-and-tra-loi-tu-dong.md)
   * [Gửi tin nhắn Remarketing](shopmanager/khach-hang/gui-tin-nhan-remarketing.md)
 * [⚓ Nâng cao](shopmanager/nang-cao/README.md)
-  * [🗒 Cập nhật](shopmanager/cap-nhat.md)
   * [✈ Chuyển dữ liệu](shopmanager/nang-cao/chuyen-du-lieu/README.md)
     * [Chuyển Shop](shopmanager/nang-cao/chuyen-du-lieu/chuyen-shop.md)
     * [Chuyển toàn bộ](shopmanager/nang-cao/chuyen-du-lieu/chuyen-toan-bo.md)
@@ -42,6 +41,19 @@
   * [In đơn](shopmanager/nang-cao/in-don.md)
   * [Thiết bị đăng nhập](shopmanager/nang-cao/thiet-bi-dang-nhap.md)
   * [🤖 Cài đặt Extension](shopmanager/nang-cao/cai-dat-extension.md)
+
+## 📒 Extension
+
+* [💻 Cài đặt](extension/cai-dat.md)
+* [👉 Sử dụng](extension/su-dung/README.md)
+  * [🤖 Tải đánh giá sản phẩm](extension/su-dung/tai-danh-gia-san-pham.md)
+  * [🥂 Tạo FlashSale hàng loạt](extension/su-dung/tao-flashsale-hang-loat.md)
+  * [Chặn từ khoá Chat](extension/su-dung/chan-tu-khoa-chat.md)
+  * [Rút gọn Link Affiliate](extension/su-dung/rut-gon-link-affiliate.md)
+  * [Sao chép sản phẩm](extension/su-dung/sao-chep-san-pham.md)
+  * [Sao chép Video](extension/su-dung/sao-chep-video.md)
+  * [Tải ảnh & Video](extension/su-dung/tai-anh-and-video.md)
+  * [Tiktok & Lazada](extension/su-dung/tiktok-and-lazada.md)
 
 ## 📙 AutoShopee
 
@@ -70,18 +82,6 @@
   * [Giới thiệu](subcheo/cai-dat.md)
   * [Thêm tài khoản chính](subcheo/su-dung/them-tai-khoan-chinh.md)
   * [Thêm tài khoản phụ](subcheo/su-dung/them-tai-khoan-phu.md)
-
-## 📒 Extension
-
-* [👉 Sử dụng](extension/su-dung/README.md)
-  * [Cài đặt](extension/cai-dat.md)
-  * [Chặn từ khoá Chat](extension/su-dung/chan-tu-khoa-chat.md)
-  * [Rút gọn Link Affiliate](extension/su-dung/rut-gon-link-affiliate.md)
-  * [Sao chép sản phẩm](extension/su-dung/sao-chep-san-pham.md)
-  * [Sao chép Video](extension/su-dung/sao-chep-video.md)
-  * [Tải ảnh & Video](extension/su-dung/tai-anh-and-video.md)
-  * [Tiktok & Lazada](extension/su-dung/tiktok-and-lazada.md)
-  * [Tạo FlashSale hàng loạt](extension/su-dung/tao-flashsale-hang-loat.md)
 
 ## ❌ Xử lý lỗi
 

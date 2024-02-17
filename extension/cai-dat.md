@@ -4,7 +4,7 @@ description: >-
   duyệt Chrome/Firefox/CocCoc
 ---
 
-# Cài đặt
+# 💻 Cài đặt
 
 ## 1) Trình duyệt Chrome - Coc Coc
 
