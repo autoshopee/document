@@ -6,8 +6,8 @@
 
 ## 📗 Shop Manager (\*) <a href="#shopmanager" id="shopmanager"></a>
 
-* [⚙ Cài đặt](shopmanager/cai-dat.md)
-* [🖥 Quản lý](shopmanager/quan-ly/README.md)
+* [⚙️ Cài đặt](shopmanager/cai-dat.md)
+* [🖥️ Quản lý](shopmanager/quan-ly/README.md)
   * [Thêm Shop](shopmanager/quan-ly/them-shop.md)
   * [Xoá Shop](shopmanager/quan-ly/xoa-shop.md)
   * [Chat tập trung](shopmanager/quan-ly/tin-nhan-tap-trung.md)
@@ -28,11 +28,11 @@
   * [Tối ưu đóng gói](shopmanager/don-hang/toi-uu-dong-goi.md)
   * [In đơn kèm con dấu](shopmanager/don-hang/in-don-kem-con-dau.md)
   * [Kênh thông báo](shopmanager/don-hang/kenh-thong-bao.md)
-* [👩💼 Khách hàng](shopmanager/khach-hang/README.md)
+* [👩‍💼 Khách hàng](shopmanager/khach-hang/README.md)
   * [Chăm sóc & trả lời tự động](shopmanager/khach-hang/cham-soc-and-tra-loi-tu-dong.md)
   * [Gửi tin nhắn Remarketing](shopmanager/khach-hang/gui-tin-nhan-remarketing.md)
 * [⚓ Nâng cao](shopmanager/nang-cao/README.md)
-  * [✈ Chuyển dữ liệu](shopmanager/nang-cao/chuyen-du-lieu/README.md)
+  * [✈️ Chuyển dữ liệu](shopmanager/nang-cao/chuyen-du-lieu/README.md)
     * [Chuyển Shop](shopmanager/nang-cao/chuyen-du-lieu/chuyen-shop.md)
     * [Chuyển toàn bộ](shopmanager/nang-cao/chuyen-du-lieu/chuyen-toan-bo.md)
   * [🌐 Proxy](shopmanager/nang-cao/proxy/README.md)
@@ -61,7 +61,7 @@
   * [Thêm Shop](autoshopee/shopee/them-shop.md)
   * [Đẩy sản phẩm](autoshopee/shopee/day-san-pham.md)
 * [🧰 Sao chép đa sàn](autoshopee/sao-chep-da-san/README.md)
-  * [✍ Bảng giá](autoshopee/sao-chep-da-san/bang-gia.md)
+  * [✍️ Bảng giá](autoshopee/sao-chep-da-san/bang-gia.md)
   * [TikTok](autoshopee/sao-chep-da-san/tiktok/README.md)
     * [Shopee => TikTok](autoshopee/sao-chep-da-san/tiktok/shopee-to-tiktok.md)
     * [Tiktok => TikTok](autoshopee/sao-chep-da-san/tiktok/tiktok-to-tiktok.md)

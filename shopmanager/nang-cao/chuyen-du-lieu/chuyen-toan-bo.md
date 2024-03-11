@@ -12,9 +12,11 @@ description: >-
 
 ## 2) Lấy dữ liệu dữ liệu của máy A
 
-Trước khi copy dữ liệu, hãy tắt hẵn phần mềm và chờ 60 giây để dữ liệu cập nhật, sau đó hãy copy file main.sqlite từ máy A sang máy B (bằng USB hoặc google Drive).&#x20;
+Trước khi copy dữ liệu, hãy **tắt hẵn phần mềm và chờ 60 giây**.
 
-<figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
+Sau đó hãy copy file **main.sqlite, order-main.sqlite, shop-main.sqlite** từ máy A sang máy B (bằng USB hoặc Google Drive).&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Sao chép sang máy B
 
