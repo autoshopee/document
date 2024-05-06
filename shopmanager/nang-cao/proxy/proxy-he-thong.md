@@ -42,7 +42,7 @@ xcode-select --install
 Sau đó chạy
 
 ```bash
-curl -O -L http://downloads.sourceforge.net/project/sshpass/sshpass/1.05/sshpass-1.05.tar.gz && tar xvzf sshpass-1.05.tar.gz && cd sshpass-1.05 && ./configure && make && sudo make install
+curl -O -L http://downloads.sourceforge.net/project/sshpass/sshpass/1.06/sshpass-1.06.tar.gz && tar xvzf sshpass-1.06.tar.gz && cd sshpass-1.06 && ./configure && make && sudo make install
 ```
 
 ![Dán dòng lênh trên](<../../../.gitbook/assets/image (133).png>)
