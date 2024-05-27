@@ -37,7 +37,7 @@
     * [Chuyển toàn bộ](shopmanager/nang-cao/chuyen-du-lieu/chuyen-toan-bo.md)
   * [🌐 Proxy](shopmanager/nang-cao/proxy/README.md)
     * [Proxy hệ thống](shopmanager/nang-cao/proxy/proxy-he-thong.md)
-    * [Proxy Private](shopmanager/nang-cao/proxy/proxy-private.md)
+    * [Proxy Cá nhân (Private)](shopmanager/nang-cao/proxy/proxy-private.md)
   * [In đơn](shopmanager/nang-cao/in-don.md)
   * [Thiết bị đăng nhập](shopmanager/nang-cao/thiet-bi-dang-nhap.md)
   * [🤖 Cài đặt Extension](shopmanager/nang-cao/cai-dat-extension.md)
