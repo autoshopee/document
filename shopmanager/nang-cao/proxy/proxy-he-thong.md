@@ -5,7 +5,11 @@ description: ShopManager có hỗ trợ hệ thống Proxy miễn phí cập nh�
 # Proxy hệ thống
 
 {% hint style="warning" %}
-Lưu ý sử dụng Proxy sẽ chậm hơn bình thường 30-40% nhé.\
+Lưu ý sử dụng Proxy sẽ chậm hơn bình thường (chỉ băng 30-40% so với bình thường)
+
+Proxy được trích xuất từ các trang chia sẽ Proxy miễn phí, chúng tôi sẽ không chịu trách nhiệm nếu Proxy không đạt yêu cầu về hiệu năng
+
+\
 Nếu bạn không đặt đơn ảo (tách biệt Shop chính với Shop đặt đơn) thì không nhất thiết dùng Proxy nhé
 {% endhint %}
 
