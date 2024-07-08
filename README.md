@@ -84,7 +84,7 @@ Chăm sóc khách hàng tự động sau bán hàng, nhắc nhở khách đánh 
 [cham-soc-and-tra-loi-tu-dong.md](shopmanager/khach-hang/cham-soc-and-tra-loi-tu-dong.md)
 {% endcontent-ref %}
 
-## 5) Tăng tương tác Follow/Like/View cho Shop
+## 5) Tăng tương tác Follow/Like/View cho Shop (tạm dừng)
 
 Bạn có thể sử dụng **Subcheo** để tăng tương tác cho Shop
 
