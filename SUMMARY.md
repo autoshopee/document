@@ -76,13 +76,6 @@
   * [Facebook](autoshopee/thong-bao-don-hang/thong-bao-facebook.md)
   * [Telegram](autoshopee/thong-bao-don-hang/thong-bao-telegram.md)
 
-## 📘 Subcheo
-
-* [👉 Sử dụng](subcheo/su-dung/README.md)
-  * [Giới thiệu](subcheo/cai-dat.md)
-  * [Thêm tài khoản chính](subcheo/su-dung/them-tai-khoan-chinh.md)
-  * [Thêm tài khoản phụ](subcheo/su-dung/them-tai-khoan-phu.md)
-
 ## ❌ Xử lý lỗi
 
 * [Shopee](xu-ly-loi/shopee/README.md)
@@ -102,3 +95,10 @@
 
 * [🎬 Youtube](https://www.youtube.com/channel/UCgWEVdjVbHY95L\_5few8wsQ)
 * [🔗 Facebook](https://www.facebook.com/toolautoshopee)
+
+## 📘 Subcheo (tạm dừng) <a href="#subcheo" id="subcheo"></a>
+
+* [👉 Sử dụng](subcheo/su-dung/README.md)
+  * [Giới thiệu](subcheo/cai-dat.md)
+  * [Thêm tài khoản chính](subcheo/su-dung/them-tai-khoan-chinh.md)
+  * [Thêm tài khoản phụ](subcheo/su-dung/them-tai-khoan-phu.md)
