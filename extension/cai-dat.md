@@ -10,11 +10,11 @@ description: >-
 
 > **Tải ở đây** [https://chrome.google.com/webstore/search/autoshopee](https://chrome.google.com/webstore/search/autoshopee)
 
-![Chọn Autoshopee](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+![Chọn Autoshopee](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 
 ![Thêm vào Chrome](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
 
 ## 2) Trình duyệt Firefox
 

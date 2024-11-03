@@ -8,7 +8,7 @@ description: >-
 
 ## 1) Cài đặt
 
-![](<../../.gitbook/assets/image (18) (2).png>)
+![](<../../../.gitbook/assets/image (18) (2).png>)
 
 ## 2) Lọc đơn
 
@@ -19,8 +19,8 @@ Lọc các đơn **Đã hoàn thành**
 * **Đối soát dư** là các đơn đã được thanh toán nhiều hơn doanh thu
 * **Đối soát thiếu** là các đơn đã được thanh toán nhưng bị thiếu => Xem xét và khiếu nại với Shopee
 
-![](<../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../../.gitbook/assets/image (8) (1) (1).png>)
 
 ## 3) Xuât Excel
 
-![](<../../.gitbook/assets/image (15) (2).png>)
+![](<../../../.gitbook/assets/image (15) (2).png>)

@@ -24,11 +24,11 @@ Hệ thống sẽ chuyên sang Shopee Affiliate. Bạn nhập AppId và ApiKey t
 
 Truy cập vào một sản phẩm bất kì, công cụ sẽ tự tạo link rút gọn với sản phẩm tương ứng
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Tạo link khi gửi tin nhắn
 
 Khi chat với khách hàng bạn cũng có thể gửi nhanh sản phẩm có rút gọn link cho khách hàng. Đây là một tính năng tuyệt với giúp bạn gia tăng lợi nhuận cho Shop
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 

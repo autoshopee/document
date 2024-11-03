@@ -70,8 +70,8 @@ Xử lý đơn hàng (Chuẩn bị và In đơn) nhiều Shop và nhiều DVVC c
 [in-don-hang-loat.md](shopmanager/don-hang/in-don-hang-loat.md)
 {% endcontent-ref %}
 
-{% content-ref url="shopmanager/don-hang/doi-soat-hang-hoan.md" %}
-[doi-soat-hang-hoan.md](shopmanager/don-hang/doi-soat-hang-hoan.md)
+{% content-ref url="shopmanager/don-hang/doi-soat/doi-soat-hang-hoan.md" %}
+[doi-soat-hang-hoan.md](shopmanager/don-hang/doi-soat/doi-soat-hang-hoan.md)
 {% endcontent-ref %}
 
 ## 4) Chăm sóc khách hàng

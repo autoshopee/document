@@ -6,11 +6,7 @@ description: Thêm hàng loạt tài khoản phụ để kiếm điểm nuôi tk
 
 ## \*) Mua tài khoản phụ
 
-Gợi ý cho bạn một số nơi bán tài khoản phụ (chúng tôi chỉ giới thiệu nên sẽ không chiu bất kì trách nhiệm nếu tài khoản phụ bị lỗi)
-
-Website: [https://toolphamhoanglong.com](https://toolphamhoanglong.com/)
-
-<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>Mua tài khoản phụ</p></figcaption></figure>
+Quý khách có thể mua tài khoản phụ từ một số bên dịch vụ Shopee với giá giao động từ 3-5k, có sẵn mã SPC\_F sau đó thêm vào hệ thống Subcheo.
 
 ## 1) Lấy mã SPC\_F (Tắt OTP)
 
@@ -28,7 +24,7 @@ Lưu lại mã SPC\_F để đăng nhập
 
 ## 2) Thêm từng tài khoản
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
