@@ -7,6 +7,8 @@ description: >-
 
 # 🔥 Lịch sử In đơn
 
+_**Lưu ý quan trọng**: Dư liệu File in đơn chỉ có khi bạn sử dụng phần mềm ShopManager để In đơn hàng_
+
 ## 1) Xem lịch sử In
 
 Khi bạn In đơn hàng trên Shopee, Lazada, Tiktok thông qua phần mềm ShopManager hệ thống sẽ tự lưu lại lịch sử In đơn.
