@@ -37,3 +37,16 @@ Phần mềm còn hỗ trợ bạn tìm kiếm nội dung có trong tê
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+
+
+## 3) Đánh số trang và tạo phiên in
+
+Với các Shop có số lượng đơn lớn việc phân chia đơn để nhân viên để đóng hàng là việc vô cùng quan trọng
+
+Công cụ sẽ giúp bạn đánh số trang giúp bạn dễ dàng kiểm soát đơn phân cho từng nhân viên
+
+<figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
