@@ -18,7 +18,9 @@ Bạn có thể tham khảo với các nhà cung cấp dưới đây ưu tiên P
 * [https://sellproxy247.com/](https://sellproxy247.com/)
 * [https://proxyvn247.com/](https://proxyvn247.com/)
 
-<mark style="color:red;">Lưu ý chỉ sử dụng IPv4 không dùng được IPv6 nhé</mark>
+<mark style="color:red;">Lưu ý chỉ sử dụng IPv4 không dùng được, sẽ không dùng IPv6</mark>
+
+<mark style="color:red;">Các dịch vụ Proxy Rotaion (Xoay IP) như TinsoftProxy, TMProxy, WanProxyBox => chưa được hỗ trợ</mark>&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
