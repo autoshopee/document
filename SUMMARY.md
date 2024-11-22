@@ -1,6 +1,7 @@
 # Table of contents
 
-* [💡 Giới thiệu](README.md)
+* [🔥 D.vụ Buff Follow Shopee](README.md)
+* [💡 Giới thiệu](<README (1).md>)
 * [💰 Bảng giá](bang-gia.md)
 * [📞 Liên hệ](lien-he.md)
 
