@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔥 D.vụ Buff Follow Shopee](README.md)
+* [🏠 Trang chủ](README.md)
 * [💡 Giới thiệu](<README (1).md>)
 * [💰 Bảng giá](bang-gia.md)
 * [📞 Liên hệ](lien-he.md)
@@ -97,7 +97,7 @@
 
 ***
 
-* [🎬 Youtube](https://www.youtube.com/channel/UCgWEVdjVbHY95L\_5few8wsQ)
+* [🎬 Youtube](https://www.youtube.com/channel/UCgWEVdjVbHY95L_5few8wsQ)
 * [🔗 Facebook](https://www.facebook.com/toolautoshopee)
 
 ## 📘 Subcheo (tạm dừng) <a href="#subcheo" id="subcheo"></a>

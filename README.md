@@ -1,4 +1,21 @@
-# 🔥 D.vụ Buff Follow Shopee
+# 🏠 Trang chủ
+
+
+
+## ⭐Chương trình Khuyến mãi AutoShopee đón Tết
+
+Áp dụng từ ngày 01-12-2024 tới ngày 31-12-2024
+
+\
+
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>CTKM cuối năm tháng 12-2024</p></figcaption></figure>
+
+Liên hệ [https://zalo.me/autoshopeevn](https://zalo.me/autoshopeevn)
+
+***
+
+## 🔥 Dịch vụ Buff tăng lượt Follow (theo dõi) Shopee
 
 <figure><img src=".gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
 
@@ -8,10 +25,12 @@
 
 👉 Gói F5: Tăng 5000 Follow / 500k
 
-Thời gian hoàn thành từ 1-5 ngày, cam kết không tuột Follow và có bảo hành
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Bảng giá</p></figcaption></figure>
+
+_Thời gian hoàn thành từ 1-5 ngày, cam kết không tuột Follow và có bảo hành._ Đối tác của Subcheo bảo trợ
 
 ☎ Quý anh/chị liên hệ CSKH để biết thêm chi tiết.
 
-[https://zalo.me/autoshopeevn](https://www.youtube.com/redirect?event=backstage\_event\&redir\_token=QUFFLUhqazBQeFh2d1RrVFZlSFdxQWNtdm5fWjZVN1pfZ3xBQ3Jtc0tuaFBhcVIwanp6YXU1TERzSXlsYjRwYlVvNHlKWUNRQ19QTDh6cFdVcjRPVkRPakVSQl9QWnU5NUJkZDBLVkxZYi1manEya0RLS0Q5UWJLUUlGNDJiNjBJSXUwNTc1enF5WXlnMG1UZjI0NXVIczBINA\&q=https%3A%2F%2Fzalo.me%2Fautoshopeevn)
-
-Đối tác của Subcheo
+[https://zalo.me/autoshopeevn](https://zalo.me/autoshopeevn)
