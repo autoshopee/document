@@ -101,7 +101,7 @@
 * [🎬 Youtube](https://www.youtube.com/channel/UCgWEVdjVbHY95L_5few8wsQ)
 * [🔗 Facebook](https://www.facebook.com/toolautoshopee)
 
-## 📘 Subcheo (tạm dừng) <a href="#subcheo" id="subcheo"></a>
+## 📘 Subcheo
 
 * [👉 Sử dụng](subcheo/su-dung/README.md)
   * [Giới thiệu](subcheo/cai-dat.md)
