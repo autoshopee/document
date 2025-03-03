@@ -8,8 +8,8 @@ description: Hướng dẫn các chức năng của Extension trên Shopee
 Bạn cần xem cài đặt Extension trước nhé
 {% endhint %}
 
-{% content-ref url="../cai-dat/pre.md" %}
-[pre.md](../cai-dat/pre.md)
+{% content-ref url="../cai-dat/cai-dat.md" %}
+[cai-dat.md](../cai-dat/cai-dat.md)
 {% endcontent-ref %}
 
 ![Vào Trang sản phẩm Shopee => Mở Extension => ở gốc phải trình duyệt](<../../.gitbook/assets/image (47).png>)

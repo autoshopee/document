@@ -1,4 +1,8 @@
-# 💻 FireFox
+---
+icon: firefox
+---
+
+# FireFox
 
 
 

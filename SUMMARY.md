@@ -49,9 +49,9 @@
 ## 📒 Extension
 
 * [Cài đặt](extension/cai-dat/README.md)
-  * [💻 Trước cài đặt](extension/cai-dat/pre.md)
-  * [💻 Chrome / Coc Coc](extension/cai-dat/chrome.md)
-  * [💻 FireFox](extension/cai-dat/firefox.md)
+  * [💻 Trước cài đặt](extension/cai-dat/cai-dat.md)
+  * [Chrome / Coc Coc](extension/cai-dat/chrome.md)
+  * [FireFox](extension/cai-dat/cai-dat-1.md)
 * [👉 Sử dụng](extension/su-dung/README.md)
   * [🤖 Tải đánh giá sản phẩm](extension/su-dung/tai-danh-gia-san-pham.md)
   * [🥂 Tạo FlashSale hàng loạt](extension/su-dung/tao-flashsale-hang-loat.md)

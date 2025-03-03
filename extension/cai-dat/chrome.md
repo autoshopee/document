@@ -1,11 +1,15 @@
-# 💻 Chrome / Coc Coc
+---
+icon: chrome
+---
+
+# Chrome / Coc Coc
 
 {% hint style="danger" %}
 Bạn cần thao tác "trước cài đặt" để cài không bị lỗi
 {% endhint %}
 
-{% content-ref url="pre.md" %}
-[pre.md](pre.md)
+{% content-ref url="cai-dat.md" %}
+[cai-dat.md](cai-dat.md)
 {% endcontent-ref %}
 
 ## Cài đặt&#x20;
