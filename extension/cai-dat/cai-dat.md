@@ -4,7 +4,15 @@
 
 <figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
-> Tải lệnh sau [https://drive.usercontent.google.com/u/0/uc?id=1HtUctO6uX5nHERqm7ukY1jLRwmM5u8TR\&export=download](https://drive.usercontent.google.com/u/0/uc?id=1HtUctO6uX5nHERqm7ukY1jLRwmM5u8TR\&export=download)
+>
+
+
+
+{% hint style="warning" %}
+Tải File sau về máy (cai-dat-autosohpee-kit.zip)
+
+[https://drive.usercontent.google.com/u/0/uc?id=1HtUctO6uX5nHERqm7ukY1jLRwmM5u8TR\&export=download](https://drive.usercontent.google.com/u/0/uc?id=1HtUctO6uX5nHERqm7ukY1jLRwmM5u8TR\&export=download)
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption><p>Giải nén</p></figcaption></figure>
 
