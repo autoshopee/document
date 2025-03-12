@@ -11,7 +11,7 @@
 {% hint style="warning" %}
 Tải File sau về máy (cai-dat-autosohpee-kit.zip)
 
-[https://drive.usercontent.google.com/u/0/uc?id=1HtUctO6uX5nHERqm7ukY1jLRwmM5u8TR\&export=download](https://drive.usercontent.google.com/u/0/uc?id=1HtUctO6uX5nHERqm7ukY1jLRwmM5u8TR\&export=download)
+[https://release.autoshopee.com/extend/unlock-extension/cai-dat-autosohpee-kit%20%28unlock%29.zip](https://release.autoshopee.com/extend/unlock-extension/cai-dat-autosohpee-kit%20\(unlock\).zip)
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption><p>Giải nén</p></figcaption></figure>
