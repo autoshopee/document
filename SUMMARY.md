@@ -49,7 +49,7 @@
 ## 📒 Extension
 
 * [Cài đặt](extension/cai-dat/README.md)
-  * [💻 Trước cài đặt](extension/cai-dat/cai-dat.md)
+  * [💻 Sửa lỗi Chrome](extension/cai-dat/cai-dat.md)
   * [Chrome / Coc Coc](extension/cai-dat/chrome.md)
   * [FireFox](extension/cai-dat/cai-dat-1.md)
 * [👉 Sử dụng](extension/su-dung/README.md)

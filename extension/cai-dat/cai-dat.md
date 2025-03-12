@@ -1,6 +1,10 @@
-# 💻 Trước cài đặt
+# 💻 Sửa lỗi Chrome
 
-Đây là cách fix lỗi trên trình duyệt Chrome
+Đây là cách sửa lỗi lỗi trên trình duyệt Chrome
+
+{% hint style="danger" %}
+Tiện ích này không còn hoạt đồng nữa vì không tuần thủ các phương thức hay nhất dành cho tiện ích của Chrome
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
