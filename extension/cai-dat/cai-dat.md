@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 💻 Sửa lỗi Chrome
 
 Đây là cách sửa lỗi lỗi trên trình duyệt Chrome
