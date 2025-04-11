@@ -1,5 +1,6 @@
 ---
 description: Công cụ giúp bạn chặn các từ khoá cấm nếu lỡ tay nhắn tin cho khách hàng
+hidden: true
 ---
 
 # Chặn từ khoá Chat

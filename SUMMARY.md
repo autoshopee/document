@@ -53,14 +53,14 @@
   * [Chrome / Coc Coc](extension/cai-dat/chrome.md)
   * [FireFox](extension/cai-dat/cai-dat-1.md)
 * [👉 Sử dụng](extension/su-dung/README.md)
+  * [Sao chép sản phẩm Shopee](extension/su-dung/sao-chep-san-pham.md)
+  * [Tải ảnh & Video Shopee](extension/su-dung/tai-anh-and-video.md)
   * [🤖 Tải đánh giá sản phẩm](extension/su-dung/tai-danh-gia-san-pham.md)
   * [🥂 Tạo FlashSale hàng loạt](extension/su-dung/tao-flashsale-hang-loat.md)
   * [Chặn từ khoá Chat](extension/su-dung/chan-tu-khoa-chat.md)
   * [Rút gọn Link Affiliate](extension/su-dung/rut-gon-link-affiliate.md)
-  * [Sao chép sản phẩm](extension/su-dung/sao-chep-san-pham.md)
-  * [Sao chép Video](extension/su-dung/sao-chep-video.md)
-  * [Tải ảnh & Video](extension/su-dung/tai-anh-and-video.md)
   * [Tiktok & Lazada](extension/su-dung/tiktok-and-lazada.md)
+  * [Sao chép Video Shopee](extension/su-dung/sao-chep-video.md)
 
 ## 📙 AutoShopee
 

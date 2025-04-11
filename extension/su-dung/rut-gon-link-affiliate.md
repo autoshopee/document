@@ -1,5 +1,6 @@
 ---
 description: Tạo nhanh link rút gọn khi gửi sản phẩm cho khách hàng.
+hidden: true
 ---
 
 # Rút gọn Link Affiliate
