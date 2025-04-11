@@ -6,14 +6,6 @@ coverY: 56.38766519823788
 
 # 💡 Giới thiệu
 
-> 👉 **Xem chi tiết các tính năng**
->
-> [https://www.mindmeister.com/maps/public\_map\_shell/2315158920](https://www.mindmeister.com/maps/public\_map\_shell/2315158920)
->
-> 👉 **Xem bảng giá chi tiết**
->
-> [https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ0riIppc-yXBLLqrYWalmJRpinhnWxvrsMRBzPQGWXAr7kbWVtieKsoLF\_xv8i1NvmvKdS8XDPUdOO/pubhtml)
-
 ![Mô hình hoạt động](<.gitbook/assets/image (187).png>)
 
 ## 1) Quản lý tin nhắn đơn hàng nhiều Shop
@@ -28,7 +20,7 @@ Bạn có thể sử dụng **ShopManager** để quản lý tin nhắn & đơn 
 * [x] Hỗ trợ proxy tách riêng IP từng Shop
 * [x] Đẩy sản phẩm nhiều Shop cùng một lúc
 
-![](.gitbook/assets/shop\_manager.jpg)
+![](.gitbook/assets/shop_manager.jpg)
 
 {% content-ref url="shopmanager/quan-ly/" %}
 [quan-ly](shopmanager/quan-ly/)
@@ -84,19 +76,21 @@ Chăm sóc khách hàng tự động sau bán hàng, nhắc nhở khách đánh 
 [cham-soc-and-tra-loi-tu-dong.md](shopmanager/khach-hang/cham-soc-and-tra-loi-tu-dong.md)
 {% endcontent-ref %}
 
-## 5) Tăng tương tác Follow/Like/View cho Shop (tạm dừng)
+## 5) Tăng tương tác lượt xem (View) Shopee
 
-Bạn có thể sử dụng **Subcheo** để tăng tương tác cho Shop
+Bạn có thể sử dụng **Subcheo** để tăng tương tác lượt View cho Shop
 
-![](.gitbook/assets/subcheo.jpg)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-## 6) Tải Video, hình ảnh Shopee bằng trình duyệt
+## 6) Siêu công cụ Extension cho trình duyệt
 
 Bạn có thể sử dụng Extension cho Chrome & Firefox, để tải Video hoặc ảnh, sao chép bất kì sản phẩm trên Shopee
+
+Tạo Flashsale, quét đánh giá sản phẩm
 
 ![](<.gitbook/assets/image (322).png>)
 
