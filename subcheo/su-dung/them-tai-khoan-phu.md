@@ -14,8 +14,8 @@ Quý khách có thể mua tài khoản phụ từ một số bên dịch
 
 Hiện Shopee đã không cho các Shop tự tăt OTP, nên bạn cần lấy mã SPC\_F để tránh việc hỏi OTP
 
-{% content-ref url="../../extension/cai-dat/cai-dat.md" %}
-[cai-dat.md](../../extension/cai-dat/cai-dat.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>

@@ -4,17 +4,9 @@ icon: chrome
 
 # Chrome / Coc Coc
 
-{% hint style="danger" %}
-Bạn cần thao tác "trước cài đặt" để cài không bị lỗi
-{% endhint %}
-
-{% content-ref url="cai-dat.md" %}
-[cai-dat.md](cai-dat.md)
-{% endcontent-ref %}
-
 ## Cài đặt&#x20;
 
-> **Tải ở đây** [https://chrome.google.com/webstore/search/autoshopee](https://chrome.google.com/webstore/search/autoshopee)
+> **Tải ở đây** [https://chromewebstore.google.com/detail/autoshopee-kit/cenipjndcfljmplhjhcnfajnkmbjmppi](https://chromewebstore.google.com/detail/autoshopee-kit/cenipjndcfljmplhjhcnfajnkmbjmppi)
 
 ![Chọn Autoshopee](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
 

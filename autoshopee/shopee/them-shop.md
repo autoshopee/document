@@ -4,8 +4,8 @@
 
 Bạn cần cài đặt AutoShopee Kit trước, theo hướng dẫn bên dưới
 
-{% content-ref url="../../extension/cai-dat/cai-dat.md" %}
-[cai-dat.md](../../extension/cai-dat/cai-dat.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## 2) Đồng bộ lên hệ thống
