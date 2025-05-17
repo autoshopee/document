@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/smartmockups_kze3fmv0.jpg
 coverY: 0
 ---
 
-# ⚙ Cài đặt
+# ⚙️ Cài đặt
 
 ## 1) Cài đặt
 
@@ -36,19 +36,11 @@ coverY: 0
 
 ### B) MacOS
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://youtu.be/hiu6t_v1PYE" %}
 Hướng dẫn cài đặt
 {% endembed %}
-
-
-
-<figure><img src="../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
-
-{% embed url="https://youtu.be/vq81HJb8e-k" %}
-Xử lý lỗi càid dặt bị hỏng
-{% endembed %}
-
-##
 
 ## 2) Sử dụng
 

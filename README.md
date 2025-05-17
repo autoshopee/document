@@ -1,11 +1,5 @@
 # 🏠 Trang chủ
 
-## 🔥 CTKM lớn nhất trong năm từ ngày 23-04-2025 đến 10-05-2025
-
-[https://payment.autoshopee.com/](https://payment.autoshopee.com/)
-
-<figure><img src=".gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 ## 🔥 Dịch vụ Buff tăng lượt Follow (theo dõi) Shopee

@@ -22,7 +22,7 @@ Thì ID của nó sẽ là **cenipjndcfljmplhjhcnfajnkmbjmppi**
 
 Dán Extension ID vừa lấy ở bước 1 và cài đặt
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Sử dụng
 
