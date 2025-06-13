@@ -11,7 +11,7 @@ coverY: 77.31694468832309
 * **Tư vấn - CSKH - Hỗ trợ kỹ thuật**
 * **Nhắn tin Facebook** [https://www.facebook.com/toolautoshopee](https://www.facebook.com/toolautoshopee/)[ ](https://m.me/toolautoshopee)
 * **Nhắn tin Zalo** [https://zalo.me/autoshopeevn](https://zalo.me/autoshopeevn)
-* **Hotline** <mark style="color:purple;">0901581559</mark> / <mark style="color:purple;">0941362912</mark>
+* **Hotline** <mark style="color:purple;">0904628850</mark> hoặc <mark style="color:orange;">0907298768</mark>
 * **Email** support@autoshopee.com
 
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
