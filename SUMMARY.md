@@ -52,6 +52,7 @@
   * [Chrome / Coc Coc](extension/cai-dat/chrome.md)
   * [FireFox](extension/cai-dat/cai-dat-1.md)
 * [👉 Sử dụng](extension/su-dung/README.md)
+  * [🔎 Spy sản phẩm Shopee](extension/su-dung/spy-san-pham-shopee.md)
   * [🖨️ In đơn kèm chữ ký](extension/su-dung/in-don-kem-chu-ky.md)
   * [©️ Sao chép sản phẩm Shopee](extension/su-dung/sao-chep-san-pham.md)
   * [🎞️ Tải ảnh & Video Shopee](extension/su-dung/tai-anh-and-video.md)

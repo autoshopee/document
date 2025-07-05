@@ -4,4 +4,4 @@ description: Nếu bạn không muốn quản lý Shop nữa có thể xoá Shop
 
 # Xoá Shop
 
-![Rê chuột vào Logo > bấm Xoá Shop](<../../.gitbook/assets/image (16) (1).png>)
+![Rê chuột vào Logo > bấm Xoá Shop](<../../.gitbook/assets/image (16) (1) (1).png>)

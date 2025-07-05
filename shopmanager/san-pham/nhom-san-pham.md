@@ -34,7 +34,7 @@ Sau khi lưu kho sản phẩm bạn có thể dề dàng chỉnh sửa và copy
 
 Bạn có thẻ chinh sửa lại tên sản phẩm, giá , mô tả, tồn kho
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Sao chép sản phẩm&#x20;
 

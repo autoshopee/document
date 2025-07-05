@@ -12,4 +12,4 @@ Các tài khoản Shopee cần tắt OTP trước khi thêm vào phần mềm
 
 ![Chọn nền tảng](<../../.gitbook/assets/image (12) (1) (1).png>)
 
-![Điền thông tin và thêm Shop](<../../.gitbook/assets/image (15) (1).png>)
+![Điền thông tin và thêm Shop](<../../.gitbook/assets/image (15) (1) (1).png>)

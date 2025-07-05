@@ -32,11 +32,11 @@ Chọn Tệp tải lên > Tải lên ảnh chữ kí bạn muốn
 
 Điều chỉnh thông số phù hợp với từng mẫu
 
-<figure><img src="../../../.gitbook/assets/image (14) (1) (2).png" alt=""><figcaption><p>Chỉnh thông số</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (2) (1).png" alt=""><figcaption><p>Chỉnh thông số</p></figcaption></figure>
 
 Đừng quên lưu lại cài đặt
 
-<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) In đơn
 
@@ -51,4 +51,4 @@ Một số sản phẩm nhạy cảm như BCS, đồ lót, các sản phẩm dà
 1. Chọn một hình ảnh ảnh bất kì (hoặc một bức ảnh trắng tinh)
 2. Điều chỉnh vị trí của ảnh tới vị trí cần che tên
 
-<figure><img src="../../../.gitbook/assets/image (11) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
