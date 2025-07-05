@@ -24,7 +24,7 @@ Lưu lại mã SPC\_F để đăng nhập
 
 ## 2) Thêm từng tài khoản
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

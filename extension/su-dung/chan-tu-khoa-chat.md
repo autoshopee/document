@@ -9,11 +9,11 @@ hidden: true
 
 Mở Extension > Tab cài đặt
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (3).png" alt=""><figcaption></figcaption></figure>
 
 Thêm các từ khoá muốn chặn
 
-<figure><img src="../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Sử dụng
 

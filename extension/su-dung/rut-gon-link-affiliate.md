@@ -31,5 +31,5 @@ Truy cập vào một sản phẩm bất kì, công cụ sẽ tự tạo link r�
 
 Khi chat với khách hàng bạn cũng có thể gửi nhanh sản phẩm có rút gọn link cho khách hàng. Đây là một tính năng tuyệt với giúp bạn gia tăng lợi nhuận cho Shop
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 

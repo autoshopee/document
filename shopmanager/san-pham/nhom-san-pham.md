@@ -24,25 +24,25 @@ Bạn chọn  các sản phẩm muốn thêm vào nhóm. > Lưu vào nhóm
 
 Bạn lọc theo nhóm vừa tạo
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Lọc lại</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (3).png" alt=""><figcaption><p>Lọc lại</p></figcaption></figure>
 
 ## 2) Chỉnh sửa sản phẩm
 
 Sau khi lưu kho sản phẩm bạn có thể dề dàng chỉnh sửa và copy
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Nhấn vào chỉnh sửa</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (4).png" alt=""><figcaption><p>Nhấn vào chỉnh sửa</p></figcaption></figure>
 
 Bạn có thẻ chinh sửa lại tên sản phẩm, giá , mô tả, tồn kho
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Sao chép sản phẩm&#x20;
 
 Bạn có thể sao chép sản phẩm bình thường
 
-<figure><img src="../../.gitbook/assets/image (15) (3).png" alt=""><figcaption><p>Sao chép sản phẩm</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (3) (1).png" alt=""><figcaption><p>Sao chép sản phẩm</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 4) Đồng bộ theo SKU
 

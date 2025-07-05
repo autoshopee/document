@@ -14,7 +14,7 @@ coverY: 77.31694468832309
 * **Hotline** <mark style="color:purple;">0904628850</mark> hoặc <mark style="color:orange;">0907298768</mark>
 * **Email** support@autoshopee.com
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Youtube** [https://www.youtube.com/autoshopee](https://www.youtube.com/autoshopee)
 * **Blog** [https://blog.autoshopee.com](https://blog.autoshopee.com/)
