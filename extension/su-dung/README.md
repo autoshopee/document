@@ -2,7 +2,7 @@
 description: Hướng dẫn các chức năng của Extension trên Shopee
 ---
 
-# 👉 Sử dụng
+# 👉 Shopee
 
 {% hint style="warning" %}
 Bạn cần xem cài đặt Extension trước nhé
@@ -14,8 +14,8 @@ Bạn cần xem cài đặt Extension trước nhé
 
 ![Vào Trang sản phẩm Shopee => Mở Extension => ở gốc phải trình duyệt](<../../.gitbook/assets/image (47).png>)
 
-{% content-ref url="sao-chep-san-pham.md" %}
-[sao-chep-san-pham.md](sao-chep-san-pham.md)
+{% content-ref url="sao-chep-san-pham/" %}
+[sao-chep-san-pham](sao-chep-san-pham/)
 {% endcontent-ref %}
 
 {% content-ref url="sao-chep-video.md" %}

@@ -18,8 +18,8 @@ Nếu bạn chỉ có nhu cầu sao chép 1-2 sản phẩm thì có thể sử d
 
 ![](<../../../.gitbook/assets/image (1) (2) (1).png>)
 
-{% content-ref url="../../../extension/su-dung/tiktok-and-lazada.md" %}
-[tiktok-and-lazada.md](../../../extension/su-dung/tiktok-and-lazada.md)
+{% content-ref url="../../../extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md" %}
+[tiktok-and-lazada.md](../../../extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md)
 {% endcontent-ref %}
 
 Nếu bạn sao chép nhiều sản phẩm thì theo hướng dẫn bên dưới
@@ -60,7 +60,7 @@ Kho sản phẩm lưu danh sách bộ sưu tập các sản phẩm bạn muốn 
 2. Nhấn tìm kiếm (để quét danh sách sản phẩm của Shop đó)
 3. Tích chọn các sản phẩm (hoặc chọn tất cả) => Copy Lấy link sản phẩm
 
-![Lấy link sản phẩm Shopee](../../../.gitbook/assets/link\_shopee.png)
+![Lấy link sản phẩm Shopee](../../../.gitbook/assets/link_shopee.png)
 
 Giờ bạn đã có danh sách Link sản phẩm muốn sao chép => Chúng ta sẽ sử dụng danh sách **Link sản phẩm Shopee** này để nhập vào **Kho sản phẩm** vừa tạo
 
@@ -100,6 +100,6 @@ Bạn cũng có thể sửa sản phẩm nếu muốn (có thể bỏ qua bướ
 Ngoài ra bạn cũng có thể dụng Extension để sao chép từng sản phẩm một cách thuận tiện hơn chỉ với một Click chuột duy nhất, theo hướng dẫn bên dưới
 {% endhint %}
 
-{% content-ref url="../../../extension/su-dung/tiktok-and-lazada.md" %}
-[tiktok-and-lazada.md](../../../extension/su-dung/tiktok-and-lazada.md)
+{% content-ref url="../../../extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md" %}
+[tiktok-and-lazada.md](../../../extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md)
 {% endcontent-ref %}

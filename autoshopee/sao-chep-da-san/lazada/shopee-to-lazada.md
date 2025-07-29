@@ -18,17 +18,17 @@ Nếu bạn chỉ có nhu cầu sao chép 1-2 sản phẩm thì có thể sử d
 
 ![](<../../../.gitbook/assets/image (17) (2).png>)
 
-{% content-ref url="../../../extension/su-dung/tiktok-and-lazada.md" %}
-[tiktok-and-lazada.md](../../../extension/su-dung/tiktok-and-lazada.md)
+{% content-ref url="../../../extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md" %}
+[tiktok-and-lazada.md](../../../extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md)
 {% endcontent-ref %}
 
 Nếu bạn sao chép nhiều sản phẩm thì theo hướng dẫn bên dưới
 
 ## 1) Thêm Shop
 
-![Thêm Shop](../../../.gitbook/assets/them\_shop\_1.png)
+![Thêm Shop](../../../.gitbook/assets/them_shop_1.png)
 
-![Điền thông tin tài khoản và nhấn Submit](../../../.gitbook/assets/them\_shop\_2.png)
+![Điền thông tin tài khoản và nhấn Submit](../../../.gitbook/assets/them_shop_2.png)
 
 ## 2.1) Tạo kho sản phẩm
 
@@ -46,7 +46,7 @@ Kho sản phẩm lưu danh sách bộ sưu tập các sản phẩm bạn muốn 
 2. Nhấn tìm kiếm (để quét danh sách sản phẩm của Shop đó)
 3. Tích chọn các sản phẩm (hoặc chọn tất cả) => Copy Lấy link sản phẩm
 
-![Lấy link sản phẩm Shopee](../../../.gitbook/assets/link\_shopee.png)
+![Lấy link sản phẩm Shopee](../../../.gitbook/assets/link_shopee.png)
 
 Giờ bạn đã có danh sách Link sản phẩm muốn sao chép => Chúng ta sẽ sử dụng danh sách **Link sản phẩm Shopee** này để nhập vào **Kho sản phẩm** vừa tạo
 
@@ -91,8 +91,8 @@ Bạn cũng có thể sửa thuộc tính cho từng sản phẩm để chính x
 Bạn cũng có thể dùng Extension để sao chép từng sản phẩm một các thuận tiện hơn, theo hướng dẫn bên dưới
 {% endhint %}
 
-{% content-ref url="../../../extension/su-dung/tiktok-and-lazada.md" %}
-[tiktok-and-lazada.md](../../../extension/su-dung/tiktok-and-lazada.md)
+{% content-ref url="../../../extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md" %}
+[tiktok-and-lazada.md](../../../extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md)
 {% endcontent-ref %}
 
 ## \*) Xử lý một số lỗi
