@@ -2,10 +2,6 @@
 
 ***
 
-## Cập nhật bảng giá AutoShopee Kit duy nhất trong tháng 07-2025 chỉ 60k/tháng
-
-<figure><img src=".gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
-
 ## 🔥 Dịch vụ Buff tăng lượt Follow (theo dõi) Shopee
 
 <figure><img src=".gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
