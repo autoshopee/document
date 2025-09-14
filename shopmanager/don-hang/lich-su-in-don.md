@@ -5,7 +5,7 @@ description: >-
   hỗ trợ tìm kiếm các thông tin
 ---
 
-# 🔥 Lịch sử In đơn
+# Lịch sử In đơn
 
 _**Lưu ý quan trọng**: Dư liệu File in đơn chỉ có khi bạn sử dụng phần mềm ShopManager để In đơn hàng_
 

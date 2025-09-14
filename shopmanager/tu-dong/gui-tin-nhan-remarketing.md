@@ -2,6 +2,7 @@
 description: >-
   Chức năng giúp bạn gửi tin nhắn lại tới các khách hàng đã từng mua hàng của
   bạn một cách chủ động
+hidden: true
 ---
 
 # Gửi tin nhắn Remarketing

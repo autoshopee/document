@@ -2,6 +2,7 @@
 description: >-
   Đối soát đơn khi đã giao Shopee đã chuyển tiền về ví chưa, và đối soát sai
   lệch
+hidden: true
 ---
 
 # Đối soát về ví

@@ -72,8 +72,8 @@ Chăm sóc khách hàng tự động sau bán hàng, nhắc nhở khách đánh 
 
 ![](.gitbook/assets/customer.jpg)
 
-{% content-ref url="shopmanager/khach-hang/cham-soc-and-tra-loi-tu-dong.md" %}
-[cham-soc-and-tra-loi-tu-dong.md](shopmanager/khach-hang/cham-soc-and-tra-loi-tu-dong.md)
+{% content-ref url="shopmanager/tu-dong/cham-soc-and-tra-loi-tu-dong.md" %}
+[cham-soc-and-tra-loi-tu-dong.md](shopmanager/tu-dong/cham-soc-and-tra-loi-tu-dong.md)
 {% endcontent-ref %}
 
 ## 5) Tăng tương tác lượt xem (View) Shopee
