@@ -5,7 +5,7 @@ description: >-
   CTKM) để tìm khách hàng mới
 ---
 
-# Chăm sóc & trả lời tự động
+# ⭐ Gửi tin nhắn tự động
 
 **Một số kịch bản có thể áp dụng**
 

@@ -34,7 +34,7 @@
   * [Lịch sử In đơn](shopmanager/don-hang/lich-su-in-don.md)
 * [🧩 Tự động](shopmanager/tu-dong/README.md)
   * [🔥 Tìm tài xế hỏa tốc](shopmanager/tu-dong/tim-tai-xe-hoa-toc.md)
-  * [Gửi tin nhắn tự động](shopmanager/tu-dong/cham-soc-and-tra-loi-tu-dong.md)
+  * [⭐ Gửi tin nhắn tự động](shopmanager/tu-dong/cham-soc-and-tra-loi-tu-dong.md)
   * [Gửi tin nhắn Remarketing](shopmanager/tu-dong/gui-tin-nhan-remarketing.md)
 * [⚓ Nâng cao](shopmanager/nang-cao/README.md)
   * [✈️ Chuyển dữ liệu](shopmanager/nang-cao/chuyen-du-lieu/README.md)
