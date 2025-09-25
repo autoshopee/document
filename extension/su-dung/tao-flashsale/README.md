@@ -48,14 +48,13 @@ Video hướng dẫn
 _Dữ liệu được cập nhật ngày 01-09-2025_
 
 * Mỗi sản phẩm bị giới hạn tối đa 2000 slot.
-* **Cách tính slot:** số lượng bán × số phân loại (model/variation).
-* **Ví dụ minh họa**
+* **Cách tính slot:** số lượng bán (tồn kho chạy FS) × số phân loại (sản phẩm)
+* **Ví dụ**
   * Sản phẩm A có **10 phân loại**.
-  * Bạn đặt số lượng bán là **15 cho mỗi phân loại**.
+  * Bạn đặt số lượng bán (tồn kho chạy FS) là **15 cho mỗi phân loại**.
   * Tổng slot cho 1 khung giờ = 10 × 15 = **150 slot**.
   * Như vậy, sản phẩm A chỉ có thể tham gia khoảng **13 khung giờ** (150 × 13 = 1950 slot).
-  * Nếu đăng thêm → sẽ báo lỗi **vượt 2000 slot**.
 
-Shopee muốn hạn chế seller lặp đi lặp lại Flash Sale cho cùng một sản phẩm, nhằm đa dạng sản phẩm hiển thị.
+> <mark style="color:red;">Tóm lại sản phẩm</mark> <mark style="color:red;"></mark><mark style="color:red;">**càng nhiều phân loại**</mark> <mark style="color:red;"></mark><mark style="color:red;">sẽ tạo càng</mark> <mark style="color:red;"></mark><mark style="color:red;">**ít khung giờ**</mark>
 
-👉 **Cách khắc phục:** thay vì spam một sản phẩm, nên đa dạng thêm nhiều sản phẩm khác để chạy Flash Sale.
+👉 **Cách khắc phục:** thay vì spam một sản phẩm, nên đa dạng thêm nhiều sản phẩm khác để chạy Flash Sale, hoặc sử dụng tính năng tạo "Flashsale lên lịch" tự động
