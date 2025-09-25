@@ -16,7 +16,7 @@ Video hướng dẫn
 
 ## 2) Các phương pháp tạo Flashsale
 
-## P1) Tạo FS trực tiếp
+### Cách 1) Tạo FS trực tiếp
 
 #### Tạo lên lịch mà muốn tạo trực tiếp?
 
@@ -27,7 +27,7 @@ Video hướng dẫn
    * Nếu bạn muốn chắc chắn sản phẩm có FS ngay lập tức.
    * Hoặc shop của bạn có lịch FS cố định hàng tuần và bạn quen tạo trực tiếp.
 
-### P2) Tạo Flashsale lên lịch
+### Cách 2) Tạo Flashsale lên lịch
 
 1. **Không bị trừ kho phân loại / slot sản phẩm ngay**
    * Khi bạn tạo FS lên lịch, sản phẩm sẽ **chưa bị trừ tồn kho** và **chưa bị tính slot** trên Shopee.
