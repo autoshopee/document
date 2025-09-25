@@ -48,4 +48,4 @@ Hướng dẫn cài đặt
 ShopManager sử dụng tài khoản AutoShopee (gói Pro hoặc Unlimited) để đăng nhập
 {% endhint %}
 
-![Sử dụnng tài khoản AutoShopee để đăng nhập](<../.gitbook/assets/image (9) (1) (1).png>)
+![Sử dụnng tài khoản AutoShopee để đăng nhập](<../.gitbook/assets/image (9) (1) (1) (1).png>)

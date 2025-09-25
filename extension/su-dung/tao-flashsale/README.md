@@ -4,9 +4,9 @@ description: >-
   giờ khác nhau theo một kịch bản sản phẩm
 ---
 
-# 🥂 Tạo FlashSale hàng loạt
+# 🥂 Tạo FlashSale
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sử dụng Extension</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sử dụng Extension</p></figcaption></figure>
 
 {% embed url="https://youtu.be/AD4kNLgh35Q" %}
 Video hướng dẫn
