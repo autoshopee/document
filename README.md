@@ -2,12 +2,14 @@
 
 ***
 
-## 🔥 Dịch vụ Buff tăng lượt Follow (theo dõi) Shopee
+## 1) Chương trình siêu ưu đãi tháng 10
 
-<figure><img src=".gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+Từ ngày 01/10/2025 đến ngày 31/10/2025
 
-_Cam kết không tuột Follow và có bảo hành._ Đối tác của Subcheo bảo trợ
+<figure><img src=".gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
 
-☎ Quý anh/chị liên hệ CSKH để biết thêm chi tiết.
 
-[https://zalo.me/autoshopeevn](https://zalo.me/autoshopeevn)
+
+## 2) Dịch vụ Buff Follow Shopee
+
+<figure><img src=".gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
