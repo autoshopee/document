@@ -6,9 +6,7 @@
 
 Từ ngày 01/10/2025 đến ngày 31/10/2025
 
-<figure><img src=".gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/banner final.png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Dịch vụ Buff Follow Shopee
 
