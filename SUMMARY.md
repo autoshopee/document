@@ -2,7 +2,7 @@
 
 * [🏠 Trang chủ](README.md)
 * [💡 Giới thiệu](<README (1).md>)
-* [💰 Bảng giá](bang-gia.md)
+* [💰 Bảng giá](https://autoshopee.com/bang-gia)
 * [📞 Liên hệ](lien-he.md)
 
 ## 📗 Shop Manager (\*) <a href="#shopmanager" id="shopmanager"></a>
