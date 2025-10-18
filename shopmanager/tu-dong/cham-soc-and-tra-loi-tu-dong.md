@@ -3,6 +3,20 @@ description: >-
   Chăm sóc khách hàng là một cách hiệu quả giúp khách hàng quay lại lần sau và
   tăng tỉ lệ chuyển đổi đơn hàng mà không mất quá nhiều chi phí (chạy quảng cáo,
   CTKM) để tìm khách hàng mới
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # ⭐ Gửi tin nhắn tự động

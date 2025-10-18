@@ -46,6 +46,9 @@
   * [In đơn](shopmanager/nang-cao/in-don.md)
   * [Thiết bị đăng nhập](shopmanager/nang-cao/thiet-bi-dang-nhap.md)
   * [🤖 Cài đặt Extension](shopmanager/nang-cao/cai-dat-extension.md)
+* [Shop Admin](shopmanager/shop-admin/README.md)
+  * [Kết nối Shop](shopmanager/shop-admin/ket-noi-shop.md)
+  * [Page](shopmanager/shop-admin/page.md)
 
 ## 📒 Extension
 
@@ -80,9 +83,6 @@
   * [Lazada](autoshopee/sao-chep-da-san/lazada/README.md)
     * [Shopee => Lazada](autoshopee/sao-chep-da-san/lazada/shopee-to-lazada.md)
     * [Lazada => Lazada](autoshopee/sao-chep-da-san/lazada/lazada-to-lazada.md)
-  * [Sendo](autoshopee/sao-chep-da-san/sendo/README.md)
-    * [Shopee => Sendo](autoshopee/sao-chep-da-san/sendo/shopee-to-sendo.md)
-    * [Sendo => Sendo](autoshopee/sao-chep-da-san/sendo/sendo-to-sendo.md)
   * [🎩 SKU và Cân nặng](autoshopee/sao-chep-da-san/sku-va-can-nang.md)
 * [🔔 Thông báo đơn hàng](autoshopee/thong-bao-don-hang/README.md)
   * [Facebook](autoshopee/thong-bao-don-hang/thong-bao-facebook.md)

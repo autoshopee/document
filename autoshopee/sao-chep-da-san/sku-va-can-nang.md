@@ -2,6 +2,20 @@
 description: >-
   Hướng dẫn bạn cập nhật SKU và cân nặng thưc tế. Dữ liệu sẽ áp dụng cho Shopee
   => Tiktok, Lazada, Sendo
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🎩 SKU và Cân nặng

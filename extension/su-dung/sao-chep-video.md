@@ -1,8 +1,22 @@
 ---
 description: Hướng dẫn sao chép Video sản phẩm này sang sản phẩm khác
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# 🎮 Sao chép Video Shopee
+# 🎮 Sao chép Video
 
 Công cụ sẽ Sao chép Video của sản phẩm ở trang hiện tại => sang sản phẩm Shopee của bạn
 

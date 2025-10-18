@@ -1,5 +1,19 @@
 ---
 description: Quản lý thiết bị đăng nhập trrên ShopManager
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Thiết bị đăng nhập

@@ -4,6 +4,23 @@ description: >-
   Lazada), hỗ trợ Windows & MacOs. Trước tiên bạn cần cài đặt trước.
 cover: ../.gitbook/assets/smartmockups_kze3fmv0.jpg
 coverY: 0
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # ⚙️ Cài đặt

@@ -2,6 +2,20 @@
 description: >-
   Cộng cụ hỗ trợ tải hàng loạt đánh giá (hình ảnh và video) của bất kì sản phẩm
   trên Shopee
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🤖 Tải đánh giá

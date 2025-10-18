@@ -2,6 +2,20 @@
 description: >-
   Tối ưu khâu lấy hàng > khâu đóng gói. Áp dụng hiệu quả cho các Shop có trên 50
   đơn hàng/ngày
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Tối ưu đóng gói

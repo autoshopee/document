@@ -3,6 +3,20 @@ description: >-
   Shopee cho mỗi Shop được đẩy 5 sản phẩm (mỗi 4 tiếng), chúng ta nên tận dụng
   tính năng này để đẩy tăng tỉ lệ hiển thị ngẫu nhiên. Tính năng tự động này chỉ
   cần cài một lần và không cần treo máy
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Đẩy sản phẩm

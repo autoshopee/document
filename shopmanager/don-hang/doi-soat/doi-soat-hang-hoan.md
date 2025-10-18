@@ -1,5 +1,19 @@
 ---
 description: Công cụ giúp bạn đối soát và theo dõi các đơn hàng hoàn đã thực sự về kho chưa
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Đối soát hàng hoàn
@@ -55,7 +69,7 @@ Nếu đơn bạn quá lâu chưa về kho thì bạn có thể dùng mẫu mail
 >
 > Danh sách các mã vận đơn gồm có:
 >
-> \-Mã vận đơn 1
+> -Mã vận đơn 1
 >
-> \-Mã vận đơn 2
+> -Mã vận đơn 2
 

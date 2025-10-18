@@ -3,6 +3,20 @@ description: >-
   Khi bạn sử dụng ShopManager để in đơn hàng bạn dễ dang tra cưu lại
   các File PDF đơn đã in theo ngày hoặc theo Shop. Ngoài ra phần mềm còn
   hỗ trợ tìm kiếm các thông tin
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Lịch sử In đơn

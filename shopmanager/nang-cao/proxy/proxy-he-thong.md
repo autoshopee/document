@@ -1,5 +1,19 @@
 ---
 description: ShopManager có hỗ trợ hệ thống Proxy miễn phí cập nhật liên tục
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Proxy hệ thống

@@ -2,6 +2,20 @@
 description: >-
   Công cụ giúp bạn xem các sản phẩm bán chạy của một Shop, hoặc một ngành hàng.
   Gợi ý giúp bạn các sản phẩm bán chạy
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Phân tích & Thống kê

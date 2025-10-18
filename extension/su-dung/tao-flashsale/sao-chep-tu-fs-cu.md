@@ -2,6 +2,20 @@
 description: >-
   Sao chéo Flashsale các giúp bạn dễ dàng nhân bản Flashsasle cũ ra hàng trăm
   Flashsale khác
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Sao chép từ FS cũ

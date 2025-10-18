@@ -1,5 +1,19 @@
 ---
 description: Tạo khung theo Logo Shop của bạn
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Tạo khung riêng
@@ -7,7 +21,7 @@ description: Tạo khung theo Logo Shop của bạn
 Các bạn có thể sử dụng 3 công cụ sau để tạo một khung cho mình
 
 * **PhotoShop** dành cho người dùng nâng cao, miễn phí
-* **Canva** dễ sử dụng, nhưng phải tối phí => [https://www.canva.com](https://www.canva.com/vi\_vn/)
+* **Canva** dễ sử dụng, nhưng phải tối phí => [https://www.canva.com](https://www.canva.com/vi_vn/)
 * **Polotno** dễ sử dụng như Canvas và miễn phí (đề xuất) => [https://studio.polotno.dev](https://studio.polotno.dev/)
 
 {% embed url="https://studio.polotno.dev" %}
