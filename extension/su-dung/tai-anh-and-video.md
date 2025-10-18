@@ -1,7 +1,7 @@
 ---
 description: Tải Video và Hình ảnh trên Shopee
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

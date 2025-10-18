@@ -1,7 +1,7 @@
 ---
 description: Nếu bạn không muốn quản lý Shop nữa có thể xoá Shop đó khỏi hệ thống
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

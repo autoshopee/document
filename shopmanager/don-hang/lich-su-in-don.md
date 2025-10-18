@@ -4,7 +4,7 @@ description: >-
   các File PDF đơn đã in theo ngày hoặc theo Shop. Ngoài ra phần mềm còn
   hỗ trợ tìm kiếm các thông tin
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

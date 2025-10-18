@@ -3,7 +3,7 @@ description: >-
   Tối ưu khâu lấy hàng > khâu đóng gói. Áp dụng hiệu quả cho các Shop có trên 50
   đơn hàng/ngày
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

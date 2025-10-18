@@ -1,7 +1,7 @@
 ---
 description: Tính năng tự động giúp shop xử lý đơn hàng hỏa tốc tự động
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

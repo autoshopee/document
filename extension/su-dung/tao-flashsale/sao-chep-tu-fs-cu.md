@@ -3,7 +3,7 @@ description: >-
   Sao chéo Flashsale các giúp bạn dễ dàng nhân bản Flashsasle cũ ra hàng trăm
   Flashsale khác
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

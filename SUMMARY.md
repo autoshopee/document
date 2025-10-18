@@ -48,7 +48,7 @@
   * [🤖 Cài đặt Extension](shopmanager/nang-cao/cai-dat-extension.md)
 * [Shop Admin](shopmanager/shop-admin/README.md)
   * [Kết nối Shop](shopmanager/shop-admin/ket-noi-shop.md)
-  * [Page](shopmanager/shop-admin/page.md)
+  * [Quản lý đơn hàng](shopmanager/shop-admin/quan-ly-don-hang.md)
 
 ## 📒 Extension
 

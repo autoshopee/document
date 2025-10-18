@@ -1,7 +1,7 @@
 ---
 description: Quản lý thiết bị đăng nhập trrên ShopManager
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

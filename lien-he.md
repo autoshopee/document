@@ -5,7 +5,7 @@ description: >-
 cover: .gitbook/assets/contact-header-mobile.png
 coverY: 77.31694468832309
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
     size: full

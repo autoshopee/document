@@ -3,7 +3,7 @@ description: >-
   Hướng dẫn bạn cập nhật SKU và cân nặng thưc tế. Dữ liệu sẽ áp dụng cho Shopee
   => Tiktok, Lazada, Sendo
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

@@ -3,7 +3,7 @@ description: >-
   Áp dụng khi bạn muốn cập nhật khung mới cho sản phẩm đã đăng trên Shopee. Giúp
   tăng sự thu hút của sản phẩm của bạn với người mua
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

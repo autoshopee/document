@@ -3,7 +3,7 @@ description: Kênh hỗ trợ AutoShopee & Subcheo & ShopManager.
 cover: .gitbook/assets/smartmockups_kze332nr.jpg
 coverY: 56.38766519823788
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
     size: full

@@ -4,7 +4,7 @@ description: >-
   tính năng này để đẩy tăng tỉ lệ hiển thị ngẫu nhiên. Tính năng tự động này chỉ
   cần cài một lần và không cần treo máy
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

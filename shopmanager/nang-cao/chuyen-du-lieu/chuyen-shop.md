@@ -1,7 +1,7 @@
 ---
 description: Công cụ giúp bạn chuyên dữ liệu Shop từ máy này sang máy khác
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

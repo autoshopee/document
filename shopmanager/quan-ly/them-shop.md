@@ -1,7 +1,7 @@
 ---
 description: Thêm Shop (Shopee Tiki Sendo Lazada) muốn quản lý vào phần mềm
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

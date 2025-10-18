@@ -1,7 +1,7 @@
 ---
 description: Quản lý tin nhắn nhiều Shop trên Shopee cùng một lúc
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

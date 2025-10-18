@@ -1,7 +1,7 @@
 ---
 description: Hướng dẫn sao chép Video sản phẩm này sang sản phẩm khác
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

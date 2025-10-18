@@ -1,7 +1,7 @@
 ---
 description: ShopManager có hỗ trợ hệ thống Proxy miễn phí cập nhật liên tục
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

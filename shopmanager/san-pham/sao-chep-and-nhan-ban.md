@@ -3,7 +3,7 @@ description: >-
   Sao chép và nhân bản một Shop bất kì sang nhiều Shop khác (Chỉ áp dụng cho sàn
   Shopee)
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

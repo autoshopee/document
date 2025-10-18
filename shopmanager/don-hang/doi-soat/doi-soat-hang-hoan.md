@@ -1,7 +1,7 @@
 ---
 description: Công cụ giúp bạn đối soát và theo dõi các đơn hàng hoàn đã thực sự về kho chưa
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

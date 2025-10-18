@@ -1,7 +1,7 @@
 ---
 description: Soi các thông tin sản phẩm đối thủ Shopee
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

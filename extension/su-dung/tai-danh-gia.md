@@ -3,7 +3,7 @@ description: >-
   Cộng cụ hỗ trợ tải hàng loạt đánh giá (hình ảnh và video) của bất kì sản phẩm
   trên Shopee
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

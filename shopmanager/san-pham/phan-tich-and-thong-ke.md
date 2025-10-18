@@ -3,7 +3,7 @@ description: >-
   Công cụ giúp bạn xem các sản phẩm bán chạy của một Shop, hoặc một ngành hàng.
   Gợi ý giúp bạn các sản phẩm bán chạy
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

@@ -3,7 +3,7 @@ description: >-
   Công cụ giúp bạn dễ dàng tạo hạng loạt chương trình FlashSale cho nhiều khung
   giờ khác nhau theo một kịch bản sản phẩm
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

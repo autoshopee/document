@@ -4,7 +4,7 @@ description: >-
   tăng tỉ lệ chuyển đổi đơn hàng mà không mất quá nhiều chi phí (chạy quảng cáo,
   CTKM) để tìm khách hàng mới
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

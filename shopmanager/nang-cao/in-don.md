@@ -1,7 +1,7 @@
 ---
 description: Chuyển In đơn PDF qua trình duyệt Chrome hoặc CocCoc
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

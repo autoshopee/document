@@ -1,7 +1,7 @@
 ---
 description: Xuất Excel đơn hàng để tiện cho việc đối soát hoặc thống kê
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

@@ -1,7 +1,7 @@
 ---
 description: In đơn PDF hàng loạt nhiều Shop cùng một lúc
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

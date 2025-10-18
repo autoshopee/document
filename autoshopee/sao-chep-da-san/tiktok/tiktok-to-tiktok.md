@@ -1,7 +1,7 @@
 ---
 description: Hướng dẫn sao chép từ Tiktok sang Tiktok
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

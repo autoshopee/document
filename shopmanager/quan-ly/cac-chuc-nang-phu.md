@@ -3,7 +3,7 @@ description: >-
   Bạn cũng có thể tuỳ chỉnh thêm một số tính năng phụ để dễ sử dụng hơn (tuy
   nhiên việc này không bắc buộc nhé)
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

@@ -1,7 +1,7 @@
 ---
 description: Công cụ giúp bạn thêm các nội dung bổ sung khi in đơn
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

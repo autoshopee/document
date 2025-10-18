@@ -1,7 +1,7 @@
 ---
 description: Sao chép sản phẩm tự Shopee sang Tiktok & Lazada
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

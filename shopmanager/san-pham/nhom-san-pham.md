@@ -3,7 +3,7 @@ description: >-
   Nhóm sản phẩm giúp bạn dễ dàng quản lý và chính sửa sản phẩm trước khi sao
   chép
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

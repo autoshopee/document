@@ -3,7 +3,7 @@ description: >-
   Tạo Flashsale lên lịch có thể được hiểu như là bạn tạo "bản nháp FS" đến giờ
   đặt hẹn hệ thống sẽ truy cập vào Shopee và tạo FS theo kịch bản đã chọn
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

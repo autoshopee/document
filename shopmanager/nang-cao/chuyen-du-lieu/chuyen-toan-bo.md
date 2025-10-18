@@ -3,7 +3,7 @@ description: >-
   Bạn muốn chuyển dữ liệu từ máy A sang máy B. Để tránh việc đăng nhập lại từ
   đầu
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

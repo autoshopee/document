@@ -1,7 +1,7 @@
 ---
 description: Hướng dẫn sao chép từ Shopee sang Lazada
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

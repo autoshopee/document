@@ -1,7 +1,7 @@
 ---
 description: Thông báo đơn hàng qua các kênh chat như Facebook Telegram
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

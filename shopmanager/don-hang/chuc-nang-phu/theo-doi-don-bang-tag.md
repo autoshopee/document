@@ -1,7 +1,7 @@
 ---
 description: Sử dụng thẻ Tag để đánh dấu và lọc đơn hàng
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
