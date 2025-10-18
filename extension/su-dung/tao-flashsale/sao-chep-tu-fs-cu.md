@@ -26,14 +26,14 @@ layout:
 
 Lưu và đặt tên giúp bạn dễ dàng quản lý các "Kịch bản Flashsale"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Nhân bản Flashsale
 
 Vào mục "Đã lưu" > chọn Sao chép FS > để nhân bản ra hàng trăm khung giờ Flashsale khác nhau
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tới đây thì bạn tạo Flashsale như bình thường
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

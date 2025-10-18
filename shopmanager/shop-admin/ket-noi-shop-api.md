@@ -1,4 +1,7 @@
 ---
+description: >-
+  Kết nối Shop bằng Api chính thức của sàn cung cấp cho AutoShopee & ShopManager
+  để quản lý Shop
 layout:
   width: wide
   title:
@@ -15,7 +18,7 @@ layout:
     visible: true
 ---
 
-# ☑️ Kết nối Shop
+# ☑️ Kết nối Shop Api
 
 ## 1) Mở bảng kết nối
 
@@ -23,15 +26,15 @@ layout:
 
 Bấm vào nút "Mở kết nối Api Shop"
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lúc này phần mêm sẽ mở trình duyệt tương ứng với tài khoản Autoshopee của bạn.
 
 Bấm vào nút "Thêm Shop" để kết nối Shop với phần mềm
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 2) Shopee liên kết (Api)
+## 2) Liên kết Shopee Api
 
 Chọn quốc già VN (Việt Nam) và điền thông tin đăng nhập
 
@@ -47,10 +50,28 @@ Giờ chọn "Kiểm tra kết nối Api Shop" để ShopManager đồng bộ v�
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-## 2) Tikok liên kết (Api)
+## 3) Liên kết TiktokShop Api
 
 Thao tác tương tự như Shopee
 
-## 2) Lazada liên kết (Api)
+<figure><img src="../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+
+## 3) Liên kế Lazada Api
 
 Thao tác tương tự như Shopee
+
+<figure><img src="../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
