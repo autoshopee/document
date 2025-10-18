@@ -23,6 +23,12 @@ layout:
 [ket-noi-shop-api.md](ket-noi-shop-api.md)
 {% endcontent-ref %}
 
+Mở WebAdmin
+
+<figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+
 ## 1) Tiktok
 
 ### a) Chuẩn bị đơn hàng
