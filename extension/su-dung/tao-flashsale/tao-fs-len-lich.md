@@ -44,13 +44,13 @@ Nếu tôi không muốn tạo FS lên lịch mà muốn tạo trực tiếp th�
 \+ Nếu bạn muốn chắc chắn và mỗi tuần sẽ tạo FS cho Shop mỗi tuần thì có thể sử dụng phương pháp tạo FS trực tiếp
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1) Tạo FlashSale lên lịch (bản nháp)
 
 Để thuận tiện tôi sẽ sao chép từ một FlashSale khác
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ở bước này chọn "Tạo Flashsale lên lịch". ở đây bạn có thể chon
 
@@ -60,18 +60,18 @@ Vi dụ nếu Flashsale Shopee chạy khung giờ 20h:00 ngày 15-09-2025 ⇒ N�
 
 
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tơi đây thì chọn khung giờ chạy Flashsale như bình thường
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tạo Flashsale lên lịch thành công
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Xem kết quả Flashsale lên lịch
 
 Các flashsale lên lịch sẽ được hệ thống tạo chạy hoàn toàn tự động. Bạn có thể lên lịch Flashsale cho Shop cả tháng
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

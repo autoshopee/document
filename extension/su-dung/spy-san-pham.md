@@ -26,13 +26,13 @@ Spy (Soi) là một trong những bước quan trọng giúp bạn nghiên cưu 
 
 Xem các thông tin từ khóa đang chạy, giá thầu chạy Ads
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Spy phân loại bán chạy của từng sản phẩm
 
 Bạn có thể xem các phân loại màu sắc, kích cở phân loại bán chạy cảu từng sản phẩm Shop đối thủ
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Spy sản phẩm bán chạy của Shop (phân tích đối thủ)
 
@@ -41,11 +41,11 @@ Bạn có thể xem các phân loại màu sắc, kích cở phân loại bán c
 * Top thương hiệu bán chạy
 * Top các khoảng giá bán chạy (từ 10k-100k, trên 100k, trên 500k)
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
