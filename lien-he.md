@@ -25,7 +25,7 @@ layout:
 
 # 📞 Liên hệ
 
-* **Nhắn tin Facebook** [https://www.facebook.com/toolautoshopee](https://www.facebook.com/toolautoshopee/)[ ](https://m.me/toolautoshopee)
+* **Nhắn tin Facebook** [https://www.facebook.com/autoshopee.com.vn](https://www.facebook.com/autoshopee.com.vn)
 * **Nhắn tin Zalo** [https://zalo.me/2141564390855067259](https://zalo.me/2141564390855067259)
 
 <figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
