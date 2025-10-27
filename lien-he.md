@@ -34,4 +34,6 @@ layout:
 * **Email** autoshopeevn@gmail.com
 * **Youtube** [https://www.youtube.com/autoshopee](https://www.youtube.com/autoshopee)
 * **Blog** [https://blog.autoshopee.com](https://blog.autoshopee.com/)
+* **Giới thiệu** [https://www.autoshopee.com.vn](https://www.autoshopee.com.vn/)
+* **Tiktok** [https://www.tiktok.com/@autoshopee.com](https://www.tiktok.com/@autoshopee.com)
 * **Cổng gia hạn/mua dịch vụ Online** [https://payment.autoshopee.com](https://payment.autoshopee.com/#/)
