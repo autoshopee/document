@@ -19,12 +19,11 @@ layout:
 
 ***
 
-## 1) Chương trình siêu ưu đãi tháng 10
+🚀 Dịch Vụ Tăng Follow Shopee Uy Tín
 
-Từ ngày 01/10/2025 đến ngày 31/10/2025
-
-<figure><img src=".gitbook/assets/banner final.png" alt=""><figcaption></figcaption></figure>
-
-## 2) Dịch vụ Buff Follow Shopee
+✅ Shop uy tín hơn, dễ tạo niềm tin\
+✅ Dễ lên đề xuất – tăng tỷ lệ hiển thị sản phẩm\
+✅ Tăng lượng khách hàng tiềm năng theo dõi\
+✅ Hỗ trợ tăng độ mạnh thương hiệu – dễ viral
 
 <figure><img src=".gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
