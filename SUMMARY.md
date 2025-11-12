@@ -84,7 +84,7 @@
   * [Lazada](autoshopee/sao-chep-da-san/lazada/README.md)
     * [Shopee => Lazada](autoshopee/sao-chep-da-san/lazada/shopee-to-lazada.md)
     * [Lazada => Lazada](autoshopee/sao-chep-da-san/lazada/lazada-to-lazada.md)
-  * [🎩 SKU và Cân nặng](autoshopee/sao-chep-da-san/sku-va-can-nang.md)
+  * [🎩 Đồng bộ dữ liệu sản phẩm](autoshopee/sao-chep-da-san/dong-bo-du-lieu-san-pham.md)
 * [🔔 Thông báo đơn hàng](autoshopee/thong-bao-don-hang/README.md)
   * [Facebook](autoshopee/thong-bao-don-hang/thong-bao-facebook.md)
   * [Telegram](autoshopee/thong-bao-don-hang/thong-bao-telegram.md)

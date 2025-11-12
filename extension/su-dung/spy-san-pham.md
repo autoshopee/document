@@ -26,7 +26,7 @@ Spy (Soi) là một trong những bước quan trọng giúp bạn nghiên cưu 
 
 Xem các thông tin từ khóa đang chạy, giá thầu chạy Ads
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2) Spy phân loại bán chạy của từng sản phẩm
 

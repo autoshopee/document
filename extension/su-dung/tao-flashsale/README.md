@@ -20,7 +20,7 @@ layout:
 
 # 🥂 Tạo FlashSale
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sử dụng Extension</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sử dụng Extension</p></figcaption></figure>
 
 ## 1) Video hướng dẫn
 

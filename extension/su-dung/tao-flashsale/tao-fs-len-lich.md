@@ -50,7 +50,7 @@ Nếu tôi không muốn tạo FS lên lịch mà muốn tạo trực tiếp th�
 
 Để thuận tiện tôi sẽ sao chép từ một FlashSale khác
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ở bước này chọn "Tạo Flashsale lên lịch". ở đây bạn có thể chon
 
@@ -60,7 +60,7 @@ Vi dụ nếu Flashsale Shopee chạy khung giờ 20h:00 ngày 15-09-2025 ⇒ N�
 
 
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tơi đây thì chọn khung giờ chạy Flashsale như bình thường
 

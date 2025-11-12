@@ -60,8 +60,8 @@ Nếu kết quả hiện thị như thế này là đã thành công
 
 ## 2.1) Tạo kho sản phẩm
 
-{% content-ref url="../sku-va-can-nang.md" %}
-[sku-va-can-nang.md](../sku-va-can-nang.md)
+{% content-ref url="../dong-bo-du-lieu-san-pham.md" %}
+[dong-bo-du-lieu-san-pham.md](../dong-bo-du-lieu-san-pham.md)
 {% endcontent-ref %}
 
 Kho sản phẩm lưu danh sách bộ sưu tập các sản phẩm bạn muốn đăng (thường là danh sách sản phẩm của một Shop)
