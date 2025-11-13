@@ -49,7 +49,7 @@ layout:
 
 ## 2) Cập nhật lên hệ thống
 
-Truy cập vào link sau => [https://autoshopee.com/shopee/product/update](https://autoshopee.com/shopee/product/update)
+Truy cập vào link sau => [https://autoshopee.com/public/shopee/productSync](https://autoshopee.com/public/shopee/productSync)
 
 Dán link Shop gốc vào của bạn vào
 
