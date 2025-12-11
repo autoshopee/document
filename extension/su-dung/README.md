@@ -8,10 +8,6 @@ description: Hướng dẫn các chức năng của Extension trên Shopee
 Bạn cần xem cài đặt Extension trước nhé
 {% endhint %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ![Vào Trang sản phẩm Shopee => Mở Extension => ở gốc phải trình duyệt](<../../.gitbook/assets/image (47).png>)
 
 {% content-ref url="sao-chep-san-pham/" %}

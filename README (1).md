@@ -57,8 +57,8 @@ Bạn dễ dàng đồng sản phẩm từ Shopee sang các sàn **Lazada** ho�
 [shopee-to-lazada.md](autoshopee/sao-chep-da-san/lazada/shopee-to-lazada.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MgW6KY4TbporbPoLG5t" %}
+[Broken link](/broken/pages/-MgW6KY4TbporbPoLG5t)
 {% endcontent-ref %}
 
 {% content-ref url="shopmanager/san-pham/sao-chep-and-nhan-ban.md" %}
@@ -99,8 +99,8 @@ Bạn có thể sử dụng **Subcheo** để tăng tương tác lượt View ch
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MgVt4_50oI0E0S01Yyq" %}
+[Broken link](/broken/pages/-MgVt4_50oI0E0S01Yyq)
 {% endcontent-ref %}
 
 ## 6) Siêu công cụ Extension cho trình duyệt
@@ -111,8 +111,8 @@ Tạo Flashsale, quét đánh giá sản phẩm
 
 ![](<.gitbook/assets/image (322).png>)
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MgVt66Cf8PBhV2ts-tu" %}
+[Broken link](/broken/pages/-MgVt66Cf8PBhV2ts-tu)
 {% endcontent-ref %}
 
 ## \*) Mua - **G**ia hạn phần mềm

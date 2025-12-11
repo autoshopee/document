@@ -14,6 +14,6 @@ description: Công cụ hỗ trợ sao chép, cập nhật sản phẩm trên Sh
 [cap-nhat-khung.md](cap-nhat-khung.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MgW72hoyvW23Be_lpl1" %}
+[Broken link](/broken/pages/-MgW72hoyvW23Be_lpl1)
 {% endcontent-ref %}

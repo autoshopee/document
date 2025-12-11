@@ -14,8 +14,8 @@ Quý khách có thể mua tài khoản phụ từ một số bên dịch
 
 Hiện Shopee đã không cho các Shop tự tăt OTP, nên bạn cần lấy mã SPC\_F để tránh việc hỏi OTP
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MgVt66D9t6tltA61_iw" %}
+[Broken link](/broken/pages/-MgVt66D9t6tltA61_iw)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>

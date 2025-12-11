@@ -57,6 +57,7 @@
   * [Chrome / Coc Coc](extension/cai-dat/chrome.md)
   * [FireFox](extension/cai-dat/cai-dat-1.md)
 * [👉 Shopee](extension/su-dung/README.md)
+  * [☂️ Gửi tin nhắn Marketing](extension/su-dung/gui-tin-nhan-marketing.md)
   * [🔎 Spy sản phẩm](extension/su-dung/spy-san-pham.md)
   * [🥂 Tạo FlashSale](extension/su-dung/tao-flashsale/README.md)
     * [Sao chép từ FS cũ](extension/su-dung/tao-flashsale/sao-chep-tu-fs-cu.md)
