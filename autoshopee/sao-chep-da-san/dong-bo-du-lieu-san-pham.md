@@ -53,15 +53,15 @@ Truy cập vào link sau => [https://autoshopee.com/public/shopee/productSync](h
 
 Dán link Shop gốc vào của bạn vào
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Tải lên 2 file "Thông tin vận chuyển" và "Thông tin báng hàng" bạn vừa tải ở bước 1
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Kết quả hiển thị như thế này là thành công
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Nhập sản phẩm vào Kho
 

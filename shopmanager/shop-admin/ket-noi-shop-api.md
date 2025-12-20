@@ -26,7 +26,7 @@ layout:
 
 Bấm vào nút "Mở kết nối Api Shop"
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lúc này phần mêm sẽ mở trình duyệt tương ứng với tài khoản Autoshopee của bạn.
 
