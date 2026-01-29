@@ -57,7 +57,7 @@ Dán link Shop gốc vào của bạn vào
 
 Tải lên 2 file "Thông tin vận chuyển" và "Thông tin báng hàng" bạn vừa tải ở bước 1
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Kết quả hiển thị như thế này là thành công
 

@@ -97,7 +97,7 @@ Chăm sóc khách hàng tự động sau bán hàng, nhắc nhở khách đánh 
 
 Bạn có thể sử dụng **Subcheo** để tăng tương tác lượt View cho Shop
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="/broken/pages/-MgVt4_50oI0E0S01Yyq" %}
 [Broken link](/broken/pages/-MgVt4_50oI0E0S01Yyq)

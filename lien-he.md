@@ -25,7 +25,7 @@ layout:
 
 # 📞 Liên hệ
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### 📌 Kênh liên hệ & hỗ trợ
 
@@ -50,9 +50,9 @@ layout:
 
 ### Ngân hàng
 
-Vietcombank - Ngân hàng TMCP Ngoại thương\
+Ngân hàng **Vietcombank** - Ngân hàng TMCP Ngoại thương\
 STK: **1063675203**\
-Chủ tài khoản: Công ty cổ phần tập đoàn MediaSof
+Chủ tài khoản: **Công ty cổ phần tập đoàn MediaSoft**
 
 <figure><img src=".gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 

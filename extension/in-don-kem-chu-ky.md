@@ -12,7 +12,7 @@ description: Thêm chữ ký khi in đơn hàng
 
 Mở menu cấu hình bằng Icon gốc phản màn hình để
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Đây là trang cấu hình
 

@@ -12,7 +12,7 @@ WebAdmin chỉ hoạt động khi bạn đang mở phần mềm ShopManager
 
 ## 2) Mở Url
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3) Lưu lại Bookmark
 
