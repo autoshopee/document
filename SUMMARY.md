@@ -1,9 +1,10 @@
 # Table of contents
 
 * [🏠 Trang chủ](README.md)
-* [💡 Giới thiệu](<README (1).md>)
+* [⭐ Giới thiệu](https://tinhnang.autoshopee.com/)
 * [💰 Bảng giá](https://autoshopee.com/bang-gia)
 * [📞 Liên hệ](lien-he.md)
+* [💡 Giới thiệu](<README (1).md>)
 
 ## 📗 Shop Manager (\*) <a href="#shopmanager" id="shopmanager"></a>
 
