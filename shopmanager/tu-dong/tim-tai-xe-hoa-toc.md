@@ -1,19 +1,5 @@
 ---
 description: Tính năng tự động giúp shop xử lý đơn hàng hỏa tốc tự động
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🔥 Tìm tài xế hỏa tốc

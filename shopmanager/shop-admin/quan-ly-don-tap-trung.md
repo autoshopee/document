@@ -1,20 +1,3 @@
----
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 🖨️ Quản lý đơn tập trung
 
 > Bạn cần liên kết các Shop qua ShopApi để bắt đầu sử dụng tính năng này

@@ -2,20 +2,6 @@
 description: >-
   Áp dụng khi bạn muốn cập nhật khung mới cho sản phẩm đã đăng trên Shopee. Giúp
   tăng sự thu hút của sản phẩm của bạn với người mua
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Cập nhật khung

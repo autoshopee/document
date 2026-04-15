@@ -1,19 +1,5 @@
 ---
 icon: chrome
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Chrome / Coc Coc
@@ -22,7 +8,7 @@ layout:
 
 > **Tải ở đây** [https://chromewebstore.google.com/detail/autoshopee-kit/cenipjndcfljmplhjhcnfajnkmbjmppi](https://chromewebstore.google.com/detail/autoshopee-kit/cenipjndcfljmplhjhcnfajnkmbjmppi)
 
-![Chọn Autoshopee](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![Chọn Autoshopee](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![Thêm vào Chrome](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 

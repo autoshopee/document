@@ -1,19 +1,5 @@
 ---
 description: Công cụ giúp bạn chuyên dữ liệu Shop từ máy này sang máy khác
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Chuyển Shop

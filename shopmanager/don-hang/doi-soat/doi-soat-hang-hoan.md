@@ -1,19 +1,5 @@
 ---
 description: Công cụ giúp bạn đối soát và theo dõi các đơn hàng hoàn đã thực sự về kho chưa
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Đối soát hàng hoàn

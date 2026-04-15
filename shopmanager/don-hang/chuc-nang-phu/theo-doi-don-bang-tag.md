@@ -1,19 +1,5 @@
 ---
 description: Sử dụng thẻ Tag để đánh dấu và lọc đơn hàng
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Thẻ Tag

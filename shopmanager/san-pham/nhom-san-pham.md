@@ -2,20 +2,6 @@
 description: >-
   Nhóm sản phẩm giúp bạn dễ dàng quản lý và chính sửa sản phẩm trước khi sao
   chép
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 👍 Nhóm sản phẩm

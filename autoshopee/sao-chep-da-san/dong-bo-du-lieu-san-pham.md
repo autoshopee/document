@@ -2,20 +2,6 @@
 description: >-
   Hướng dẫn đồng bộ SKU, tồn kho và cân nặng thưc tế. Dữ liệu sẽ áp dụng khi sao
   chép sản phẩm từ  cho Shopee => Tiktok, Lazada
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🎩 Đồng bộ dữ liệu sản phẩm
@@ -57,7 +43,7 @@ Dán link Shop gốc vào của bạn vào
 
 Tải lên 2 file "Thông tin vận chuyển" và "Thông tin báng hàng" bạn vừa tải ở bước 1
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Kết quả hiển thị như thế này là thành công
 

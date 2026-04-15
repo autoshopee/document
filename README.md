@@ -1,21 +1,12 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 🏠 Trang chủ
+
+### ![🎉](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f389/32.png) TẶNG đến 1 NĂM + 2K Follow – Ưu đãi 30/4 chỉ có tại AutoShopee! <a href="#avwbgd-0" id="avwbgd-0"></a>
+
+<figure><img src=".gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+
+
+
+***
 
 ### 🚀 Dịch Vụ Tăng Shopee Follow  Uy Tín
 

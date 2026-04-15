@@ -3,20 +3,6 @@ description: >-
   Khi bạn sử dụng ShopManager để in đơn hàng bạn dễ dang tra cưu lại
   các File PDF đơn đã in theo ngày hoặc theo Shop. Ngoài ra phần mềm còn
   hỗ trợ tìm kiếm các thông tin
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Lịch sử In đơn
@@ -31,7 +17,7 @@ Bạn dễ dàng tra cưu lại ở Đây
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ngoài ra phần mềm còn hỗ trợ bạn lọc theo ngày In đơn, Shop In đơn, hoặc mã đơn hàng
 
