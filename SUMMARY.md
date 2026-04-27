@@ -108,13 +108,5 @@
 
 ***
 
-* [☑️ Crm360.vn](https://crm360.vn/)
 * [🎬 Youtube](https://www.youtube.com/channel/UCgWEVdjVbHY95L_5few8wsQ)
 * [🔗 Facebook](https://www.facebook.com/toolautoshopee)
-
-## 📘 Subcheo
-
-* [👉 Sử dụng](subcheo/su-dung/README.md)
-  * [Giới thiệu](subcheo/cai-dat.md)
-  * [Thêm tài khoản chính](subcheo/su-dung/them-tai-khoan-chinh.md)
-  * [Thêm tài khoản phụ](subcheo/su-dung/them-tai-khoan-phu.md)
