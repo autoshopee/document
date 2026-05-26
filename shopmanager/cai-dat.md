@@ -8,21 +8,15 @@ coverY: 0
 
 # ⚙️ Cài đặt
 
-## 1) Cài đặt
-
-{% hint style="success" %}
-* **Windows 64** [https://autoshopee.com/shopmanager/download/windows](https://autoshopee.com/shopmanager/download/windows) (Win 10,11)
-* **Windows 32** [https://autoshopee.com/shopmanager/download/win32](https://autoshopee.com/shopmanager/download/win32) (Win 7 32bit)
 
 
-
-* **MacOs Intel** [https://autoshopee.com/shopmanager/download/macos](https://autoshopee.com/shopmanager/download/macos)
-* **MacOs M1** [https://autoshopee.com/shopmanager/download/m1](https://autoshopee.com/shopmanager/download/m1)
+{% hint style="success" icon="globe" %}
+Tải ShopManager [https://shop-manager-app.autoshopee.com](https://shop-manager-app.autoshopee.com/) (Windows 10 11, MacOs M1 M2 M3 M4)
 {% endhint %}
 
-### A) Windows
+<figure><img src="../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
 
-![Chọn Windows](<../.gitbook/assets/image (141).png>)
+### A) Windows
 
 ![Tải file về](<../.gitbook/assets/image (142).png>)
 
@@ -41,11 +35,3 @@ coverY: 0
 {% embed url="https://youtu.be/hiu6t_v1PYE" %}
 Hướng dẫn cài đặt
 {% endembed %}
-
-## 2) Sử dụng
-
-{% hint style="warning" %}
-ShopManager sử dụng tài khoản AutoShopee (gói Pro hoặc Unlimited) để đăng nhập
-{% endhint %}
-
-![Sử dụnng tài khoản AutoShopee để đăng nhập](<../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
