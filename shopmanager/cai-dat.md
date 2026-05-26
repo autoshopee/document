@@ -2,6 +2,7 @@
 description: >-
   ShopManager là phân mềm hỗ trợ quản lý nhiều Shop (Shopee, Tiki, Sendo,
   Lazada), hỗ trợ Windows & MacOs. Trước tiên bạn cần cài đặt trước.
+hidden: true
 cover: ../.gitbook/assets/smartmockups_kze3fmv0.jpg
 coverY: 0
 ---

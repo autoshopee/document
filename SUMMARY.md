@@ -8,6 +8,7 @@
 
 ## 📗 Shop Manager (\*) <a href="#shopmanager" id="shopmanager"></a>
 
+* [🧩 Cài đặt (Windows MacOS)](https://shop-manager-app.autoshopee.com/)
 * [⚙️ Cài đặt](shopmanager/cai-dat.md)
 * [🖥️ Quản lý](shopmanager/quan-ly/README.md)
   * [Thêm Shop](shopmanager/quan-ly/them-shop.md)
