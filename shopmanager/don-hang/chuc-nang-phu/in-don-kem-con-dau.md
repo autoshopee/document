@@ -1,10 +1,32 @@
 ---
 description: Công cụ giúp bạn thêm các nội dung bổ sung khi in đơn
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # In đơn kèm con dấu
 
 Đối vơi một số bạn bán sản phẩm nhạy cảm, hoặc bạn muốn lưu ý một thông tin nào đó trên đơn hàng một cách tự động
+
+
+
+{% embed url="https://youtu.be/RBsrtKfX7CQ" %}
 
 {% embed url="https://youtu.be/p8jO0y9aVqo" %}
 
