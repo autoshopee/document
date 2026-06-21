@@ -5,7 +5,7 @@ description: >-
 hidden: true
 ---
 
-# Gửi tin nhắn Remarketing
+# 🛸 Gửi tin nhắn
 
 {% hint style="warning" %}
 Tính năng này chỉ áp dụng với gói Unlimited (500k/Tháng)

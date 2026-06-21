@@ -2,6 +2,24 @@
 description: >-
   Công cụ giúp bạn dễ dàng tạo hạng loạt chương trình FlashSale cho nhiều khung
   giờ khác nhau theo một kịch bản sản phẩm
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🥂 Tạo FlashSale
@@ -9,8 +27,6 @@ description: >-
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Sử dụng Extension</p></figcaption></figure>
 
 ## 1) Video hướng dẫn
-
-{% embed url="https://www.youtube.com/watch?v=PM79xsQ2Rx8" %}
 
 
 
