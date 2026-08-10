@@ -4,6 +4,28 @@ description: >-
   thứ 2 - thứ 6, trừ các ngày lễ
 cover: .gitbook/assets/contact-header-mobile.png
 coverY: 77.31694468832309
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 📞 Liên hệ

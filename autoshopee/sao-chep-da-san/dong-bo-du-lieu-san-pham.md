@@ -2,6 +2,24 @@
 description: >-
   Hướng dẫn đồng bộ SKU, tồn kho và cân nặng thưc tế. Dữ liệu sẽ áp dụng khi sao
   chép sản phẩm từ  cho Shopee => Tiktok, Lazada
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🎩 Đồng bộ dữ liệu sản phẩm

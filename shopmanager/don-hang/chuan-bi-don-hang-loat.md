@@ -1,5 +1,23 @@
 ---
 description: Chuẩn bị các đơn hàng hàng loạt nhiều Shop cùng một lúc
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Chuẩn bị đơn hàng loạt

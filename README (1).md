@@ -3,6 +3,28 @@ description: Kênh hỗ trợ AutoShopee & Subcheo & ShopManager.
 hidden: true
 cover: .gitbook/assets/smartmockups_kze332nr.jpg
 coverY: 56.38766519823788
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 💡 Giới thiệu
@@ -95,8 +117,8 @@ Tạo Flashsale, quét đánh giá sản phẩm
 
 ![](<.gitbook/assets/image (322).png>)
 
-{% content-ref url="/broken/pages/-MgVt66Cf8PBhV2ts-tu" %}
-[Broken link](/broken/pages/-MgVt66Cf8PBhV2ts-tu)
+{% content-ref url="https://app.gitbook.com/s/-MgV0FZZTwTQwlMCjc86/extension" %}
+[Extension](https://app.gitbook.com/s/-MgV0FZZTwTQwlMCjc86/extension)
 {% endcontent-ref %}
 
 ## \*) Mua - **G**ia hạn phần mềm

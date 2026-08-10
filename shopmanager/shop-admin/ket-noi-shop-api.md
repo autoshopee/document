@@ -2,6 +2,24 @@
 description: >-
   Kết nối Shop bằng Api chính thức của sàn cung cấp cho AutoShopee & ShopManager
   để quản lý Shop
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # ☑️ Kết nối Shop Api

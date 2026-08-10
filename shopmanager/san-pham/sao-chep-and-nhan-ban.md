@@ -2,6 +2,24 @@
 description: >-
   Sao chép và nhân bản một Shop bất kì sang nhiều Shop khác (Chỉ áp dụng cho sàn
   Shopee)
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 👍 Sao chép & nhân bản

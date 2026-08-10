@@ -1,5 +1,23 @@
 ---
 description: Hướng dẫn sao chép Video sản phẩm này sang sản phẩm khác
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🎮 Sao chép Video

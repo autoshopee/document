@@ -2,6 +2,24 @@
 description: >-
   Bạn cũng có thể tuỳ chỉnh thêm một số tính năng phụ để dễ sử dụng hơn (tuy
   nhiên việc này không bắc buộc nhé)
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Tuỳ chỉnh thêm

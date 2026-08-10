@@ -1,5 +1,23 @@
 ---
 description: Thêm Shop (Shopee Tiki Sendo Lazada) muốn quản lý vào phần mềm
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Thêm Shop

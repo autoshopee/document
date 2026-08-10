@@ -3,6 +3,24 @@ description: >-
   Đối soát đơn khi đã giao Shopee đã chuyển tiền về ví chưa, và đối soát sai
   lệch
 hidden: true
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Đối soát về ví

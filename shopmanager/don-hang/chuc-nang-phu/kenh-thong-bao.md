@@ -1,5 +1,23 @@
 ---
 description: Thông báo đơn hàng qua các kênh chat như Facebook Telegram
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Kênh thông báo

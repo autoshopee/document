@@ -2,6 +2,24 @@
 description: >-
   Bạn muốn chuyển dữ liệu từ máy A sang máy B. Để tránh việc đăng nhập lại từ
   đầu
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Chuyển toàn bộ
