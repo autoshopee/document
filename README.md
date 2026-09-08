@@ -36,12 +36,6 @@ Bán 5 shop thì mở 5 trình duyệt, 5 lần đăng nhập, 5 lần bị hỏ
 | **ScanQr** | Quét mã bằng điện thoại, dữ liệu nhảy lên máy tính. Kiểm đơn trước khi đóng gói |
 | **AutoShopee Seller** | Tính giá bán, phí sàn, điểm hoà vốn |
 
-Chọn mục ở thanh bên trái để xem hướng dẫn từng phần.
-
-{% hint style="info" %}
-Tài khoản đăng ký ở [autoshopee.com/auth/register](https://autoshopee.com/auth/register), dùng thử 3 ngày không khoá tính năng nào. Xem giá tại [autoshopee.com](https://autoshopee.com).
-{% endhint %}
-
 ***
 
 ## Cần người hỗ trợ
