@@ -24,7 +24,7 @@ layout:
 
 # 🏠 Trang chủ
 
-<figure><img src=".gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/shop_manager.jpg" alt="Shop Manager — quản lý nhiều shop Shopee, TikTok Shop, Lazada trên một màn hình"><figcaption><p>Shop Manager — tất cả shop của bạn trên cùng một màn hình</p></figcaption></figure>
 
 ## AutoShopee là gì?
 
@@ -39,6 +39,22 @@ Sản phẩm của **Công ty Cổ phần Tập đoàn MediaSoft**, hoạt độ
 {% hint style="info" %}
 Đây là **trang hướng dẫn sử dụng**. Nếu bạn đang tìm thông tin sản phẩm và bảng giá, xem [autoshopee.com](https://autoshopee.com) — còn đăng ký tài khoản tại [autoshopee.com/auth/register](https://autoshopee.com/auth/register) (dùng thử miễn phí 3 ngày, đầy đủ tính năng).
 {% endhint %}
+
+***
+
+## 🧰 Hệ sinh thái AutoShopee có gì?
+
+Năm công cụ, dùng chung **một tài khoản AutoShopee** — dùng riêng lẻ hay kết hợp đều được.
+
+| Công cụ | Dùng để làm gì | Nền tảng |
+| --- | --- | --- |
+| 📗 **Shop Manager** | Phần mềm máy tính: gộp nhiều shop một màn hình, xử lý và in vận đơn hàng loạt, chat tập trung, đối soát, phân tích doanh thu | Windows · macOS — [tải về](https://shop-manager-app.autoshopee.com/) |
+| 📒 **AutoShopee Kit** | Tiện ích trình duyệt: sao chép sản phẩm 1 click, tải ảnh và video không watermark, tạo Flash Sale, spy đối thủ, tải đánh giá | Chrome · Cốc Cốc · Edge · Brave · Firefox — [cài đặt](extension/cai-dat/) |
+| 📙 **AutoShopee Web** | Sao chép sản phẩm hàng loạt Shopee sang TikTok Shop và Lazada, đồng bộ dữ liệu, thông báo đơn hàng | Trình duyệt — [autoshopee.com](https://autoshopee.com) |
+| 📱 **ScanQr** | Biến điện thoại thành máy quét QR, dữ liệu hiện ngay trên máy tính — kiểm đúng đơn trước khi đóng gói | Miễn phí, không cần cài đặt |
+| 📊 **AutoShopee Seller** | Bộ 8 công cụ tính giá bán, phí sàn, điểm hoà vốn, tạo khung ảnh sản phẩm và đối soát doanh thu | Miễn phí, chạy trên trình duyệt |
+
+<figure><img src=".gitbook/assets/smartmockups_kze3g5os.jpg" alt="Quản lý đơn hàng nhiều sàn Shopee, Lazada, Sendo, Tiki trong Shop Manager"><figcaption><p>Đơn hàng của mọi shop, mọi sàn — gom về một danh sách</p></figcaption></figure>
 
 ***
 
@@ -69,6 +85,8 @@ Toàn bộ lộ trình mất khoảng **30–60 phút**, từ lúc đăng ký đ
 ### 📗 Shop Manager — phần mềm trên máy tính
 
 Trung tâm điều khiển đa shop, đa sàn cho Windows và macOS: gộp nhiều shop trên một màn hình, xử lý và in vận đơn hàng loạt, chat tập trung, đối soát, phân tích doanh thu theo thời gian thực.
+
+<figure><img src=".gitbook/assets/Untitled-1.jpg" alt="Chat tập trung nhiều shop nhiều sàn trong Shop Manager"><figcaption><p>Chat tập trung — trả lời khách của mọi shop trong một cửa sổ</p></figcaption></figure>
 
 {% content-ref url="shopmanager/quan-ly/" %}
 [quan-ly](shopmanager/quan-ly/)
@@ -145,6 +163,8 @@ Các lỗi thường gặp nhất: Shopee bắt OTP hoặc Captcha, thêm shop k
 * 📞 **Hotline**: 0904.628.850 – 0907.298.768
 * 💬 **Zalo**: [zalo.me/2141564390855067259](https://zalo.me/2141564390855067259)
 * 📧 **Email**: autoshopeevn@gmail.com
+
+<figure><img src=".gitbook/assets/image (380).png" alt="Zalo Official Account AutoShopee"><figcaption><p>Quét mã QR để chat với AutoShopee trên Zalo</p></figcaption></figure>
 
 {% content-ref url="lien-he.md" %}
 [lien-he.md](lien-he.md)
