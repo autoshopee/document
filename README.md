@@ -21,3 +21,4 @@ layout:
 
 # 🏠 Trang chủ
 
+<figure><img src=".gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
