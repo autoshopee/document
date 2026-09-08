@@ -1,7 +1,7 @@
 ---
 description: >-
-  Tài liệu hướng dẫn sử dụng AutoShopee — Shop Manager, AutoShopee Kit và các
-  công cụ quản lý bán hàng đa sàn Shopee, TikTok Shop, Lazada
+  Hướng dẫn dùng AutoShopee cho người bán Shopee, TikTok Shop và Lazada: Shop
+  Manager, extension AutoShopee Kit và các công cụ đi kèm
 layout:
   width: default
   title:
@@ -24,69 +24,45 @@ layout:
 
 # 🏠 Trang chủ
 
-<figure><img src=".gitbook/assets/shop_manager.jpg" alt="Shop Manager — quản lý nhiều shop Shopee, TikTok Shop, Lazada trên một màn hình"><figcaption><p>Shop Manager — tất cả shop của bạn trên cùng một màn hình</p></figcaption></figure>
+<figure><img src=".gitbook/assets/shop_manager.jpg" alt="Shop Manager quản lý nhiều shop Shopee, TikTok Shop, Lazada trên một màn hình"><figcaption><p>Tất cả shop của bạn, một cửa sổ</p></figcaption></figure>
 
-## AutoShopee là gì?
+Bán 5 shop thì mở 5 trình duyệt, 5 lần đăng nhập, 5 lần bị hỏi OTP. Đến lúc in đơn thì tải từng file PDF một. Mất cả buổi sáng.
 
-**AutoShopee** là giải pháp **All-In-One** giúp người bán quản lý nhiều shop trên nhiều sàn thương mại điện tử — **Shopee · TikTok Shop · Lazada** — chỉ trong một nền tảng. Một màn hình cho tất cả shop: đơn hàng, tin nhắn, sản phẩm, doanh thu, Flash Sale và marketing.
+AutoShopee sinh ra để bạn khỏi phải làm vậy nữa.
 
-Sản phẩm của **Công ty Cổ phần Tập đoàn MediaSoft**, hoạt động từ năm 2018 và là **Đối tác chính thức của Shopee Open Platform** (Partner ID 2012256, danh mục ERP System).
+Gom Shopee, TikTok Shop và Lazada về cùng một chỗ: đơn hàng, tin nhắn, sản phẩm, doanh thu, Flash Sale.
 
-| 100.000+ | 500M+ | 10M+ | 8+ |
-| :-: | :-: | :-: | :-: |
-| Seller đang dùng | Đơn hàng đã xử lý | Sản phẩm đã xử lý | Năm hoạt động |
+Phần mềm của Công ty Cổ phần Tập đoàn MediaSoft, chạy từ năm 2018. Tới nay hơn 100.000 seller dùng, đã xử lý hơn 500 triệu đơn và 10 triệu sản phẩm. AutoShopee cũng đăng ký đối tác chính thức với Shopee Open Platform, Partner ID 2012256, danh mục ERP System, nên bạn không phải lo chuyện Shopee siết kết nối.
 
 {% hint style="info" %}
-Đây là **trang hướng dẫn sử dụng**. Nếu bạn đang tìm thông tin sản phẩm và bảng giá, xem [autoshopee.com](https://autoshopee.com) — còn đăng ký tài khoản tại [autoshopee.com/auth/register](https://autoshopee.com/auth/register) (dùng thử miễn phí 3 ngày, đầy đủ tính năng).
+Đây là trang hướng dẫn dùng phần mềm. Muốn xem tính năng và giá thì sang [autoshopee.com](https://autoshopee.com), còn tài khoản đăng ký ở [autoshopee.com/auth/register](https://autoshopee.com/auth/register), dùng thử 3 ngày không khoá tính năng nào.
 {% endhint %}
 
 ***
 
-## 🧰 Hệ sinh thái AutoShopee có gì?
+## Bộ công cụ gồm những gì
 
-Năm công cụ, dùng chung **một tài khoản AutoShopee** — dùng riêng lẻ hay kết hợp đều được.
+Năm thứ, chung một tài khoản. Xài lẻ được, ghép lại càng đỡ việc.
 
-| Công cụ | Dùng để làm gì | Nền tảng |
+| Công cụ | Làm được gì | Chạy ở đâu |
 | --- | --- | --- |
-| 📗 **Shop Manager** | Phần mềm máy tính: gộp nhiều shop một màn hình, xử lý và in vận đơn hàng loạt, chat tập trung, đối soát, phân tích doanh thu | Windows · macOS — [tải về](https://shop-manager-app.autoshopee.com/) |
-| 📒 **AutoShopee Kit** | Tiện ích trình duyệt: sao chép sản phẩm 1 click, tải ảnh và video không watermark, tạo Flash Sale, spy đối thủ, tải đánh giá | Chrome · Cốc Cốc · Edge · Brave · Firefox — [cài đặt](extension/cai-dat/) |
-| 📙 **AutoShopee Web** | Sao chép sản phẩm hàng loạt Shopee sang TikTok Shop và Lazada, đồng bộ dữ liệu, thông báo đơn hàng | Trình duyệt — [autoshopee.com](https://autoshopee.com) |
-| 📱 **ScanQr** | Biến điện thoại thành máy quét QR, dữ liệu hiện ngay trên máy tính — kiểm đúng đơn trước khi đóng gói | Miễn phí, không cần cài đặt |
-| 📊 **AutoShopee Seller** | Bộ 8 công cụ tính giá bán, phí sàn, điểm hoà vốn, tạo khung ảnh sản phẩm và đối soát doanh thu | Miễn phí, chạy trên trình duyệt |
+| **Shop Manager** | Cái xương sống. Nhiều shop một màn hình, chuẩn bị và in vận đơn hàng loạt, chat tập trung, đối soát tiền về ví, xem doanh thu ngay lúc đang bán | Windows, macOS. [Tải về](https://shop-manager-app.autoshopee.com/) |
+| **AutoShopee Kit** | Extension cắm thẳng vào trang Shopee, TikTok Shop, Lazada. Sao chép sản phẩm một click, tải ảnh và video sạch watermark, đặt Flash Sale, xem doanh thu shop đối thủ, kéo đánh giá về | Chrome, Cốc Cốc, Edge, Brave, Firefox. Miễn phí, không cần đăng nhập vẫn dùng được phần cơ bản. [Cài đặt](extension/cai-dat/) |
+| **AutoShopee Web** | Sao chép cả kho hàng Shopee sang TikTok Shop và Lazada, không phải làm từng sản phẩm | Trình duyệt, [autoshopee.com](https://autoshopee.com) |
+| **ScanQr** | Biến điện thoại nhân viên thành máy quét mã. Quét trên điện thoại, dữ liệu nhảy ngay trên màn hình máy tính. Đóng gói xong soi lại là biết có sót đơn nào không | Miễn phí, mở trình duyệt là chạy |
+| **AutoShopee Seller** | 8 công cụ tính giá bán, phí sàn, điểm hoà vốn và tạo khung ảnh sản phẩm | Miễn phí |
 
-<figure><img src=".gitbook/assets/smartmockups_kze3g5os.jpg" alt="Quản lý đơn hàng nhiều sàn Shopee, Lazada, Sendo, Tiki trong Shop Manager"><figcaption><p>Đơn hàng của mọi shop, mọi sàn — gom về một danh sách</p></figcaption></figure>
-
-***
-
-## 🚀 Người mới bắt đầu từ đâu?
-
-Toàn bộ lộ trình mất khoảng **30–60 phút**, từ lúc đăng ký đến khi chạy được Flash Sale đầu tiên.
-
-| # | Việc cần làm | Hướng dẫn |
-| :-: | --- | --- |
-| 1 | Đăng ký tài khoản AutoShopee | [autoshopee.com/auth/register](https://autoshopee.com/auth/register) |
-| 2 | Chọn gói và thanh toán | [Bảng giá](https://autoshopee.com/bang-gia) · [Cổng thanh toán](https://payment.autoshopee.com) |
-| 3 | Tải và cài Shop Manager | [shop-manager-app.autoshopee.com](https://shop-manager-app.autoshopee.com/) |
-| 4 | Cài Extension AutoShopee Kit | [Hướng dẫn cài đặt](extension/cai-dat/) |
-| 5 | Tắt OTP Shopee (lấy mã SPC\_F) | [Tắt OTP](xu-ly-loi/shopee/tat-otp.md) |
-| 6 | Thêm shop đầu tiên vào phần mềm | [Thêm Shop](shopmanager/quan-ly/them-shop.md) |
-| 7 | Sao chép thử vài sản phẩm | [Sao chép đa sàn](autoshopee/sao-chep-da-san/) |
-| 8 | Bật thông báo đơn hàng | [Thông báo đơn hàng](autoshopee/thong-bao-don-hang/) |
-| 9 | Tạo Flash Sale đầu tiên | [Tạo FlashSale](extension/su-dung/tao-flashsale/) |
-
-{% hint style="warning" %}
-**Bước 5 là bước hay bị bỏ sót nhất.** Từ 10/06/2022 Shopee không cho shop tự tắt OTP, bạn phải lấy mã **SPC\_F** thay thế. Chưa có mã này thì bước 6 sẽ thêm shop không thành công.
-{% endhint %}
+<figure><img src=".gitbook/assets/smartmockups_kze3g5os.jpg" alt="Danh sách đơn hàng nhiều sàn trong Shop Manager"><figcaption><p>Đơn của mọi shop, mọi sàn, chung một danh sách</p></figcaption></figure>
 
 ***
 
-## 🧭 Tài liệu theo sản phẩm
+## Tra hướng dẫn theo thứ bạn đang dùng
 
-### 📗 Shop Manager — phần mềm trên máy tính
+### Shop Manager, phần mềm cài trên máy tính
 
-Trung tâm điều khiển đa shop, đa sàn cho Windows và macOS: gộp nhiều shop trên một màn hình, xử lý và in vận đơn hàng loạt, chat tập trung, đối soát, phân tích doanh thu theo thời gian thực.
+Chỗ bạn ngồi làm việc cả ngày. Thêm shop, xử lý đơn, in vận đơn hàng loạt, trả lời khách, đối soát tiền, đẩy sản phẩm và đặt Flash Sale tự động.
 
-<figure><img src=".gitbook/assets/Untitled-1.jpg" alt="Chat tập trung nhiều shop nhiều sàn trong Shop Manager"><figcaption><p>Chat tập trung — trả lời khách của mọi shop trong một cửa sổ</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Untitled-1.jpg" alt="Chat tập trung nhiều shop nhiều sàn trong Shop Manager"><figcaption><p>Khách của shop nào nhắn tới cũng hiện chung một cửa sổ</p></figcaption></figure>
 
 {% content-ref url="shopmanager/quan-ly/" %}
 [quan-ly](shopmanager/quan-ly/)
@@ -112,9 +88,9 @@ Trung tâm điều khiển đa shop, đa sàn cho Windows và macOS: gộp nhi�
 [shop-admin](shopmanager/shop-admin/)
 {% endcontent-ref %}
 
-### 📒 AutoShopee Kit — tiện ích trình duyệt
+### AutoShopee Kit, extension trên trình duyệt
 
-Chạy trực tiếp trên trang Shopee, TikTok Shop và Lazada: sao chép sản phẩm 1 click, tải ảnh và video không watermark, tạo Flash Sale hàng loạt, spy đối thủ, tải đánh giá, in đơn kèm chữ ký. Hỗ trợ Chrome, Cốc Cốc, Edge, Brave và Firefox.
+Cái này miễn phí mà nhiều người bỏ quên. Nó chạy ngay trên trang Shopee bạn đang mở, không phải bật thêm phần mềm nào.
 
 {% content-ref url="extension/cai-dat/" %}
 [cai-dat](extension/cai-dat/)
@@ -124,9 +100,9 @@ Chạy trực tiếp trên trang Shopee, TikTok Shop và Lazada: sao chép sản
 [su-dung](extension/su-dung/)
 {% endcontent-ref %}
 
-### 📙 AutoShopee — nền tảng web
+### AutoShopee Web
 
-Sao chép sản phẩm hàng loạt từ Shopee sang TikTok Shop và Lazada, đồng bộ dữ liệu sản phẩm và nhận thông báo đơn hàng qua Telegram.
+Khi cần sao chép hàng loạt chứ không phải một hai sản phẩm.
 
 {% content-ref url="autoshopee/shopee/" %}
 [shopee](autoshopee/shopee/)
@@ -142,29 +118,15 @@ Sao chép sản phẩm hàng loạt từ Shopee sang TikTok Shop và Lazada, đ�
 
 ***
 
-## ❌ Gặp lỗi khi sử dụng?
+## Cần người hỗ trợ
 
-Các lỗi thường gặp nhất: Shopee bắt OTP hoặc Captcha, thêm shop không thành công, sao chép sản phẩm bị lỗi, macOS báo "Unidentified Developer", Windows báo "Maximum call stack size".
+Đội hỗ trợ trực thứ 2 tới thứ 6, 8h sáng tới 6h chiều, trừ ngày lễ. Gọi hotline nếu đang gấp, nhắn Zalo nếu hỏi cách làm, email khi cần hoá đơn hay hợp đồng.
 
-{% content-ref url="xu-ly-loi/shopee/" %}
-[shopee](xu-ly-loi/shopee/)
-{% endcontent-ref %}
+* Hotline: 0904.628.850, 0907.298.768
+* Zalo: [zalo.me/2141564390855067259](https://zalo.me/2141564390855067259)
+* Email: autoshopeevn@gmail.com
 
-{% content-ref url="xu-ly-loi/windows-macos/" %}
-[windows-macos](xu-ly-loi/windows-macos/)
-{% endcontent-ref %}
-
-***
-
-## 📞 Cần hỗ trợ trực tiếp?
-
-Đội ngũ hỗ trợ làm việc **Thứ 2 – Thứ 6, 08:00 – 18:00** (trừ ngày lễ).
-
-* 📞 **Hotline**: 0904.628.850 – 0907.298.768
-* 💬 **Zalo**: [zalo.me/2141564390855067259](https://zalo.me/2141564390855067259)
-* 📧 **Email**: autoshopeevn@gmail.com
-
-<figure><img src=".gitbook/assets/image (380).png" alt="Zalo Official Account AutoShopee"><figcaption><p>Quét mã QR để chat với AutoShopee trên Zalo</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (380).png" alt="Zalo Official Account AutoShopee"><figcaption><p>Quét mã là chat được ngay trên Zalo</p></figcaption></figure>
 
 {% content-ref url="lien-he.md" %}
 [lien-he.md](lien-he.md)
