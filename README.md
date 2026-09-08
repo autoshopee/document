@@ -26,7 +26,7 @@ layout:
 
 Bán 5 shop thì mở 5 trình duyệt, 5 lần đăng nhập, 5 lần bị hỏi OTP. AutoShopee gom Shopee, TikTok Shop và Lazada về một chỗ: đơn hàng, tin nhắn, sản phẩm, doanh thu, Flash Sale.
 
-<figure><img src=".gitbook/assets/autoshopee-ecosystem.png" alt="Hệ sinh thái AutoShopee: Shop Manager, AutoShopee Kit, AutoShopee Web, ScanQr, AutoShopee Seller kết nối Shopee, TikTok Shop, Lazada"><figcaption><p>Năm công cụ, chung một tài khoản</p></figcaption></figure>
+<figure><img src=".gitbook/assets/autoshopee-ecosystem.png" alt="Hệ sinh thái AutoShopee: Shop Manager và AutoShopee Kit là hai công cụ chính, AutoShopee Web, AutoShopee Seller và ScanQr bổ trợ, kết nối Shopee, TikTok Shop, Lazada"><figcaption><p>Shop Manager và AutoShopee Kit là hai chân chính, ba cái còn lại bổ trợ</p></figcaption></figure>
 
 | Công cụ | Dùng khi nào |
 | --- | --- |
