@@ -4,12 +4,10 @@
 * [⭐ Giới thiệu](https://tinhnang.autoshopee.com/)
 * [💰 Bảng giá](https://autoshopee.com/bang-gia)
 * [📞 Liên hệ](lien-he.md)
-* [💡 Giới thiệu](<README (1).md>)
 
 ## 📗 Shop Manager (\*) <a href="#shopmanager" id="shopmanager"></a>
 
 * [🧩 Cài đặt (Windows MacOS)](https://shop-manager-app.autoshopee.com/)
-* [⚙️ Cài đặt](shopmanager/cai-dat.md)
 * [🖥️ Quản lý](shopmanager/quan-ly/README.md)
   * [Thêm Shop](shopmanager/quan-ly/them-shop.md)
   * [Xoá Shop](shopmanager/quan-ly/xoa-shop.md)
