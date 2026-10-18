@@ -1,0 +1,27 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  master: README.md
+  shopmanager/cai-dat: shopmanager/quan-ly/README.md
+  shopmanager/in-don: shopmanager/don-hang/in-don-hang-loat.md
+  shopmanager/day-san-pham: shopmanager/tu-dong/day-san-pham.md
+  shopmanager/cap-nhat-san-pham: shopmanager/san-pham/README.md
+  shopmanager/migrate: shopmanager/nang-cao/chuyen-du-lieu/README.md
+  shopmanager/xoa-shop: shopmanager/quan-ly/xoa-shop.md
+  shopmanager/proxy: shopmanager/nang-cao/proxy/README.md
+  shopmanager/tra-loi-danh-gia: shopmanager/tu-dong/cham-soc-and-tra-loi-tu-dong.md
+  kit/cai-dat: extension/cai-dat/README.md
+  kit/dang-nhap: extension/cai-dat/README.md
+  kit/ghim: extension/cai-dat/chrome.md
+  kit/phan-tich: extension/su-dung/spy-san-pham.md
+  kit/copy-lazada: extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md
+  kit/copy-tiktok: extension/su-dung/sao-chep-san-pham/tiktok-and-lazada.md
+  kit/sao-chep-video: extension/su-dung/sao-chep-video.md
+  kit/danh-gia: extension/su-dung/tai-danh-gia.md
+  kit/flash-sale: extension/su-dung/tao-flashsale/README.md
+  kit/tai-media: extension/su-dung/tai-anh-and-video.md
+  kit/in-don: extension/in-don-kem-chu-ky.md
