@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [🏠 Trang chủ](README.md)
 * [⭐ Giới thiệu](https://tinhnang.autoshopee.com/)
@@ -43,7 +43,7 @@
     * [Chuyển Shop](shopmanager/nang-cao/chuyen-du-lieu/chuyen-shop.md)
     * [Chuyển toàn bộ](shopmanager/nang-cao/chuyen-du-lieu/chuyen-toan-bo.md)
   * [🌐 Proxy](shopmanager/nang-cao/proxy/README.md)
-    * [Proxy hệ thống](shopmanager/nang-cao/proxy/proxy-he-thong.md)
+    * [Proxy hệ thống (proxy Shopee)](shopmanager/nang-cao/proxy/proxy-he-thong.md)
     * [Proxy Cá nhân (Private)](shopmanager/nang-cao/proxy/proxy-private.md)
   * [In đơn](shopmanager/nang-cao/in-don.md)
   * [Thiết bị đăng nhập](shopmanager/nang-cao/thiet-bi-dang-nhap.md)
@@ -55,7 +55,7 @@
 
 ## 📒 Extension
 
-* [Cài đặt](extension/cai-dat/README.md)
+* [Cài đặt AutoShopee Kit](extension/cai-dat/README.md)
   * [Chrome / Coc Coc](extension/cai-dat/chrome.md)
   * [FireFox](extension/cai-dat/cai-dat-1.md)
 * [👉 Shopee](extension/su-dung/README.md)
